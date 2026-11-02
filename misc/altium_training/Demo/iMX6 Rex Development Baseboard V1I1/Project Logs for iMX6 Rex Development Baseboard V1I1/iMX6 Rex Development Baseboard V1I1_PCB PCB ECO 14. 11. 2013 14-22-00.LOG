@@ -1,0 +1,8 @@
+Added Component: Designator=C137(C1206 - polarised)
+Added Component: Designator=C139(C1206 - polarised)
+Added Pin To Net: NetName=AUD_HP_L Pin=C137-1
+Added Pin To Net: NetName=HP_OUT_L Pin=C137-2
+Added Pin To Net: NetName=AUD_HP_R Pin=C139-1
+Added Pin To Net: NetName=HP_OUT_R Pin=C139-2
+Added Member To Class: ClassName=[11] - AUDIO1 Member=Component C137 220u, 4V
+Added Member To Class: ClassName=[11] - AUDIO1 Member=Component C139 220u, 4V

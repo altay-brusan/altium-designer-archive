@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=DIFF100 Member=NetJ24_1
+Removed Member From Class: ClassName=DIFF100 Member=NetJ24_2
+Removed Member From Class: ClassName=DIFF100 Member=NetJ24_3
+Removed Member From Class: ClassName=DIFF100 Member=NetJ24_4
+Removed Member From Class: ClassName=DIFF100 Member=NetJ24_5
+Removed Member From Class: ClassName=DIFF100 Member=NetJ24_6
+Removed Member From Class: ClassName=DIFF100 Member=NetJ24_7
+Removed Member From Class: ClassName=DIFF100 Member=NetJ24_8
+Change Net Name : Old Net Name=NetJ24_1 New Net Name=MX0_P
+Change Net Name : Old Net Name=NetJ24_2 New Net Name=MX0_N
+Change Net Name : Old Net Name=NetJ24_3 New Net Name=MX1_P
+Change Net Name : Old Net Name=NetJ24_4 New Net Name=MX2_P
+Change Net Name : Old Net Name=NetJ24_5 New Net Name=MX2_N
+Change Net Name : Old Net Name=NetJ24_6 New Net Name=MX1_N
+Change Net Name : Old Net Name=NetJ24_7 New Net Name=MX3_P
+Change Net Name : Old Net Name=NetJ24_8 New Net Name=MX3_N
+Added Class: Name=MX
+Added Differential Pair: Name=MX0
+Added Differential Pair: Name=MX1
+Added Differential Pair: Name=MX2
+Added Differential Pair: Name=MX3
+Added Member To Class: ClassName=DIFF100 Member=Wire MX0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire MX0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire MX1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire MX1_P
+Added Member To Class: ClassName=DIFF100 Member=Wire MX2_N
+Added Member To Class: ClassName=DIFF100 Member=Wire MX2_P
+Added Member To Class: ClassName=DIFF100 Member=Wire MX3_N
+Added Member To Class: ClassName=DIFF100 Member=Wire MX3_P

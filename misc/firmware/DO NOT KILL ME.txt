@@ -1,0 +1,47 @@
+
+    SI2C2IF_bit=0;
+    if(D_A_I2C2STAT_bit == 0)
+    {  
+        // Address byte is received
+       if(RBF_I2C2STAT_bit == 0)
+        {
+           TFT_Write_Text("Address Empty!" ,20 ,90);
+        }
+        else
+        {
+           TFT_Write_Text("Address:" ,20 ,100);
+           temp = I2C2RCV;     //dummy read
+           ByteToStr(temp,_str);
+           TFT_Write_Text(_str ,80,100);
+           ACKDT_I2C2CON_bit=0;
+        }
+    }
+    else
+    {
+       // Data byte is received
+       if(RBF_I2C2STAT_bit == 0)
+       {
+         TFT_Write_Text("Data Empty!" ,20 ,120);
+       }
+       else
+       {
+         TFT_Write_Text("Data In:" ,20 ,130);
+         temp = I2C2RCV;     //dummy read
+         TFT_Write_Char(temp ,70+10*_idx,130);
+         _idx++;
+       }
+
+    }
+
+    if(R_W_I2C2STAT_bit == 0)
+    {
+       TFT_Write_Text("Write" ,20 ,140);
+    }
+    else
+    {
+       TFT_Write_Text("Read" ,20 ,150);
+    }
+
+    SCLREL_I2C2CON_bit = 1;       //Release SCL2 line
+    IFS3.SI2C2IF = 0; //clear I2C2 Slave interrupt flag
+    SI2C2IF_bit=0;

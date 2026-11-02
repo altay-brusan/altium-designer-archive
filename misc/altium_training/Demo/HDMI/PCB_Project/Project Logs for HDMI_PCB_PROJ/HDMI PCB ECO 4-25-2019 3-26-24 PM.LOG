@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R26 Old Footprint=STA_RNCP0805-M New Footprint=STA_RMCF1206-M
+Change Component Description : Designator=R26 Old Description=RES SMD 100K OHM 1% 1/8W 0805 New Description=RES.(3216) 1206 100K Ohms 1% 1/4W-S 100PPM
+Change component parameters: Designator = "R26"; Footprint = "STA_RMCF1206-M"; UniqueID = "\AEMJAKXM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"

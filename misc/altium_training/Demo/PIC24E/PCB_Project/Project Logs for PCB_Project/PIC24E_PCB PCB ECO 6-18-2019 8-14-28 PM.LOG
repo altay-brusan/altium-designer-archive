@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C3 Old Footprint=C0805 New Footprint=C1206
+Change Component Footprint: Designator=C4 Old Footprint=C0805 New Footprint=C1206
+Change Component Footprint: Designator=C5 Old Footprint=C0805 New Footprint=C1206
+Change Component Footprint: Designator=C6 Old Footprint=C0805 New Footprint=C1206
+Change Component Description : Designator=C3 Old Description= MLCC (2012) 0805 22pF 50VDC ±1% C0G (NP0 New Description=MLCC (3216) 1206 22pF 50VDC ±5% C0G (NP0)
+Change Component Description : Designator=C4 Old Description= MLCC (2012) 0805 22pF 50VDC ±1% C0G (NP0 New Description=MLCC (3216) 1206 22pF 50VDC ±5% C0G (NP0)
+Change Component Description : Designator=C5 Old Description= MLCC (2012) 0805 22pF 50VDC ±1% C0G (NP0 New Description=MLCC (3216) 1206 22pF 50VDC ±5% C0G (NP0)
+Change Component Description : Designator=C6 Old Description= MLCC (2012) 0805 22pF 50VDC ±1% C0G (NP0 New Description=MLCC (3216) 1206 22pF 50VDC ±5% C0G (NP0)
+Change component parameters: Designator = "C3"; Footprint = "C1206"; UniqueID = "\DMIJLJFQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Product Name"; Value = "CL31C220JBCNNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "C1206"; UniqueID = "\NAEPGRII"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Product Name"; Value = "CL31C220JBCNNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "C1206"; UniqueID = "\WSRTTTWJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Product Name"; Value = "CL31C220JBCNNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "C1206"; UniqueID = "\EQFESDLG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Product Name"; Value = "CL31C220JBCNNNC"; VariantName = "[No Variations]"

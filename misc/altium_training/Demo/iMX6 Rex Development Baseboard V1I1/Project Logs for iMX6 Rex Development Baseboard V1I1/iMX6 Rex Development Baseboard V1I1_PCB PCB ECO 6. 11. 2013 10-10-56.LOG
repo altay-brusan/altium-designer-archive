@@ -1,0 +1,308 @@
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=C44-1
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=C45-1
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=C49-1
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=C50-1
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=C51-1
+Removed Pin From Net: NetName=+3V3 Pin=C57-1
+Removed Pin From Net: NetName=PLLFILT Pin=C106-1
+Removed Pin From Net: NetName=CRFILT Pin=C108-1
+Removed Pin From Net: NetName=+3V3 Pin=FB19-1
+Removed Pin From Net: NetName=+3V3_TS Pin=FB19-2
+Removed Pin From Net: NetName=GND Pin=J16-14
+Removed Pin From Net: NetName=+VIN Pin=J18-1
+Removed Pin From Net: NetName=RST_BTNN Pin=J33-5
+Removed Pin From Net: NetName=HDMI_SDA_CON Pin=R48-1
+Removed Pin From Net: NetName=HDMI_SCL_CON Pin=R49-1
+Removed Pin From Net: NetName=ON_OFF Pin=R113-2
+Removed Pin From Net: NetName=RST_BTNN Pin=R120-1
+Removed Pin From Net: NetName=TSC_INT Pin=U2-10
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=U5-5
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=U5-23
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=U5-26
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=U5-32
+Removed Pin From Net: NetName=+3V3 Pin=U6-7
+Removed Pin From Net: NetName=+3V3 Pin=U6-8
+Removed Pin From Net: NetName=HDMI_SDA_CON Pin=U7-21
+Removed Pin From Net: NetName=HDMI_SCL_CON Pin=U7-22
+Removed Pin From Net: NetName=RST_BTNN Pin=U21-2
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=Y1-1
+Removed Pin From Net: NetName=+1V8_AUDIO2 Pin=Y1-4
+Removed Member From Class: ClassName=[09] - USB Member=C106
+Removed Member From Class: ClassName=[09] - USB Member=C108
+Removed Member From Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=FB19
+Removed Member From Class: ClassName=SIM1 Member=MPCIE1_SIM_PWR
+Removed Member From Class: ClassName=Audio2 Member=MPCIE2_CLK
+Removed Member From Class: ClassName=Audio2 Member=MPCIE2_CPM_SYNC
+Removed Member From Class: ClassName=SIM2 Member=MPCIE2_SIM_PWR
+Change Component DesignItemId : Designator=J35 Old DesignItemId=76384-304LF New DesignItemId=0532530470
+Change Component DesignItemId : Designator=C129 Old DesignItemId=C1005X5R1A225K New DesignItemId=C1005X5R1H104K
+Change Component DesignItemId : Designator=C20 Old DesignItemId=C1005X5R1A475M New DesignItemId=C1608X5R0J106M
+Change Component DesignItemId : Designator=C35 Old DesignItemId=C1005X5R1A475M New DesignItemId=C1608X5R0J106M
+Change Component DesignItemId : Designator=C137 Old DesignItemId=C1005X5R1C105K New DesignItemId=TLNS227M004R3000
+Change Component DesignItemId : Designator=C139 Old DesignItemId=C1005X5R1C105K New DesignItemId=TLNS227M004R3000
+Change Component DesignItemId : Designator=C49 Old DesignItemId=C1005X5R1H104K New DesignItemId=C1005X7R1H103K
+Change Component DesignItemId : Designator=R34 Old DesignItemId=RC0402FR-0710KL New DesignItemId=RC0402JR-070RL
+Change Component Footprint: Designator=C20 Old Footprint=C0402 New Footprint=C0603
+Change Component Footprint: Designator=C35 Old Footprint=C0402 New Footprint=C0603
+Change Component Footprint: Designator=J35 Old Footprint=HDR_1x4_2.54MM_SHDR New Footprint=HDR_1x4_2MM_SHDR
+Change Component Comment : Designator=C137 Old Comment=1u New Comment=220u, 4V
+Change Component Comment : Designator=C139 Old Comment=1u New Comment=220u, 4V
+Change Component Comment : Designator=C129 Old Comment=2u2 New Comment=100n
+Change Component Comment : Designator=C20 Old Comment=4u7 New Comment=10u
+Change Component Comment : Designator=C35 Old Comment=4u7 New Comment=10u
+Change Component Comment : Designator=R34 Old Comment=10k New Comment=0R
+Change Component Comment : Designator=C49 Old Comment=100n New Comment=10n
+Change Component Comment : Designator=J35 Old Comment=76384-304LF New Comment=Hdr 4x2mm BOXED
+Change Component Description : Designator=C137 Old Description=CAP CER 1.0UF 16V X5R 0402 New Description=CAP TANT 220UF 4V 20% 1206
+Change Component Description : Designator=C139 Old Description=CAP CER 1.0UF 16V X5R 0402 New Description=CAP TANT 220UF 4V 20% 1206
+Change Component Description : Designator=C129 Old Description=CAP CER 2.2UF 10V 10% X5R 0402 New Description=CAP CER .10UF 50V X5R 10% 0402
+Change Component Description : Designator=C49 Old Description=CAP CER .10UF 50V X5R 10% 0402 New Description=CAP CER 10000PF 50V 10% X7R 0402
+Change Component Description : Designator=R34 Old Description=RES 10.0K OHM 1/16W 1% 0402 SMD New Description=RES 0.0 OHM 1/16W 0402 SMD
+Added Component: Designator=C214(C0402)
+Added Component: Designator=D21(SOD323)
+Added Component: Designator=D22(SOD323)
+Added Component: Designator=FB23(C0603)
+Added Component: Designator=FB24(C0402)
+Added Component: Designator=FB25(C0603)
+Added Component: Designator=FB26(C0603)
+Added Component: Designator=Q7(SC70_SOT323)
+Added Component: Designator=Q8(SC70_SOT323)
+Added Component: Designator=Q9(SC70_SOT323)
+Added Component: Designator=R17(R0402)
+Added Component: Designator=R116(R0402)
+Added Component: Designator=R162(R0402)
+Added Component: Designator=R163(R0402)
+Added Component: Designator=R164(R0402)
+Added Component: Designator=R165(R0402)
+Added Component: Designator=R166(R0402)
+Added Component: Designator=R167(R0402)
+Added Component: Designator=R168(R0402)
+Added Component: Designator=R169(R0402)
+Added Component: Designator=R170(R0402)
+Added Component: Designator=R171(R0402)
+Added Component: Designator=R172(R0402)
+Added Component: Designator=R173(R0402)
+Added Component: Designator=R174(R0402)
+Added Component: Designator=R175(R0402)
+Added Component: Designator=R176(R0402)
+Added Component: Designator=R177(R0402)
+Added Component: Designator=R178(R0402)
+Added Component: Designator=R179(R0402)
+Added Component: Designator=R180(R0402)
+Added Component: Designator=R181(R0402)
+Added Component: Designator=R182(R0402)
+Added Component: Designator=R183(R0402)
+Added Component: Designator=R184(R0402)
+Added Component: Designator=R185(R0402)
+Added Component: Designator=R186(R0402)
+Added Component: Designator=R187(R0402)
+Added Component: Designator=TP5(TP_25C)
+Added Component: Designator=U24(SC70_5)
+Added Pin To Net: NetName=HDMI_HPD_CON Pin=C108-1
+Added Pin To Net: NetName=+3V3 Pin=C214-1
+Added Pin To Net: NetName=GND Pin=C214-2
+Added Pin To Net: NetName=+3V3_TS Pin=D21-1
+Added Pin To Net: NetName=+3V3 Pin=D21-2
+Added Pin To Net: NetName=+3V3_TS Pin=D22-1
+Added Pin To Net: NetName=+VBAT Pin=D22-2
+Added Pin To Net: NetName=+1V8_AUDIO2 Pin=FB19-1
+Added Pin To Net: NetName=+1V8_AUDIO2 Pin=FB23-2
+Added Pin To Net: NetName=+1V8_AUDIO2 Pin=FB24-1
+Added Pin To Net: NetName=+1V8_AUDIO2 Pin=FB25-2
+Added Pin To Net: NetName=+VDDA Pin=FB26-1
+Added Pin To Net: NetName=+1V8_AUDIO2 Pin=FB26-2
+Added Pin To Net: NetName=I2C2_SCL Pin=J9-30
+Added Pin To Net: NetName=I2C2_SDA Pin=J9-32
+Added Pin To Net: NetName=+12V_ATX Pin=J18-1
+Added Pin To Net: NetName=RST_BUT Pin=J33-5
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=ON_OFF Pin=Q7-3
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q9-2
+Added Pin To Net: NetName=+3V3 Pin=R17-2
+Added Pin To Net: NetName=+1V8_AUDIO2 Pin=R116-2
+Added Pin To Net: NetName=GND Pin=R162-2
+Added Pin To Net: NetName=HDMI_SCL_CON Pin=R163-1
+Added Pin To Net: NetName=HDMI_SDA_CON Pin=R164-1
+Added Pin To Net: NetName=LVDS_BLON Pin=R165-1
+Added Pin To Net: NetName=+3V3 Pin=R165-2
+Added Pin To Net: NetName=GND Pin=R166-1
+Added Pin To Net: NetName=LVDS_BLON Pin=R166-2
+Added Pin To Net: NetName=LVDS_EN Pin=R167-1
+Added Pin To Net: NetName=+3V3 Pin=R167-2
+Added Pin To Net: NetName=GND Pin=R168-1
+Added Pin To Net: NetName=LVDS_EN Pin=R168-2
+Added Pin To Net: NetName=NetR75_2 Pin=R169-1
+Added Pin To Net: NetName=+3V3_USB_HUB Pin=R169-2
+Added Pin To Net: NetName=RESETN Pin=R170-1
+Added Pin To Net: NetName=BUF_SYS_RSTN Pin=R170-2
+Added Pin To Net: NetName=+RTC Pin=R171-2
+Added Pin To Net: NetName=+3V3 Pin=R172-2
+Added Pin To Net: NetName=TSC_INT Pin=R174-1
+Added Pin To Net: NetName=GPIO6 Pin=R175-1
+Added Pin To Net: NetName=+3V3 Pin=R175-2
+Added Pin To Net: NetName=GND Pin=R176-1
+Added Pin To Net: NetName=GPIO7 Pin=R176-2
+Added Pin To Net: NetName=GPIO1 Pin=R177-1
+Added Pin To Net: NetName=+3V3 Pin=R177-2
+Added Pin To Net: NetName=GPIO0 Pin=R178-1
+Added Pin To Net: NetName=+3V3 Pin=R178-2
+Added Pin To Net: NetName=GPIO2 Pin=R179-1
+Added Pin To Net: NetName=+3V3 Pin=R179-2
+Added Pin To Net: NetName=GND Pin=R180-1
+Added Pin To Net: NetName=GPIO3 Pin=R180-2
+Added Pin To Net: NetName=GND Pin=R181-1
+Added Pin To Net: NetName=GPIO5 Pin=R181-2
+Added Pin To Net: NetName=GND Pin=R182-1
+Added Pin To Net: NetName=GPIO4 Pin=R182-2
+Added Pin To Net: NetName=USR_LEDN Pin=R183-1
+Added Pin To Net: NetName=+3V3 Pin=R183-2
+Added Pin To Net: NetName=POK_3V3 Pin=R184-1
+Added Pin To Net: NetName=POKN Pin=R184-2
+Added Pin To Net: NetName=+VBAT Pin=R185-2
+Added Pin To Net: NetName=GND Pin=R186-1
+Added Pin To Net: NetName=+3V3 Pin=R187-2
+Added Pin To Net: NetName=RST_BTNN Pin=U24-1
+Added Pin To Net: NetName=GND Pin=U24-3
+Added Pin To Net: NetName=+3V3 Pin=U24-5
+Change Net Name : Old Net Name=HDR_PWR_LED New Net Name=PWR_LED_HDR
+Change Net Name : Old Net Name=HDR_USER_LED New Net Name=USER_LED_HDR
+Change Net Name : Old Net Name=LED2_WWAN_B New Net Name=LED_MPCIE2_WWAN
+Change Net Name : Old Net Name=LED_WLAN_B New Net Name=LED_MPCIE1_WLAN
+Change Net Name : Old Net Name=LED_WPAN_B New Net Name=LED_MPCIE1_WPAN
+Change Net Name : Old Net Name=LED_WWAN_B New Net Name=LED_MPCIE1_WWAN
+Change Net Name : Old Net Name=LV_SUPPLY New Net Name=+3V3_HDMI
+Change Net Name : Old Net Name=MPCIE1_SIM_PWR New Net Name=+MPCIE1_SIM_PWR
+Change Net Name : Old Net Name=MPCIE2_CLK New Net Name=MPCIE2_12M_CLK
+Change Net Name : Old Net Name=MPCIE2_CPM_SYNC New Net Name=MPCIE2_PCM_SYNC
+Change Net Name : Old Net Name=MPCIE2_SIM_PWR New Net Name=+MPCIE2_SIM_PWR
+Change Net Name : Old Net Name=NetC136_1 New Net Name=AUD_HP_L
+Change Net Name : Old Net Name=NetC138_1 New Net Name=AUD_HP_R
+Change Net Name : Old Net Name=NetR56_1 New Net Name=+VIN_LVDS_AMP
+Change Net Name : Old Net Name=NetR75_2 New Net Name=VBUS_DET
+Change Net Name : Old Net Name=PWR_BTNN New Net Name=PWR_BTN_HDR
+Change Net Name : Old Net Name=RST_BUT New Net Name=RST_BTN_HDR
+Added Pin To Net: NetName=+AUD2_AVDD Pin=C45-1
+Added Pin To Net: NetName=+AUD2_AVDD Pin=FB23-1
+Added Pin To Net: NetName=+AUD2_AVDD Pin=U5-5
+Added Net: Name=+AUD2_AVDD
+Added Pin To Net: NetName=+AUD2_DVDD Pin=C44-1
+Added Pin To Net: NetName=+AUD2_DVDD Pin=C50-1
+Added Pin To Net: NetName=+AUD2_DVDD Pin=FB19-2
+Added Pin To Net: NetName=+AUD2_DVDD Pin=U5-26
+Added Pin To Net: NetName=+AUD2_DVDD Pin=U5-32
+Added Net: Name=+AUD2_DVDD
+Added Pin To Net: NetName=+AUD2_PVDD Pin=C51-1
+Added Pin To Net: NetName=+AUD2_PVDD Pin=FB25-1
+Added Pin To Net: NetName=+AUD2_PVDD Pin=U5-23
+Added Net: Name=+AUD2_PVDD
+Added Pin To Net: NetName=AUD2_AUX Pin=TP5-1
+Added Pin To Net: NetName=AUD2_AUX Pin=U5-17
+Added Net: Name=AUD2_AUX
+Added Pin To Net: NetName=AUD2_IRQ Pin=R116-1
+Added Pin To Net: NetName=AUD2_IRQ Pin=U5-4
+Added Net: Name=AUD2_IRQ
+Added Pin To Net: NetName=BUFF_RST_BTNN Pin=U21-2
+Added Pin To Net: NetName=BUFF_RST_BTNN Pin=U24-4
+Added Net: Name=BUFF_RST_BTNN
+Added Pin To Net: NetName=HDMI_SCL_CON_R Pin=R49-1
+Added Pin To Net: NetName=HDMI_SCL_CON_R Pin=R163-2
+Added Pin To Net: NetName=HDMI_SCL_CON_R Pin=U7-22
+Added Net: Name=HDMI_SCL_CON_R
+Added Pin To Net: NetName=HDMI_SDA_CON_R Pin=R48-1
+Added Pin To Net: NetName=HDMI_SDA_CON_R Pin=R164-2
+Added Pin To Net: NetName=HDMI_SDA_CON_R Pin=U7-21
+Added Net: Name=HDMI_SDA_CON_R
+Added Pin To Net: NetName=I2C2_VREF2 Pin=C57-1
+Added Pin To Net: NetName=I2C2_VREF2 Pin=R17-1
+Added Pin To Net: NetName=I2C2_VREF2 Pin=U6-7
+Added Pin To Net: NetName=I2C2_VREF2 Pin=U6-8
+Added Net: Name=I2C2_VREF2
+Added Pin To Net: NetName=JTAG_RSTN Pin=R120-1
+Added Pin To Net: NetName=JTAG_RSTN Pin=R187-1
+Added Pin To Net: NetName=JTAG_RSTN Pin=U24-2
+Added Net: Name=JTAG_RSTN
+Added Pin To Net: NetName=MPCIE2_SIM_VPP Pin=C106-1
+Added Pin To Net: NetName=MPCIE2_SIM_VPP Pin=J7-C6
+Added Pin To Net: NetName=MPCIE2_SIM_VPP Pin=J9-16
+Added Net: Name=MPCIE2_SIM_VPP
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=FB24-2
+Added Pin To Net: NetName=NetC49_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC49_1 Pin=Y1-4
+Added Net: Name=NetC49_1
+Added Pin To Net: NetName=NetJ16_14 Pin=J16-14
+Added Pin To Net: NetName=NetJ16_14 Pin=R162-1
+Added Net: Name=NetJ16_14
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R172-1
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetR185_1 Pin=R185-1
+Added Pin To Net: NetName=NetR185_1 Pin=R186-2
+Added Pin To Net: NetName=NetR185_1 Pin=U2-16
+Added Net: Name=NetR185_1
+Added Pin To Net: NetName=ON_OFF_Q Pin=Q9-1
+Added Pin To Net: NetName=ON_OFF_Q Pin=R113-2
+Added Pin To Net: NetName=ON_OFF_Q Pin=R173-2
+Added Net: Name=ON_OFF_Q
+Added Pin To Net: NetName=ON_OFFN Pin=Q7-1
+Added Pin To Net: NetName=ON_OFFN Pin=Q8-3
+Added Pin To Net: NetName=ON_OFFN Pin=Q9-3
+Added Pin To Net: NetName=ON_OFFN Pin=R171-1
+Added Net: Name=ON_OFFN
+Added Pin To Net: NetName=TSC_PENIRQ Pin=R173-1
+Added Pin To Net: NetName=TSC_PENIRQ Pin=R174-2
+Added Pin To Net: NetName=TSC_PENIRQ Pin=U2-10
+Added Net: Name=TSC_PENIRQ
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component C106 100n
+Added Member To Class: ClassName=[07] - HDMI Member=Component C108 100n
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component C214 100n
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component D21 BAT54HT1G
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component D22 BAT54HT1G
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component FB19 MPZ1608S601A 600OHM/1A
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component FB23 MPZ1608S601A 600OHM/1A
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component FB24 BLM15AX601SN1D
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component FB25 MPZ1608S601A 600OHM/1A
+Added Member To Class: ClassName=[11] - AUDIO1 Member=Component FB26 MPZ1608S601A 600OHM/1A
+Added Member To Class: ClassName=[12] - MICRO SD Member=Component J39 DM3C-SF
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component Q7 2N7002BKW,115
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component Q8 2N7002BKW,115
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component Q9 2N7002BKW,115
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component R17 200k
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component R116 10k
+Added Member To Class: ClassName=[07] - HDMI Member=Component R162 0R
+Added Member To Class: ClassName=[07] - HDMI Member=Component R163 0R
+Added Member To Class: ClassName=[07] - HDMI Member=Component R164 0R
+Added Member To Class: ClassName=[08] - LVDS Member=Component R165 10k
+Added Member To Class: ClassName=[08] - LVDS Member=Component R166 10k
+Added Member To Class: ClassName=[08] - LVDS Member=Component R167 10k
+Added Member To Class: ClassName=[08] - LVDS Member=Component R168 10k
+Added Member To Class: ClassName=[09] - USB Member=Component R169 0R
+Added Member To Class: ClassName=[09] - USB Member=Component R170 0R
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component R171 100k
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component R172 10k
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component R173 0R
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component R174 0R
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component R175 200k
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component R176 200k
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component R177 200k
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component R178 200k
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component R179 200k
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component R180 200k
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component R181 200k
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component R182 200k
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component R183 10k
+Added Member To Class: ClassName=[04] - MINI PCIE1, PCIE Member=Component R184 0R
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component R185 100k
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component R186 100k
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component R187 10k
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component TP5 TP_25MILC
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component U24 SN74LVC1G08DCKR
+Added Member To Class: ClassName=SIM1 Member=Wire +MPCIE1_SIM_PWR
+Added Member To Class: ClassName=SIM2 Member=Wire +MPCIE2_SIM_PWR
+Added Member To Class: ClassName=Audio2 Member=Wire AUD2_IRQ
+Added Member To Class: ClassName=HDMI Member=Wire HDMI_SCL_CON_R
+Added Member To Class: ClassName=HDMI Member=Wire HDMI_SDA_CON_R
+Added Member To Class: ClassName=Audio2 Member=Wire MPCIE2_12M_CLK
+Added Member To Class: ClassName=Audio2 Member=Wire MPCIE2_PCM_SYNC
+Added Member To Class: ClassName=SIM2 Member=Wire MPCIE2_SIM_VPP

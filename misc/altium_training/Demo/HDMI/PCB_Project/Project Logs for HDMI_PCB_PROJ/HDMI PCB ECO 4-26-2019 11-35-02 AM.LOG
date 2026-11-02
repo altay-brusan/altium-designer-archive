@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=DIFF_85 Member=TMDS_CLK_N
+Removed Member From Class: ClassName=DIFF_85 Member=TMDS_CLK_P
+Removed Member From Class: ClassName=DIFF_85 Member=TMDS_D0_N
+Removed Member From Class: ClassName=DIFF_85 Member=TMDS_D0_P
+Removed Member From Class: ClassName=DIFF_85 Member=TMDS_D1_N
+Removed Member From Class: ClassName=DIFF_85 Member=TMDS_D1_P
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

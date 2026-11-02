@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MPCIE1_SIM_CLK Pin=D4-3
+Removed Pin From Net: NetName=MPCIE1_SIM_DATA Pin=D4-4
+Removed Pin From Net: NetName=MPCIE1_SIM_PWR Pin=D4-5
+Added Pin To Net: NetName=MPCIE1_SIM_PWR Pin=D4-3
+Added Pin To Net: NetName=MPCIE1_SIM_CLK Pin=D4-4
+Added Pin To Net: NetName=MPCIE1_SIM_DATA Pin=D4-5

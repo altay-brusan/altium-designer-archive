@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=+1V5_MPCIE1 Pin=C20-1
+Removed Pin From Net: NetName=+1V5_MPCIE1 Pin=FB2-1
+Removed Pin From Net: NetName=+1V5_MPCIE2 Pin=FB2-2
+Removed Pin From Net: NetName=+1V5_MPCIE1 Pin=FB10-1
+Removed Pin From Net: NetName=PCIE_WAKE Pin=J9-1
+Removed Pin From Net: NetName=HDR_USER_LED Pin=J33-2
+Removed Pin From Net: NetName=+3V3 Pin=J33-3
+Removed Pin From Net: NetName=HDR_PWR_LED Pin=J33-4
+Removed Pin From Net: NetName=ON_OFF Pin=J33-7
+Removed Pin From Net: NetName=PCIE_WAKE Pin=J34-2
+Removed Pin From Net: NetName=+3V3 Pin=J34-3
+Removed Pin From Net: NetName=GPIO4 Pin=J34-4
+Removed Pin From Net: NetName=GPIO0 Pin=J34-5
+Removed Pin From Net: NetName=GPIO5 Pin=J34-6
+Removed Pin From Net: NetName=GPIO1 Pin=J34-7
+Removed Pin From Net: NetName=GPIO6 Pin=J34-8
+Removed Pin From Net: NetName=GPIO2 Pin=J34-9
+Removed Pin From Net: NetName=GPIO7 Pin=J34-10
+Removed Pin From Net: NetName=GPIO3 Pin=J34-11
+Removed Pin From Net: NetName=I2C3_SDA Pin=J34-12
+Removed Pin From Net: NetName=GND Pin=J34-13
+Removed Pin From Net: NetName=I2C3_SCL Pin=J34-14
+Removed Pin From Net: NetName=+1V5_MPCIE1 Pin=R18-2
+Removed Pin From Net: NetName=PCIE_WAKE Pin=R112-2
+Removed Pin From Net: NetName=+1V5_MPCIE1 Pin=U1-9
+Removed Pin From Net: NetName=+1V5_MPCIE1 Pin=U1-10
+Removed Pin From Net: NetName=PCIE_WAKE Pin=U19-22
+Change Component DesignItemId : Designator=FB1 Old DesignItemId=BLM18KG101TN1D New DesignItemId=BLM18SG221TN1D
+Change Component DesignItemId : Designator=FB2 Old DesignItemId=BLM18KG101TN1D New DesignItemId=BLM18SG221TN1D
+Change Component DesignItemId : Designator=FB3 Old DesignItemId=BLM18KG101TN1D New DesignItemId=BLM18SG221TN1D
+Change Component DesignItemId : Designator=C177 Old DesignItemId=C1608X5R0J106M New DesignItemId=C2012X5R1C226K
+Change Component DesignItemId : Designator=R29 Old DesignItemId=CRCW04022K70FKED New DesignItemId=RC0402FR-072K2L
+Change Component DesignItemId : Designator=R30 Old DesignItemId=CRCW04022K70FKED New DesignItemId=RC0402FR-072K2L
+Change Component DesignItemId : Designator=J34 Old DesignItemId=D2514-6002-AR New DesignItemId=D2510-6002-AR
+Change Component DesignItemId : Designator=D1 Old DesignItemId=LO L29K-H2K1-24-Z New DesignItemId=LG L29K-G2J1-24-Z
+Change Component DesignItemId : Designator=D6 Old DesignItemId=LO L29K-H2K1-24-Z New DesignItemId=LG L29K-G2J1-24-Z
+Change Component DesignItemId : Designator=D3 Old DesignItemId=LY L29K-H1K2-26-Z New DesignItemId=LG L29K-G2J1-24-Z
+Change Component DesignItemId : Designator=R57 Old DesignItemId=RMCF0402FT4K70 New DesignItemId=RMCF0402FT4K99
+Change Component DesignItemId : Designator=C70 Old DesignItemId=TCJB107M006R0070 New DesignItemId=T520D337M006ATE045
+Change Component Footprint: Designator=C177 Old Footprint=C0603 New Footprint=C0805
+Change Component Footprint: Designator=C70 Old Footprint=C1210B_V1.1 New Footprint=C2917
+Change Component Footprint: Designator=U15 Old Footprint=DBZ (R-PDSO-Q3) New Footprint=DBZ
+Change Component Footprint: Designator=J34 Old Footprint=HDR_2x7_2.54MM_BOXED New Footprint=HDR_2x5_2.54mm_BOXED
+Change Component Comment : Designator=R29 Old Comment=2k7 New Comment=2k2
+Change Component Comment : Designator=R30 Old Comment=2k7 New Comment=2k2
+Change Component Comment : Designator=R57 Old Comment=4k7 New Comment=4k99
+Change Component Comment : Designator=C177 Old Comment=10u New Comment=22u
+Change Component Comment : Designator=C70 Old Comment=100uF, 6.3V New Comment=330u
+Change Component Comment : Designator=FB1 Old Comment=BLM18KG101TN1D New Comment=220R, 2.5A
+Change Component Comment : Designator=FB2 Old Comment=BLM18KG101TN1D New Comment=220R, 2.5A
+Change Component Comment : Designator=FB3 Old Comment=BLM18KG101TN1D New Comment=220R, 2.5A
+Change Component Comment : Designator=J34 Old Comment=HDR 2x7, BOXED New Comment=HDR 2x5, BOXED
+Change Component Comment : Designator=D1 Old Comment=Orange New Comment=Green
+Change Component Comment : Designator=D6 Old Comment=Orange New Comment=Green
+Change Component Comment : Designator=D3 Old Comment=Yellow New Comment=Green
+Change Component Designator: OldDesignator=Y2 NewDesignator=J41
+Change Component Designator: OldDesignator=Y3 NewDesignator=Y2
+Change Component Designator: OldDesignator=Y4 NewDesignator=Y3
+Change Component Description : Designator=FB1 Old Description=FERRITE CHIP 100 OHM BEAD 0603 3A New Description=FERRITE CHIP 220 OHM 2500MA 0603
+Change Component Description : Designator=FB2 Old Description=FERRITE CHIP 100 OHM BEAD 0603 3A New Description=FERRITE CHIP 220 OHM 2500MA 0603
+Change Component Description : Designator=FB3 Old Description=FERRITE CHIP 100 OHM BEAD 0603 3A New Description=FERRITE CHIP 220 OHM 2500MA 0603
+Change Component Description : Designator=D1 Old Description=LED SMARTLED ORANGE 606NM 0603 New Description=LED SMARTLED GREEN 570NM 0603
+Change Component Description : Designator=D6 Old Description=LED SMARTLED ORANGE 606NM 0603 New Description=LED SMARTLED GREEN 570NM 0603
+Change Component Description : Designator=D3 Old Description=LED YELLOW 587NM 0603 SMD New Description=LED SMARTLED GREEN 570NM 0603
+Change Component Description : Designator=R29 Old Description=RES 2.70K OHM 1/16W 1% 0402 SMD New Description=RES 2.20K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R30 Old Description=RES 2.70K OHM 1/16W 1% 0402 SMD New Description=RES 2.20K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R57 Old Description=RES TF 4.7K OHM 1% 1/16W 0402 New Description=RES TF 4.99K OHM 1% 1/16W 0402
+Change Component Library : Designator=J3 Old Library=Integrated_Library_RF_FEB_2012.IntLib New Library=Schlib_RF.SchLib
+Change Component Library : Designator=J16 Old Library=Integrated_Library_RF_FEB_2012.IntLib New Library=Schlib_RF.SchLib
+Change Component Library : Designator=J41 Old Library=Integrated_Library_RF_FEB_2012.IntLib New Library=Schlib_RF.SchLib
+Added Component: Designator=FB22(C0603)
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=FB2-1
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=FB22-1
+Added Pin To Net: NetName=HDR_PWR_LED Pin=J33-2
+Added Pin To Net: NetName=ON_OFF Pin=J33-3
+Added Pin To Net: NetName=HDR_USER_LED Pin=J33-4
+Added Pin To Net: NetName=GPIO6 Pin=J33-7
+Added Pin To Net: NetName=GPIO7 Pin=J33-9
+Added Pin To Net: NetName=GPIO0 Pin=J34-2
+Added Pin To Net: NetName=GPIO1 Pin=J34-3
+Added Pin To Net: NetName=GPIO2 Pin=J34-4
+Added Pin To Net: NetName=GPIO3 Pin=J34-5
+Added Pin To Net: NetName=GPIO4 Pin=J34-6
+Added Pin To Net: NetName=GPIO5 Pin=J34-7
+Added Pin To Net: NetName=I2C3_SDA Pin=J34-8
+Added Pin To Net: NetName=GND Pin=J34-9
+Added Pin To Net: NetName=I2C3_SCL Pin=J34-10
+Change Net Name : Old Net Name=CPU_GPIO0 New Net Name=TSC_INT
+Change Net Name : Old Net Name=FB_+1V5_MPCIE1 New Net Name=FB_+1V5
+Change Net Name : Old Net Name=POK_1V5_MPCIE1 New Net Name=POK_1V5
+Change Net Name : Old Net Name=SS_+1V5_MPCIE1 New Net Name=SS_+1V5
+Added Pin To Net: NetName=+1V5 Pin=C20-1
+Added Pin To Net: NetName=+1V5 Pin=FB2-2
+Added Pin To Net: NetName=+1V5 Pin=FB10-1
+Added Pin To Net: NetName=+1V5 Pin=FB22-2
+Added Pin To Net: NetName=+1V5 Pin=R18-2
+Added Pin To Net: NetName=+1V5 Pin=U1-9
+Added Pin To Net: NetName=+1V5 Pin=U1-10
+Added Net: Name=+1V5
+Added Pin To Net: NetName=CPU_INT Pin=J1-37
+Added Pin To Net: NetName=CPU_INT Pin=J9-1
+Added Pin To Net: NetName=CPU_INT Pin=J33-8
+Added Pin To Net: NetName=CPU_INT Pin=R112-2
+Added Pin To Net: NetName=CPU_INT Pin=U19-22
+Added Net: Name=CPU_INT
+Added Member To Class: ClassName=[04] - MINI PCIE1, PCIE Member=Component FB22 220R, 2.5A

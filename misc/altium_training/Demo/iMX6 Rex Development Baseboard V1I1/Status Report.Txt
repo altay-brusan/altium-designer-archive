@@ -1,0 +1,32 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:16:20 AM On 12/3/2013
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [Prototype] of PCB Document [iMX6 Rex Development Baseboard V1I1_PCB.PcbDoc]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GTL]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GP1]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.G1]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.G2]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GP2]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GBL]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GTO]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GTP]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GTS]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GBS]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GBP]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GBO]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GM2]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GM3]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GM4]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.GM28]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.RUL]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.EXTREP]
+   Generated File[iMX6 Rex Development Baseboard V1I1_PCB.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 10:16:36 AM On 12/3/2013

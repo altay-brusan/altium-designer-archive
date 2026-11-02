@@ -1,0 +1,20 @@
+Added Component: Designator=TP6(TP_25C)
+Added Component: Designator=TP7(TP_25C)
+Added Component: Designator=TP8(TP_25C)
+Added Component: Designator=TP9(TP_25C)
+Added Pin To Net: NetName=SD2_DATA4 Pin=J2-30
+Added Pin To Net: NetName=SD2_DATA4 Pin=TP7-1
+Added Net: Name=SD2_DATA4
+Added Pin To Net: NetName=SD2_DATA5 Pin=J2-27
+Added Pin To Net: NetName=SD2_DATA5 Pin=TP6-1
+Added Net: Name=SD2_DATA5
+Added Pin To Net: NetName=SD2_DATA6 Pin=J2-32
+Added Pin To Net: NetName=SD2_DATA6 Pin=TP9-1
+Added Net: Name=SD2_DATA6
+Added Pin To Net: NetName=SD2_DATA7 Pin=J2-29
+Added Pin To Net: NetName=SD2_DATA7 Pin=TP8-1
+Added Net: Name=SD2_DATA7
+Added Member To Class: ClassName=[03] - CONNECTORS Member=Component TP6 TP_25MILC
+Added Member To Class: ClassName=[03] - CONNECTORS Member=Component TP7 TP_25MILC
+Added Member To Class: ClassName=[03] - CONNECTORS Member=Component TP8 TP_25MILC
+Added Member To Class: ClassName=[03] - CONNECTORS Member=Component TP9 TP_25MILC

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=R23
+Removed Member From Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=U2
+Added Differential Pair: Name=MX3
+Added Member To Class: ClassName=HDMI Member=Wire I2C2_SCL
+Added Member To Class: ClassName=HDMI Member=Wire I2C2_SDA
+Added Member To Class: ClassName=DIFF100 Member=Wire MX3_N
+Added Member To Class: ClassName=MX Member=Wire MX3_N
+Added Member To Class: ClassName=DIFF100 Member=Wire MX3_P
+Added Member To Class: ClassName=MX Member=Wire MX3_P

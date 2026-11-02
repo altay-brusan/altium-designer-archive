@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DemoColor Pin=P5-2
+Removed Pin From Net: NetName=DemoColor Pin=P6-1
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=P6-1
+Added Net: Name=NetP5_2

@@ -1,0 +1,172 @@
+<?xml version = "1.0" ?>
+<?xml:stylesheet type="text/xsl" href="iMX6 Rex Development Baseboard V1I1.xsl"?>
+<!DOCTYPE GRID [
+  <!ELEMENT GRID (BANDS, COLUMNS, ROWS*)>
+  <!ATTLIST GRID ExportVersion CDATA #REQUIRED>
+  <!ELEMENT BANDS (BAND*)>
+  <!ELEMENT BAND EMPTY>
+  <!ATTLIST BAND Index CDATA #REQUIRED>
+  <!ATTLIST BAND Caption CDATA #IMPLIED>
+  <!ELEMENT COLUMNS (COLUMN*)>
+  <!ELEMENT COLUMN EMPTY>
+  <!ATTLIST COLUMN Name CDATA #REQUIRED>
+  <!ATTLIST COLUMN Caption CDATA #IMPLIED>
+  <!ATTLIST COLUMN Index CDATA #REQUIRED>
+  <!ATTLIST COLUMN BandIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN RowIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN ColIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN Width CDATA #IMPLIED>
+  <!ELEMENT GROUP (GROUP*, ROW*)>
+  <!ATTLIST GROUP GroupText CDATA #IMPLIED>
+  <!ELEMENT ROWS (ROW*)>
+  <!ELEMENT ROW EMPTY>
+  <!ATTLIST ROW LibRef CDATA #IMPLIED>
+  <!ATTLIST ROW Footprint CDATA #IMPLIED>
+  <!ATTLIST ROW Description CDATA #IMPLIED>
+  <!ATTLIST ROW _Checked_PCB CDATA #IMPLIED>
+  <!ATTLIST ROW _Checked_SCH CDATA #IMPLIED>
+  <!ATTLIST ROW _Creator CDATA #IMPLIED>
+  <!ATTLIST ROW Library_Name CDATA #IMPLIED>
+]>
+<GRID ExportVersion="1.0">
+  <BANDS>
+    <BAND Index="0" Caption=""></BAND>
+  </BANDS>
+  <COLUMNS>
+    <COLUMN Name="LibRef" Caption="LibRef" Index="0" BandIndex="0" RowIndex="0" ColIndex="0" Width="110"></COLUMN>
+    <COLUMN Name="Footprint" Caption="Footprint" Index="1" BandIndex="0" RowIndex="0" ColIndex="1" Width="110"></COLUMN>
+    <COLUMN Name="Description" Caption="Description" Index="2" BandIndex="0" RowIndex="0" ColIndex="2" Width="110"></COLUMN>
+    <COLUMN Name="_Checked_PCB" Caption=".Checked PCB" Index="3" BandIndex="0" RowIndex="0" ColIndex="3" Width="110"></COLUMN>
+    <COLUMN Name="_Checked_SCH" Caption=".Checked SCH" Index="4" BandIndex="0" RowIndex="0" ColIndex="4" Width="110"></COLUMN>
+    <COLUMN Name="_Creator" Caption=".Creator" Index="5" BandIndex="0" RowIndex="0" ColIndex="5" Width="110"></COLUMN>
+    <COLUMN Name="Library_Name" Caption="Library Name" Index="6" BandIndex="0" RowIndex="0" ColIndex="6" Width="111"></COLUMN>
+  </COLUMNS>
+  <ROWS>
+    <ROW LibRef="TPA6041A4RHBR" Footprint="VQFN32 5x5x0.85" Description="IC AMP AUDIO PWR 2.6W AB 32VQFN" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="DM3C-SF" Footprint="uSD_DM3CS" Description="CONN MICRO SD R/A HING TYPE SMD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="DM3AT-SF-PEJM5" Footprint="uSD_DM3AT" Description="CONN MICRO SD R/A PUSH-PUSH SMD" _Checked_PCB="" _Checked_SCH="MM" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="0475890001" Footprint="USB_Micro_AB" Description="CONN RCPT MICRO USB AB R/A SMD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="5787617-1" Footprint="USB-2A" Description="CONN RCPT R/A 4OVER4POS GOLD PCB" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="CM2020-00TR" Footprint="TSSOP_38" Description="IC HDMI TX PORT P/I 38-TSSOP" _Checked_PCB="" _Checked_SCH="RF, used by MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BAT54C-7-F" Footprint="SOT-23-3-123" Description="DIODE SCHOTTKY DUAL 30V SOT23-3" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BZA956A,115" Footprint="SOT665" Description="TVS ZENER QUAD 5.6V SOT665" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BGX50AE6327" Footprint="SOT143" Description="DIODE SWITCHING 50V SOT-143" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BAT54HT1G" Footprint="SOD323" Description="DIODE SCHOTTKY 30V 0.2A SOD323" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="B560C-13-F" Footprint="SMC" Description="DIODE SCHOTTKY 60V 5A SMC" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="SJ1-3535NG" Footprint="SJ1-3535NG" Description="CONN JACK STEREO R/A 5PIN 3.5MM" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="SJ1-3535NG-BE" Footprint="SJ1-3535NG" Description="CONN JACK STEREO 5POS 3.5MM PCB" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="SJ1-3535NG-GR" Footprint="SJ1-3535NG" Description="CONN JACK STEREO 5POS 3.5MM PCB" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="SJ1-3535NG-PI" Footprint="SJ1-3535NG" Description="CONN JACK STEREO 5POS 3.5MM PCB" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="0475531001" Footprint="SIM_CARD_PUSH" Description="CONN CARD HOLDER SIM 6POS SMD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="2N7002BKW,115" Footprint="SC70_SOT323" Description="MOSFET N-CH 60V 310MA SOT323" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="0471554001" Footprint="SATA_VERTICAL" Description="CONN SATA HDR 7POS PCB VERT" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="2-406549-1" Footprint="RJ45LED" Description="CONN MOD JACK 8POS R/A G-Y PCB" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="CRCW04021K40FKED" Footprint="R0402" Description="RES 1.40K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="" _Checked_SCH="RF, used by MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="CRCW04021K80FKED" Footprint="R0402" Description="RES 1.80K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="CRCW04022K70FKED" Footprint="R0402" Description="RES 2.70K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="CRCW0402330RFKED" Footprint="R0402" Description="RES 330 OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="CRCW0402562RFKED" Footprint="R0402" Description="RES 562 OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="ERJ-2RKF1601X" Footprint="R0402" Description="RES 1.6K OHM 1/10W 1&#37; 0402 SMD" _Checked_PCB="RF, used by MM" _Checked_SCH="MM, checked by RF" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-07100RL" Footprint="R0402" Description="RES 100 OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-0710KL" Footprint="R0402" Description="RES 10.0K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-0710RL" Footprint="R0402" Description="RES 10.0 OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-0712KL" Footprint="R0402" Description="RES 12.0K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-0715KL" Footprint="R0402" Description="RES 15.0K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-071KL" Footprint="R0402" Description="RES 1.00K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-071RL" Footprint="R0402" Description="RES 1.00 OHM 1/16W 1&#37; 0402 SM" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-07200KL" Footprint="R0402" Description="RES 200K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-0727KL" Footprint="R0402" Description="RES 27.0K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-072K2L" Footprint="R0402" Description="RES 2.20K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-073K3L" Footprint="R0402" Description="RES 3.30K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-0747K5L" Footprint="R0402" Description="RES 47.5K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402FR-0775RL" Footprint="R0402" Description="RES 75.0 OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RC0402JR-070RL" Footprint="R0402" Description="RES 0.0 OHM 1/16W 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RMCF0402FT100K" Footprint="R0402" Description="RES 100K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RMCF0402FT240R" Footprint="R0402" Description="RES TF 240 OHM 1&#37; 0.0625W 0402" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RMCF0402FT2K00" Footprint="R0402" Description="RES 2K OHM 1/16W 1&#37; 0402 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RMCF0402FT33R0" Footprint="R0402" Description="RES TF 33 OHM 1&#37; 1/16W 0402" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RMCF0402FT365R" Footprint="R0402" Description="RES TF 365 OHM 1&#37; 1/16W 0402" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RMCF0402FT4K70" Footprint="R0402" Description="RES TF 4.7K OHM 1&#37; 1/16W 0402" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="RMCF0402FT4K99" Footprint="R0402" Description="RES TF 4.99K OHM 1&#37; 1/16W 0402" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="QTH-030-01-L-D-A" Footprint="QTH-030-01-L-D-A" Description="CONN HEADER HS .5MM 60POS DL AU" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="ISL4245EIRZ" Footprint="QFN32 5x5x0.85" Description="IC 3DRVR/5RCVR RS232 3V 32-QFN" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="MAX9867ETJ+" Footprint="QFN32 5x5x0.85" Description="IC STEREO AUD CODEC LP 32TQFN-EP" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="SGTL5000XNAA3R2" Footprint="QFN32 5x5x0.85" Description="IC AUDIO CODEC STEREO 32-QFN" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="USB2514BI-AEZG" Footprint="QFN36_6mmx6mm" Description="USB HUB CONT IND TEMP 36QFNE3" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="PJ-002AH" Footprint="POWER_JACK_5.5_2.1MM_NS" Description="CONN PWR JACK 2.1X5.5MM HIGH CUR" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BR24L02FVM-WTR" Footprint="MSOP8 _SMALLER" Description="IC EEPROM 2KBIT 400KHZ 8MSOP" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="10018783-10010TLF" Footprint="Mini_PCIe_36pin" Description="CONN PCI EXPRESS 36POS VERT PCB" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="MM60-EZH059-B5-R650" Footprint="MINI_PCIE_52PIN_CARD_LATCH" Description="CONN MINI EXPRESS CARD LATCH SMD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="MM60-52B1-E1-R650" Footprint="MINI_PCIE_52PIN_CARD_CON" Description="CONN MINI EXPRESS CARD 52POS SMD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="LG L29K-G2J1-24-Z" Footprint="LED_0603" Description="LED SMARTLED GREEN 570NM 0603" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="LO L29K-H2K1-24-Z" Footprint="LED_0603" Description="LED SMARTLED ORANGE 606NM 0603" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="LS L29K-H1J2-1-Z" Footprint="LED_0603" Description="LED SMARTLED RED 630NM 0603 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="LY L29K-H1K2-26-Z" Footprint="LED_0603" Description="LED YELLOW 587NM 0603 SMD" _Checked_PCB="" _Checked_SCH="RF, used by MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="IHLP2525CZER4R7M01" Footprint="IHLP_255MILx270MIL" Description="INDUCTOR POWER 4.7UH 5.5A SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="PCA9535BS,118" Footprint="HVQFN24_4x4MM" Description="IC I/O EXPANDER I2C 16B 24HVQFN" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="68000-103HLF" Footprint="Hdr_1x3_2.54mm" Description="BERGSTIK II .100&#34; SR STRAIGHT" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="D2514-6002-AR" Footprint="HDR_2x7_2.54MM_BOXED" Description="CONN HEADER 14POS VERT 10GOLD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="D2510-6002-AR" Footprint="HDR_2x5_2.54mm_BOXED" Description="CONN HEADER 10POS VERT 10GOLD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="30306-6002HB" Footprint="HDR_2x3_2.54mm_BOXED" Description="CONN HEADER 6POS DL STR GOLD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="76384-304LF" Footprint="HDR_1x4_2.54MM_SHDR" Description="CONN HEADER 4POS .100&#34; STR GOLD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="76384-303LF" Footprint="HDR_1x3_2.54MM_SHDR_V2" Description="CONN HEADER 3POS .100&#34; STR GOLD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="76384-302LF" Footprint="HDR_1x2_2.54MM_SHDR" Description="CONN HEADER 2POS .100&#34; STR GOLD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="68001-202HLF" Footprint="HDR_1x2_2.54MM" Description="BERGSTIK II .100&#34; SR STRAIGHT" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="77311-118-02LF" Footprint="HDR_1x2_2.54MM" Description="CONN HEADER 2POS VERT T/H" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="47151-0001" Footprint="HDMI" Description="CONN RCPT 19POS HDMI RT ANG SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="H5007NL" Footprint="H5007NL" Description="MODULE SINGLE GIGABIT LAN 24SOIC" _Checked_PCB="" _Checked_SCH="MM" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="FSMRA3JH" Footprint="FSMRA3JH" Description="SWITCH TACTILE SPST-NO 0.05A 12V" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="FSMRA2JH" Footprint="FSMRA2JH" Description="SWITCH TACTILE SPST-NO 0.05A 12V" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="FI-SE20P-HFE" Footprint="FI-SE20P-HFE" Description="CONN RCPT 1.25MM 20POS SMD R/A" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="PCA9306DCTR" Footprint="DCT_8" Description="IC VOLT-LEVEL TRANSLATOR SM8" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="SN74AHC1G09DBVR" Footprint="DBV_SOT_23_5" Description="IC GATE AND SGL 2INP SOT23-5" _Checked_PCB="RF, used by MM" _Checked_SCH="MM, checked by RF" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="1734351-1" Footprint="DBA9_M_RA" Description="CONN D-SUB PLUG R/A 9POS GOLD/FL" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="7E50-C016-00" Footprint="CFAST_LOCKER" Description="CF CARD EJECT/LATCHING RETAINER" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_KDS_BB.IntLib"></ROW>
+    <ROW LibRef="N7G24-A0B2RB-10-0HT" Footprint="CFAST10" Description="CFAST HEADER STANDOFF SMD R/A" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="T495D337K010ATE150" Footprint="C2917" Description="CAP TANT 330UF 10V 10&#37; 2917" _Checked_PCB="" _Checked_SCH="RF, used by MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="T520D337M006ATE045" Footprint="C2917" Description="CAP TANT 330UF 6.3V 20&#37; 2917" _Checked_PCB="" _Checked_SCH="RF, used by MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="TCJB107M006R0070" Footprint="C1210B_V1.1" Description="CAP TANT 100UF 6.3V 20&#37; 1210" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1206X102KGRACTU" Footprint="C1206" Description="CAP CER 1000PF 2000V X7R 1206 FT" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C3216X5R1A107M" Footprint="C1206" Description="CAP CER 100UF 10V X5R 20&#37; 1206" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="GRM31CR6YA106KA12L" Footprint="C1206" Description="CAP CER 10UF 35V X5R 1206" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C2012X5R1C226K" Footprint="C0805" Description="CAP CER 22UF 16V 10&#37; X5R 0805" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="GRM21BR71H105KA12L" Footprint="C0805" Description="CAP CER 1UF 50V X7R 0805" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BLM18KG101TN1D" Footprint="C0603" Description="FERRITE CHIP 100 OHM BEAD 0603 3A" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BLM18SG221TN1D" Footprint="C0603" Description="FERRITE CHIP 220 OHM 2500MA 0603" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1608X5R0J106M" Footprint="C0603" Description="CAP CER 10UF 6.3V X5R 20&#37; 0603" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="MPZ1608S601A" Footprint="C0603" Description="FERRITE CHIP BEAD 600 OHM SMD 1A" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="PGB1010603MR" Footprint="C0603" Description="SUPPRESSOR ESD 24VDC 0603 SMD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BLM15AX601SN1D" Footprint="C0402" Description="FERRITE CHIP 600 OHM 0402 420mA" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1005C0G1H101J" Footprint="C0402" Description="CAP CER 100PF 50V 5&#37; NP0 0402" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1005C0G1H180J" Footprint="C0402" Description="CAP CER 18PF 50V C0G 5&#37; 0402" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1005X5R1A225K" Footprint="C0402" Description="CAP CER 2.2UF 10V 10&#37; X5R 0402" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1005X5R1A475M" Footprint="C0402" Description="CAP CER 4.7UF 10V 20&#37; X5R 0402" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1005X5R1C105K" Footprint="C0402" Description="CAP CER 1.0UF 16V X5R 0402" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1005X5R1C474K" Footprint="C0402" Description="CAP CER .47UF 16V X5R 0402" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1005X5R1E224M" Footprint="C0402" Description="CAP CER .22UF 25V X5R 20&#37; 0402" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1005X5R1H104K" Footprint="C0402" Description="CAP CER .10UF 50V X5R 10&#37; 0402" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="C1005X7R1C103K" Footprint="C0402" Description="CAP CER 10000PF 16V X7R 10&#37; 0402" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="GRM155R71H271KA01D" Footprint="C0402" Description="CAP CER 270PF 50V 10&#37; X7R 0402" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="GRM155R71H272KA01D" Footprint="C0402" Description="CAP CER 2700PF 50V 10&#37; X7R 0402" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BA2032" Footprint="BA2032" Description="HOLDER COIN CELL CR2032 EJECT" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="ASFLMB-12.288MHZ-LR-T" Footprint="ASFLMB" Description="OSC MEMS 12.288 MHZ SMD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="5103308-5" Footprint="AMP-Latch_Header" Description="CONN HEADER LOPRO STR 20POS GOLD" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="ACM2012-900-2P-T002" Footprint="ACM2012" Description="CHOKE COMM MODE 90 OHM .4A SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="ABS06-32.768KHZ-9-1-T" Footprint="ABS06" Description="CRYSTAL 32.768 KHZ 9.0 PF SMD" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="ABM7-24.000MHZ-D-2-Y-T" Footprint="ABM7_v1_1" Description="CRYSTAL 24.0000MHZ 18PF SMD" _Checked_PCB="RF, used by MM" _Checked_SCH="MM, checked by RF" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="0015244449" Footprint="015244449" Description="CONN HEADER 4POS .200 VERT" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="553-0121F" Footprint="553-0121F" Description="LED 2HI 3MM GREEN OVER RED PCMNT" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="ISL6236AIRZ" Footprint="32_VFQFN_EXPOSED_PAD" Description="IC MAIN PWR CTRLR QUAD 32-QFN" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="TPS74801DRCR" Footprint="10DRC" Description="IC REG LDO ADJ 1.5A 10SON" _Checked_PCB="" _Checked_SCH="MM" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="LM358AMX" Footprint="8_SOIC_3.9MM" Description="IC OPAMP DUAL 0-70DEG C 8-SOIC" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="MIC2026-1YM TR" Footprint="8_SOIC_3.9MM" Description="IC SW DISTRIBUTION 2CHAN 8SOIC" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="PCF8563T" Footprint="8_SOIC_3.9MM" Description="IC REAL TIME CLK/CALENDAR 8-SOIC" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="SI4816BDY-T1-GE3" Footprint="8_SOIC_3.9MM" Description="MOSFET DL N-CH 30V 6.8A 8-SOIC" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="TPS2034D" Footprint="8_SOIC_3.9MM" Description="IC 3.0A POWER DIST SWITCH 8-SOIC" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="CKCL44X7R1H221M" Footprint="4x_CAP_CC0805_CKCL44" Description="CAP ARRAY 4CH 220PF 50V 0805" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="BLA2ABB221SN4D" Footprint="4x0402_BLA2A_MURATA" Description="FERRITE ARRAY 220 OHM 0804 SMD" _Checked_PCB="RF" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="CR1220" Footprint="" Description="BATTERY LITHIUM COIN 3V 12.5MM" _Checked_PCB="used" _Checked_SCH="used" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="PCB_iMX6_REX_Baseboard_V1I1" Footprint="" Description="Printed Circuit Board" _Checked_PCB="" _Checked_SCH="" _Creator="MM" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+    <ROW LibRef="QPC02SXGN-RC" Footprint="" Description="CONN JUMPER SHORTING .100&#34; GOLD" _Checked_PCB="" _Checked_SCH="RF" _Creator="" Library_Name="Integrated_Library_RF_FEB_2012.IntLib"></ROW>
+  </ROWS>
+</GRID>

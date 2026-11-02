@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=MODEL1
+Added Component: Designator=M1(iMX6 Rex Module 3D)
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component M1 iMX6 Rex Module V1I1 3D

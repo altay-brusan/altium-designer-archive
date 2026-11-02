@@ -1,0 +1,22 @@
+Added Component: Designator=J36(AMP-Latch_Header)
+Added Pin To Net: NetName=JTAG_VREF Pin=J36-1
+Added Pin To Net: NetName=+3V3 Pin=J36-2
+Added Pin To Net: NetName=JTAG_NTRST Pin=J36-3
+Added Pin To Net: NetName=GND Pin=J36-4
+Added Pin To Net: NetName=JTAG_TDI Pin=J36-5
+Added Pin To Net: NetName=GND Pin=J36-6
+Added Pin To Net: NetName=JTAG_TMS Pin=J36-7
+Added Pin To Net: NetName=GND Pin=J36-8
+Added Pin To Net: NetName=JTAG_TCK Pin=J36-9
+Added Pin To Net: NetName=GND Pin=J36-10
+Added Pin To Net: NetName=JTAG_RTCK Pin=J36-11
+Added Pin To Net: NetName=GND Pin=J36-12
+Added Pin To Net: NetName=JTAG_TDO Pin=J36-13
+Added Pin To Net: NetName=GND Pin=J36-14
+Added Pin To Net: NetName=JTAG_NSRST Pin=J36-15
+Added Pin To Net: NetName=GND Pin=J36-16
+Added Pin To Net: NetName=JTAG_DE Pin=J36-17
+Added Pin To Net: NetName=GND Pin=J36-18
+Added Pin To Net: NetName=JTAG_DACK Pin=J36-19
+Added Pin To Net: NetName=GND Pin=J36-20
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component J36 5103308-5

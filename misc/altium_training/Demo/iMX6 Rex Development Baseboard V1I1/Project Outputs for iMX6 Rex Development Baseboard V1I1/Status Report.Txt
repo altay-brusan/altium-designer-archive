@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:47:03 AM On 12/3/2013
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Prototype] of PCB Document [iMX6 Rex Development Baseboard V1I1_PCB.PcbDoc]
+   Generated File[Pick Place for iMX6 Rex Development Baseboard V1I1_PCB(Prototype).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:47:05 AM On 12/3/2013

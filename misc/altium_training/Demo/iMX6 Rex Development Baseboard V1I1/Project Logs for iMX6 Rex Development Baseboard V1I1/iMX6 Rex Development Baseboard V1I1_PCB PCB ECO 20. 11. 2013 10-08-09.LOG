@@ -1,0 +1,3 @@
+Added Component: Designator=TP10(TP_25C)
+Added Pin To Net: NetName=GND Pin=TP10-1
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component TP10 TP_25MILC

@@ -1,0 +1,43 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: iMX6 Rex Development Baseboard V1I1_PCB.PcbDoc   12/3/2013  10:28:02 AM
+---------------------------------------------------------------------------
+
+Layer Pair : L1 to L6
+ASCII RoundHoles File : iMX6 Rex Development Baseboard V1I1_PCB.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          1092             3137.28 mm (123.51 Inch)
+T2        0.5mm (19.685mil)        Round          109              787.19 mm (30.99 Inch)
+T3        0.7mm (27.559mil)        Round          36               80.82 mm (3.18 Inch)
+T4        0.74mm (29.134mil)       Round          7                9.01 mm (0.35 Inch)
+T5        0.8mm (31.496mil)        Round          4                6.00 mm (0.24 Inch)
+T6        0.85mm (33.465mil)       Round          2                4.45 mm (0.18 Inch)
+T7        0.9mm (35.433mil)        Round          32               194.74 mm (7.67 Inch)
+T8        1mm (39.37mil)           Round          51               364.56 mm (14.35 Inch)
+T9        1.05mm (41.339mil)       Round          2                35.00 mm (1.38 Inch)
+T10       1.09mm (42.913mil)       Round          9                22.57 mm (0.89 Inch)
+T11       1.1mm (43.307mil)        Round          41               473.45 mm (18.64 Inch)
+T12       1.3mm (51.181mil)        Round          8                108.27 mm (4.26 Inch)
+T13       1.35mm (53.15mil)        Round          2                12.96 mm (0.51 Inch)
+T14       1.4mm (55.118mil)        Round          4                35.39 mm (1.39 Inch)
+T15       1.55mm (61.024mil)       Round          2                35.00 mm (1.38 Inch)
+T16       1.6mm (62.992mil)        Round          24               297.61 mm (11.72 Inch)
+T17       1.8mm (70.866mil)        Round          4                15.24 mm (0.60 Inch)
+T18       2mm (78.74mil)           Round          2                14.50 mm (0.57 Inch)
+T19       2.2mm (86.614mil)        Round          5                143.99 mm (5.67 Inch)
+T20       2.3mm (90.551mil)        Round          2                40.16 mm (1.58 Inch)
+T21       2.35mm (92.52mil)        Round          2                9.15 mm (0.36 Inch)
+T22       2.4mm (94.488mil)        Round          4                24.50 mm (0.96 Inch)
+T23       2.7mm (106.299mil)       Round          6                302.39 mm (11.91 Inch)
+T24       3mm (118.11mil)          Round          2                14.50 mm (0.57 Inch)
+T25       3.18mm (125.197mil)      Round          2                25.00 mm (0.98 Inch)
+T26       3.2mm (125.984mil)       Round          5                354.79 mm (13.97 Inch)
+T27       1.05mm (41.339mil)       Round          4         NPTH   79.28 mm (3.12 Inch)
+T28       1.35mm (53.15mil)        Round          2         NPTH   45.40 mm (1.79 Inch)
+T29       1.75mm (68.898mil)       Round          2         NPTH   40.16 mm (1.58 Inch)
+T30       3.25mm (127.953mil)      Round          2         NPTH   12.70 mm (0.50 Inch)
+---------------------------------------------------------------------------
+Totals                                            1469             6726.04 mm (264.80 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

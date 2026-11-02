@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=MPCIE2_SIM_CLK Pin=D5-3
+Removed Pin From Net: NetName=MPCIE2_SIM_PWR Pin=D5-5
+Removed Pin From Net: NetName=BUF_SYS_POKN Pin=Q4-1
+Removed Pin From Net: NetName=+3V3_MPCIE1 Pin=R17-2
+Removed Pin From Net: NetName=BUF_SYS_RSTN Pin=R116-1
+Removed Pin From Net: NetName=+3V3 Pin=R116-2
+Removed Pin From Net: NetName=BUF_SYS_POKN Pin=R117-1
+Removed Pin From Net: NetName=+5V_VCC1 Pin=R135-2
+Removed Pin From Net: NetName=BUF_SYS_POKN Pin=R153-2
+Removed Pin From Net: NetName=BUF_SYS_POKN Pin=U3-3
+Removed Pin From Net: NetName=BUF_SYS_POKN Pin=U21-1
+Removed Member From Class: ClassName=[04] - MINI PCIE1, PCIE Member=R17
+Removed Member From Class: ClassName=[15] - MISC, JTAG, HEADERS Member=R116
+Change Component DesignItemId : Designator=R18 Old DesignItemId=CRCW04021K40FKED New DesignItemId=CRCW04022K10FKED
+Change Component DesignItemId : Designator=R20 Old DesignItemId=ERJ-2RKF1601X New DesignItemId=CRCW04022K40FKED
+Change Component DesignItemId : Designator=R27 Old DesignItemId=ERJ-2RKF1601X New DesignItemId=CRCW04022K40FKED
+Change Component DesignItemId : Designator=R26 Old DesignItemId=RMCF0402FT2K00 New DesignItemId=RC0402FR-073KL
+Change Component DesignItemId : Designator=U20 Old DesignItemId=SN74AHC1G09DBVR New DesignItemId=SN74LVC1G08DCKR
+Change Component DesignItemId : Designator=U21 Old DesignItemId=SN74AHC1G09DBVR New DesignItemId=SN74LVC1G08DCKR
+Change Component Footprint: Designator=U20 Old Footprint=DBV_SOT_23_5 New Footprint=SC70_5
+Change Component Footprint: Designator=U21 Old Footprint=DBV_SOT_23_5 New Footprint=SC70_5
+Change Component Comment : Designator=R18 Old Comment=1k4 New Comment=2k1
+Change Component Comment : Designator=R20 Old Comment=1k6 New Comment=2k4
+Change Component Comment : Designator=R27 Old Comment=1k6 New Comment=2k4
+Change Component Comment : Designator=R26 Old Comment=2k New Comment=3k
+Change Component Comment : Designator=U20 Old Comment=SN74AHC1G09DBVR New Comment=SN74LVC1G08DCKR
+Change Component Comment : Designator=U21 Old Comment=SN74AHC1G09DBVR New Comment=SN74LVC1G08DCKR
+Change Component Description : Designator=R20 Old Description=RES 1.6K OHM 1/10W 1% 0402 SMD New Description=RES 2.40K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R27 Old Description=RES 1.6K OHM 1/10W 1% 0402 SMD New Description=RES 2.40K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R18 Old Description=RES 1.40K OHM 1/16W 1% 0402 SMD New Description=RES 2.10K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R26 Old Description=RES 2K OHM 1/16W 1% 0402 SMD New Description=RES 3K OHM 1/16W 1% 0402 SMD
+Change Component Library : Designator=J3 Old Library=Schlib_RF.SchLib New Library=Integrated_Library_RF_FEB_2012.IntLib
+Change Component Library : Designator=J16 Old Library=Schlib_RF.SchLib New Library=Integrated_Library_RF_FEB_2012.IntLib
+Change Component Library : Designator=J41 Old Library=Schlib_RF.SchLib New Library=Integrated_Library_RF_FEB_2012.IntLib
+Added Pin To Net: NetName=MPCIE2_SIM_PWR Pin=D5-3
+Added Pin To Net: NetName=MPCIE2_SIM_CLK Pin=D5-5
+Added Pin To Net: NetName=+3V3_MPCIE1 Pin=J4-24
+Added Pin To Net: NetName=+3V3 Pin=R135-2
+Change Net Name : Old Net Name=BUF_SYS_POKN New Net Name=RST_BTNN
+Change Net Name : Old Net Name=NetJ3_B10 New Net Name=+3V3_AUX_PCIE
+Added Pin To Net: NetName=POKN Pin=Q4-1
+Added Pin To Net: NetName=POKN Pin=R117-1
+Added Pin To Net: NetName=POKN Pin=R153-2
+Added Pin To Net: NetName=POKN Pin=U3-3
+Added Pin To Net: NetName=POKN Pin=U21-1
+Added Net: Name=POKN

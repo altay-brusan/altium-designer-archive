@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Member From Class: ClassName=HDMI Member=R17
+Added Member To Class: ClassName=HDMI Member=Component J1 HDMI Connector

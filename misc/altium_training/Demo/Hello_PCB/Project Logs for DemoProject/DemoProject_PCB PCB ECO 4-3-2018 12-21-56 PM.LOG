@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=A4 Pin=P1-6
+Removed Pin From Net: NetName=A4 Pin=U1-28
+Removed Member From Class: ClassName=[2] Page 2 Member=DEV1
+Change Component Comment : Designator=P5 Old Comment=Header 2 New Comment=Header 1
+Added Component: Designator=P7(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P8(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetP5_1 New Net Name=P1
+Change Net Name : Old Net Name=NetP5_2 New Net Name=P0
+Added Pin To Net: NetName=A5 Pin=P1-6
+Added Pin To Net: NetName=A5 Pin=U1-28
+Added Net: Name=A5
+Added Pin To Net: NetName=H_N Pin=P7-1
+Added Pin To Net: NetName=H_N Pin=P8-2
+Added Net: Name=H_N
+Added Pin To Net: NetName=H_P Pin=P7-2
+Added Pin To Net: NetName=H_P Pin=P8-1
+Added Net: Name=H_P
+Added Class: Name=Bus[0..1]
+Added Differential Pair: Name=H
+Added Member To Class: ClassName=[2] Page 2 Member=Component P7 Header 1
+Added Member To Class: ClassName=[2] Page 2 Member=Component P8 Header 1

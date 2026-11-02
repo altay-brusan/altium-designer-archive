@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: S:\FEDEVEL\OpenRex\V1I1\OpenRex_V1I1_PCB.PcbDoc
+RuleKind=Clearance|RuleName=Poly to Poly Outer Layers|Scope=Board|Minimum=5.51
+RuleKind=Clearance|RuleName=Signal tracks|Scope=Board|Minimum=6.30
+RuleKind=Clearance|RuleName=Poly to Poly Inner Layers|Scope=Board|Minimum=13.78
+RuleKind=Width|RuleName=Width Ground|Scope=Board|Minimum=9.06
+RuleKind=Width|RuleName=Width Power|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.49
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=DiffPair_DIFF90Width|Scope=Board|Minimum=4.49
+RuleKind=Width|RuleName=DiffPair_DIFF100Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance Non Plated Holes|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Pad Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=PWR Poly to VIA|Scope=Board|Minimum=3.94

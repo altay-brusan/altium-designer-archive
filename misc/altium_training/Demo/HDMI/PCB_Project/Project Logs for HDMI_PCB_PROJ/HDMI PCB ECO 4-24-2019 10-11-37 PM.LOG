@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=HDMI_HPD Pin=J1-19
+Removed Pin From Net: NetName=HDMI_HPD Pin=Q2-1
+Removed Pin From Net: NetName=HDMI_HPD Pin=R8-1
+Removed Pin From Net: NetName=HDMI_HPD Pin=R20-1
+Added Pin To Net: NetName=HDMI_HPD_OUT Pin=J1-19
+Added Pin To Net: NetName=HDMI_HPD_OUT Pin=Q2-1
+Added Pin To Net: NetName=HDMI_HPD_OUT Pin=R8-1
+Added Pin To Net: NetName=HDMI_HPD_OUT Pin=R20-1
+Added Net: Name=HDMI_HPD_OUT

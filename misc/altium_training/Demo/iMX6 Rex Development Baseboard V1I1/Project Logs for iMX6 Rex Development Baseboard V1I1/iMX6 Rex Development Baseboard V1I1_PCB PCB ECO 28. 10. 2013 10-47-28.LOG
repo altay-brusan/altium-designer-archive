@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=J40 Old DesignItemId=76384-304LF New DesignItemId=0532610471
+Change Component Footprint: Designator=J40 Old Footprint=HDR_1x4_2.54MM_SHDR New Footprint=0532610471
+Change Component Comment : Designator=J40 Old Comment=76384-304LF New Comment=0532610471
+Added Pin To Net: NetName=GND Pin=J40-5
+Added Pin To Net: NetName=GND Pin=J40-6

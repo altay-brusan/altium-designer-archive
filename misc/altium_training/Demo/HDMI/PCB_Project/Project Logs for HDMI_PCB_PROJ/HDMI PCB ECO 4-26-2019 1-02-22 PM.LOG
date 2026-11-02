@@ -1,0 +1,6 @@
+Added Differential Pair: Name=TMDS_CLK
+Added Differential Pair: Name=TMDS_D0
+Added Member To Class: ClassName=DIFF_85 Member=Wire TMDS_CLK_N
+Added Member To Class: ClassName=DIFF_85 Member=Wire TMDS_CLK_P
+Added Member To Class: ClassName=DIFF_85 Member=Wire TMDS_D0_N
+Added Member To Class: ClassName=DIFF_85 Member=Wire TMDS_D0_P

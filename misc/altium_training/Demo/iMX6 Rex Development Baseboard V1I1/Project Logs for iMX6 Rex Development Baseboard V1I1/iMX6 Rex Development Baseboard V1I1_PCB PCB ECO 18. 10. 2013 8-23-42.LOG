@@ -1,0 +1,4 @@
+Added Component: Designator=R13(R0402)
+Added Pin To Net: NetName=UART1_SHDN# Pin=R13-1
+Added Pin To Net: NetName=BUF_SYS_RSTN Pin=R13-2
+Added Member To Class: ClassName=[13] - UARTS Member=Component R13 0R

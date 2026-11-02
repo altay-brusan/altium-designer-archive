@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R21 Old Footprint=RES0805_CRG_TYCO New Footprint=STA_RMCF1206-M
+Change Component Footprint: Designator=R22 Old Footprint=RES0805_CRG_TYCO New Footprint=STA_RMCF1206-M
+Added Pin To Net: NetName=HDMI_HPD Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_1 Pin=R22-2
+Added Net: Name=NetQ1_1

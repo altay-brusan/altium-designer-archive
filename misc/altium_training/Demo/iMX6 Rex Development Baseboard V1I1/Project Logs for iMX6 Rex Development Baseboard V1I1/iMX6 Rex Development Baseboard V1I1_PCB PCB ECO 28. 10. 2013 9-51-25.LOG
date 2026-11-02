@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=DIFF100 Member=MX0_N
+Removed Member From Class: ClassName=DIFF100 Member=MX0_P
+Removed Member From Class: ClassName=DIFF100 Member=MX1_N
+Removed Member From Class: ClassName=DIFF100 Member=MX1_P
+Removed Member From Class: ClassName=DIFF100 Member=MX2_N
+Removed Member From Class: ClassName=DIFF100 Member=MX2_P
+Change Net Name : Old Net Name=MX0_N New Net Name=NetJ24_2
+Change Net Name : Old Net Name=MX0_P New Net Name=NetJ24_1
+Change Net Name : Old Net Name=MX1_N New Net Name=NetJ24_6
+Change Net Name : Old Net Name=MX1_P New Net Name=NetJ24_3
+Change Net Name : Old Net Name=MX2_N New Net Name=NetJ24_5
+Change Net Name : Old Net Name=MX2_P New Net Name=NetJ24_4
+Change Net Name : Old Net Name=MX3_N New Net Name=NetJ24_8
+Change Net Name : Old Net Name=MX3_P New Net Name=NetJ24_7
+Added Member To Class: ClassName=HDMI Member=Wire I2C2_SCL
+Added Member To Class: ClassName=HDMI Member=Wire I2C2_SDA
+Added Member To Class: ClassName=DIFF100 Member=Wire NetJ24_1
+Added Member To Class: ClassName=DIFF100 Member=Wire NetJ24_2
+Added Member To Class: ClassName=DIFF100 Member=Wire NetJ24_3
+Added Member To Class: ClassName=DIFF100 Member=Wire NetJ24_4
+Added Member To Class: ClassName=DIFF100 Member=Wire NetJ24_5
+Added Member To Class: ClassName=DIFF100 Member=Wire NetJ24_6
+Added Member To Class: ClassName=DIFF100 Member=Wire NetJ24_7
+Added Member To Class: ClassName=DIFF100 Member=Wire NetJ24_8

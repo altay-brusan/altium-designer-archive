@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=DIFF90 Member=USBUP_N
+Removed Member From Class: ClassName=DIFF90 Member=USBUP_P
+Added Pin To Net: NetName=USB_UP_N Pin=U13-30
+Added Pin To Net: NetName=USB_UP_P Pin=U13-31

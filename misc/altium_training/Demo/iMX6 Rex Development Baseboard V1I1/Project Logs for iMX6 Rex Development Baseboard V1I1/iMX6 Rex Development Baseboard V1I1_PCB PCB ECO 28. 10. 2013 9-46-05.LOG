@@ -1,0 +1,322 @@
+Removed Pin From Net: NetName=+3V3 Pin=C29-1
+Removed Pin From Net: NetName=+3V3 Pin=C30-1
+Removed Pin From Net: NetName=SPKR_LOUT+ Pin=C55-1
+Removed Pin From Net: NetName=SPKR_LOUT- Pin=C56-1
+Removed Pin From Net: NetName=+1V5_MPCIE2 Pin=FB2-1
+Removed Pin From Net: NetName=+1V5_MPCIE1 Pin=FB2-2
+Removed Pin From Net: NetName=I2C4_SCL Pin=J1-35
+Removed Pin From Net: NetName=I2C4_SDA Pin=J1-37
+Removed Pin From Net: NetName=UART2_TXD Pin=J31-3
+Removed Pin From Net: NetName=UART2_RXD Pin=J31-5
+Removed Pin From Net: NetName=I2C4_SDA Pin=J33-8
+Removed Pin From Net: NetName=I2C4_SCL Pin=J33-9
+Removed Pin From Net: NetName=+1V5_MPCIE2 Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=+5V Pin=R31-2
+Removed Pin From Net: NetName=+5V Pin=R33-2
+Removed Pin From Net: NetName=USB_OC Pin=R73-1
+Removed Pin From Net: NetName=+3V3_USB_HUB Pin=R73-2
+Removed Pin From Net: NetName=USB_OTG_ID_CON Pin=R74-1
+Removed Pin From Net: NetName=+3V3 Pin=R74-2
+Removed Pin From Net: NetName=SD2_WP Pin=R103-2
+Removed Pin From Net: NetName=BUF_SYS_RSTN Pin=R150-2
+Removed Pin From Net: NetName=BUF_SYS_POKN Pin=U1-3
+Removed Pin From Net: NetName=+3V3 Pin=U2-1
+Removed Pin From Net: NetName=+3V3 Pin=U2-2
+Removed Pin From Net: NetName=BUF_SYS_POKN Pin=U2-3
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Removed Pin From Net: NetName=POK_3V3 Pin=U2-5
+Removed Pin From Net: NetName=+1V5_MPCIE2 Pin=U2-9
+Removed Pin From Net: NetName=+1V5_MPCIE2 Pin=U2-10
+Removed Pin From Net: NetName=GND Pin=U2-11
+Removed Pin From Net: NetName=GND Pin=U2-12
+Removed Pin From Net: NetName=GND Pin=U2-15
+Removed Pin From Net: NetName=POK_3V3 Pin=U3-5
+Removed Pin From Net: NetName=AUD2_MIC_IN_R Pin=U5-12
+Removed Pin From Net: NetName=AUD2_MIC_IN_L Pin=U5-13
+Removed Pin From Net: NetName=GND Pin=U14-4
+Removed Pin From Net: NetName=GND Pin=U14-18
+Removed Member From Class: ClassName=[04] - MINI PCIE, PCIE Member=FB2
+Removed Member From Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=R23
+Removed Member From Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=R24
+Removed Member From Class: ClassName=[09] - USB Member=R73
+Removed Member From Class: ClassName=[13] - UARTS Member=R150
+Removed Member From Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=U2
+Removed Member From Class: ClassName=DIFF100 Member=MX4_N
+Removed Member From Class: ClassName=MX Member=MX4_N
+Removed Member From Class: ClassName=DIFF100 Member=MX4_P
+Removed Member From Class: ClassName=MX Member=MX4_P
+Removed Member From Class: ClassName=USB0 Member=USBDN4_OC
+Removed Member From Class: ClassName=USB0 Member=USBDN4_PWR_EN
+Change Component DesignItemId : Designator=C30 Old DesignItemId=C1005X5R1A475M New DesignItemId=C1005X5R1H104K
+Change Component DesignItemId : Designator=C31 Old DesignItemId=C1005X5R1A475M New DesignItemId=C1005X5R1H104K
+Change Component DesignItemId : Designator=C29 Old DesignItemId=C1005X5R1C105K New DesignItemId=C1005X5R1H104K
+Change Component DesignItemId : Designator=R23 Old DesignItemId=CRCW04021K40FKED New DesignItemId=RC0402FR-071ML
+Change Component DesignItemId : Designator=R24 Old DesignItemId=ERJ-2RKF1601X New DesignItemId=RC0402JR-070RL
+Change Component DesignItemId : Designator=C32 Old DesignItemId=GRM155R71H272KA01D New DesignItemId=C1005X5R1A475M
+Change Component DesignItemId : Designator=R46 Old DesignItemId=RC0402FR-0710KL New DesignItemId=RC0402JR-070RL
+Change Component DesignItemId : Designator=R150 Old DesignItemId=RC0402JR-070RL New DesignItemId=RC0402FR-0710KL
+Change Component DesignItemId : Designator=R74 Old DesignItemId=RMCF0402FT100K New DesignItemId=RC0402FR-0710KL
+Change Component DesignItemId : Designator=U2 Old DesignItemId=TPS74801DRCR New DesignItemId=TSC2007IPWR
+Change Component Footprint: Designator=U2 Old Footprint=10DRC New Footprint=PW (R-PDGO-G16)
+Change Component Footprint: Designator=J13 Old Footprint=HDR_1x3_2.54MM_SHDR_model2 New Footprint=HDR_1x3_2.54MM_SHDR_V2
+Change Component Comment : Designator=R150 Old Comment=0R New Comment=10k
+Change Component Comment : Designator=R23 Old Comment=1k4 New Comment=1M
+Change Component Comment : Designator=R24 Old Comment=1k6 New Comment=0R
+Change Component Comment : Designator=C29 Old Comment=1u New Comment=100n
+Change Component Comment : Designator=C30 Old Comment=4u7 New Comment=100n
+Change Component Comment : Designator=C31 Old Comment=4u7 New Comment=100n
+Change Component Comment : Designator=R46 Old Comment=10k New Comment=0R
+Change Component Comment : Designator=R74 Old Comment=100k New Comment=10k
+Change Component Comment : Designator=C32 Old Comment=2700pF New Comment=4u7
+Change Component Comment : Designator=J21 Old Comment=0475890001 New Comment=USB MICRO AB
+Change Component Comment : Designator=J33 Old Comment=HDR 2x7 New Comment=HDR 2x7, BOXED
+Change Component Comment : Designator=J34 Old Comment=HDR 2x7 New Comment=HDR 2x7, BOXED
+Change Component Comment : Designator=U2 Old Comment=TPS74801DRCR New Comment=TSC2007IPWR
+Change Component Description : Designator=C29 Old Description=CAP CER 1.0UF 16V X5R 0402 New Description=CAP CER .10UF 50V X5R 10% 0402
+Change Component Description : Designator=C30 Old Description=CAP CER 4.7UF 10V 20% X5R 0402 New Description=CAP CER .10UF 50V X5R 10% 0402
+Change Component Description : Designator=C31 Old Description=CAP CER 4.7UF 10V 20% X5R 0402 New Description=CAP CER .10UF 50V X5R 10% 0402
+Change Component Description : Designator=C32 Old Description=CAP CER 2700PF 50V 10% X7R 0402 New Description=CAP CER 4.7UF 10V 20% X5R 0402
+Change Component Description : Designator=R150 Old Description=RES 0.0 OHM 1/16W 0402 SMD New Description=RES 10.0K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R24 Old Description=RES 1.6K OHM 1/10W 1% 0402 SMD New Description=RES 0.0 OHM 1/16W 0402 SMD
+Change Component Description : Designator=R23 Old Description=RES 1.40K OHM 1/16W 1% 0402 SMD New Description=RES 1.00M OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R46 Old Description=RES 10.0K OHM 1/16W 1% 0402 SMD New Description=RES 0.0 OHM 1/16W 0402 SMD
+Change Component Description : Designator=R74 Old Description=RES 100K OHM 1/16W 1% 0402 SMD New Description=RES 10.0K OHM 1/16W 1% 0402 SMD
+Added Component: Designator=C150(C0603)
+Added Component: Designator=C151(C0402)
+Added Component: Designator=C152(C0402)
+Added Component: Designator=C153(C0402)
+Added Component: Designator=C154(C0402)
+Added Component: Designator=C155(C0402)
+Added Component: Designator=C156(C0402)
+Added Component: Designator=C207(C0402)
+Added Component: Designator=D19(C0603)
+Added Component: Designator=FB19(C0603)
+Added Component: Designator=J40(HDR_1x4_2.54MM_SHDR)
+Added Component: Designator=JP3(HDR_1x2_2.54MM)
+Added Component: Designator=R151(R0402)
+Added Component: Designator=R152(R0402)
+Added Component: Designator=R153(R0402)
+Added Component: Designator=R154(R0402)
+Added Component: Designator=U15(DBZ (R-PDSO-Q3))
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=C29-1
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=C30-1
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=C32-1
+Added Pin To Net: NetName=+1V8 Pin=C35-1
+Added Pin To Net: NetName=SPKR_LOUT- Pin=C55-1
+Added Pin To Net: NetName=SPKR_LOUT+ Pin=C56-1
+Added Pin To Net: NetName=+3V3 Pin=C69-1
+Added Pin To Net: NetName=+3V3 Pin=C70-1
+Added Pin To Net: NetName=GND Pin=C150-2
+Added Pin To Net: NetName=GND Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-2
+Added Pin To Net: NetName=GND Pin=C154-2
+Added Pin To Net: NetName=GND Pin=C155-2
+Added Pin To Net: NetName=+3V3 Pin=C156-1
+Added Pin To Net: NetName=GND Pin=C156-2
+Added Pin To Net: NetName=+3V3 Pin=C163-1
+Added Pin To Net: NetName=+3V3 Pin=C166-1
+Added Pin To Net: NetName=+3V3 Pin=C169-2
+Added Pin To Net: NetName=+3V3 Pin=C170-2
+Added Pin To Net: NetName=+3V3_MODULE Pin=C207-1
+Added Pin To Net: NetName=GND Pin=C207-2
+Added Pin To Net: NetName=USB_OTG_ID_CON Pin=D19-1
+Added Pin To Net: NetName=GND Pin=D19-2
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=FB2-1
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=FB2-2
+Added Pin To Net: NetName=+1V8 Pin=FB11-2
+Added Pin To Net: NetName=+3V3 Pin=FB19-1
+Added Pin To Net: NetName=I2C4_SCL Pin=J1-36
+Added Pin To Net: NetName=I2C4_SDA Pin=J1-38
+Added Pin To Net: NetName=+12V_ATX Pin=J3-B3
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=J9-6
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=J9-28
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=J9-48
+Added Pin To Net: NetName=+3V3 Pin=J15-PC13
+Added Pin To Net: NetName=+3V3 Pin=J15-PC14
+Added Pin To Net: NetName=UART2_RXD Pin=J31-3
+Added Pin To Net: NetName=UART2_TXD Pin=J31-5
+Added Pin To Net: NetName=+3V3 Pin=J31-10
+Added Pin To Net: NetName=SD2_WP Pin=JP3-1
+Added Pin To Net: NetName=USB_XTALOUT Pin=R23-1
+Added Pin To Net: NetName=USB_XTALIN Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=+1V8 Pin=R26-2
+Added Pin To Net: NetName=+5V_AUDIO1 Pin=R31-2
+Added Pin To Net: NetName=+5V_AUDIO1 Pin=R33-2
+Added Pin To Net: NetName=+3V3 Pin=R44-2
+Added Pin To Net: NetName=+3V3 Pin=R73-2
+Added Pin To Net: NetName=GND Pin=R74-1
+Added Pin To Net: NetName=USB_OTG_ID_CON Pin=R74-2
+Added Pin To Net: NetName=+3V3 Pin=R108-2
+Added Pin To Net: NetName=+3V3 Pin=R109-2
+Added Pin To Net: NetName=+3V3 Pin=R114-2
+Added Pin To Net: NetName=+3V3 Pin=R150-2
+Added Pin To Net: NetName=PCIE_WAKE Pin=R151-1
+Added Pin To Net: NetName=+3V3 Pin=R151-2
+Added Pin To Net: NetName=+3V3 Pin=R152-2
+Added Pin To Net: NetName=BUF_SYS_POKN Pin=R153-2
+Added Pin To Net: NetName=+5V_VCC1 Pin=R154-2
+Added Pin To Net: NetName=I2C4_SDA Pin=U2-11
+Added Pin To Net: NetName=I2C4_SCL Pin=U2-12
+Added Pin To Net: NetName=+1V8 Pin=U3-9
+Added Pin To Net: NetName=+1V8 Pin=U3-10
+Added Pin To Net: NetName=AUD2_MIC_IN_L Pin=U5-12
+Added Pin To Net: NetName=AUD2_MIC_IN_R Pin=U5-13
+Added Pin To Net: NetName=I2C4_SCL Pin=U7-17
+Added Pin To Net: NetName=I2C4_SDA Pin=U7-18
+Added Pin To Net: NetName=GND Pin=U15-1
+Added Pin To Net: NetName=+3V3_MODULE Pin=U15-3
+Added Pin To Net: NetName=+3V3 Pin=U16-26
+Added Pin To Net: NetName=+3V3 Pin=U18-1
+Added Pin To Net: NetName=+3V3 Pin=U18-2
+Added Pin To Net: NetName=+3V3 Pin=U18-3
+Added Pin To Net: NetName=+3V3 Pin=U18-8
+Added Pin To Net: NetName=+3V3 Pin=U19-18
+Added Pin To Net: NetName=+3V3 Pin=U19-21
+Added Pin To Net: NetName=+3V3 Pin=U19-23
+Added Pin To Net: NetName=+3V3 Pin=U19-24
+Change Net Name : Old Net Name=+1V8 New Net Name=+1V8_AUDIO2
+Change Net Name : Old Net Name=AUD_LOUT New Net Name=AUD_OUT_L
+Change Net Name : Old Net Name=AUD_ROUT New Net Name=AUD_OUT_R
+Change Net Name : Old Net Name=FIL_AUD_LOUT New Net Name=FIL_AUD_OUT_L
+Change Net Name : Old Net Name=FIL_AUD_ROUT New Net Name=FIL_AUD_OUT_R
+Change Net Name : Old Net Name=HP_OUTL New Net Name=HP_OUT_L
+Change Net Name : Old Net Name=HP_OUTR New Net Name=HP_OUT_R
+Change Net Name : Old Net Name=I2C4_SCL New Net Name=I2C2_SCL
+Change Net Name : Old Net Name=I2C4_SDA New Net Name=I2C2_SDA
+Change Net Name : Old Net Name=MX1_N New Net Name=MX0_N
+Change Net Name : Old Net Name=MX1_P New Net Name=MX0_P
+Change Net Name : Old Net Name=MX2_N New Net Name=MX1_N
+Change Net Name : Old Net Name=MX2_P New Net Name=MX1_P
+Change Net Name : Old Net Name=MX3_N New Net Name=MX2_N
+Change Net Name : Old Net Name=MX3_P New Net Name=MX2_P
+Change Net Name : Old Net Name=MX4_N New Net Name=MX3_N
+Change Net Name : Old Net Name=MX4_P New Net Name=MX3_P
+Change Net Name : Old Net Name=NetC21_1 New Net Name=SS_+1V5_MPCIE1
+Change Net Name : Old Net Name=NetC36_1 New Net Name=SS_+1V8_AUDIO2
+Change Net Name : Old Net Name=NetC47_2 New Net Name=SPKR_C_ROUT-
+Change Net Name : Old Net Name=NetC52_2 New Net Name=SPKR_C_ROUT+
+Change Net Name : Old Net Name=NetC58_1 New Net Name=AMP_PVSS
+Change Net Name : Old Net Name=NetC61_1 New Net Name=AUD2_PREG
+Change Net Name : Old Net Name=NetC62_1 New Net Name=AUD2_REF
+Change Net Name : Old Net Name=NetC63_1 New Net Name=AUD2_REG
+Change Net Name : Old Net Name=NetC64_2 New Net Name=AUD2_MIC_C_R
+Change Net Name : Old Net Name=NetC65_2 New Net Name=AUD2_MIC_C_L
+Change Net Name : Old Net Name=NetC66_1 New Net Name=AMP_C1N
+Change Net Name : Old Net Name=NetC66_2 New Net Name=AMP_C1P
+Change Net Name : Old Net Name=NetC67_2 New Net Name=AMP_BYPASS
+Change Net Name : Old Net Name=NetC68_2 New Net Name=AMP_REG_OUT
+Change Net Name : Old Net Name=NetC81_1 New Net Name=BKLT_IN+
+Change Net Name : Old Net Name=NetC84_1 New Net Name=BKLT_IN-
+Change Net Name : Old Net Name=NetC128_1 New Net Name=+VDDD
+Change Net Name : Old Net Name=NetJ9_42 New Net Name=LED2_WWAN_B
+Change Net Name : Old Net Name=NetJ15_PC17 New Net Name=SATA_CFAST_CDO
+Change Net Name : Old Net Name=NetR18_1 New Net Name=FB_+1V5_MPCIE1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=FB_+1V8_AUDIO2
+Change Net Name : Old Net Name=NetR31_1 New Net Name=AMP_HP_EN
+Change Net Name : Old Net Name=NetR32_2 New Net Name=AMP_REG_EN
+Change Net Name : Old Net Name=NetR33_1 New Net Name=AMP_GAIN
+Change Net Name : Old Net Name=NetR34_2 New Net Name=AMP_SPKR_ENN
+Change Net Name : Old Net Name=PCIE_HPDET# New Net Name=PCIE_HPDETN
+Change Net Name : Old Net Name=SYS_RSTN New Net Name=RST_BUT
+Added Pin To Net: NetName=+3V3_TS Pin=C150-1
+Added Pin To Net: NetName=+3V3_TS Pin=C151-1
+Added Pin To Net: NetName=+3V3_TS Pin=FB19-2
+Added Pin To Net: NetName=+3V3_TS Pin=U2-1
+Added Net: Name=+3V3_TS
+Added Pin To Net: NetName=CPU_GPIO0 Pin=J1-35
+Added Pin To Net: NetName=CPU_GPIO0 Pin=U2-10
+Added Net: Name=CPU_GPIO0
+Added Pin To Net: NetName=CPU_GPIO1 Pin=J1-37
+Added Pin To Net: NetName=CPU_GPIO1 Pin=J33-8
+Added Net: Name=CPU_GPIO1
+Added Pin To Net: NetName=EN_5V Pin=R128-2
+Added Pin To Net: NetName=EN_5V Pin=R154-1
+Added Pin To Net: NetName=EN_5V Pin=U15-2
+Added Pin To Net: NetName=EN_5V Pin=U22-14
+Added Net: Name=EN_5V
+Added Pin To Net: NetName=FORCEOFFN Pin=R108-1
+Added Pin To Net: NetName=FORCEOFFN Pin=U16-21
+Added Net: Name=FORCEOFFN
+Added Pin To Net: NetName=FORCEON Pin=R109-1
+Added Pin To Net: NetName=FORCEON Pin=U16-22
+Added Net: Name=FORCEON
+Added Pin To Net: NetName=MPCIE1_WDISN Pin=J4-20
+Added Pin To Net: NetName=MPCIE1_WDISN Pin=R73-1
+Added Pin To Net: NetName=MPCIE1_WDISN Pin=U19-11
+Added Net: Name=MPCIE1_WDISN
+Added Pin To Net: NetName=MPCIE2_WDISN Pin=J9-20
+Added Pin To Net: NetName=MPCIE2_WDISN Pin=R150-1
+Added Pin To Net: NetName=MPCIE2_WDISN Pin=U19-12
+Added Net: Name=MPCIE2_WDISN
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetJP3_2 Pin=R103-2
+Added Net: Name=NetJP3_2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=U14-4
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=POK_1V5_MPCIE1 Pin=R152-1
+Added Pin To Net: NetName=POK_1V5_MPCIE1 Pin=R153-1
+Added Pin To Net: NetName=POK_1V5_MPCIE1 Pin=U1-3
+Added Pin To Net: NetName=POK_1V5_MPCIE1 Pin=U3-5
+Added Net: Name=POK_1V5_MPCIE1
+Added Pin To Net: NetName=SPKR_C_LOUT+ Pin=C56-2
+Added Pin To Net: NetName=SPKR_C_LOUT+ Pin=U4-3
+Added Net: Name=SPKR_C_LOUT+
+Added Pin To Net: NetName=SPKR_C_LOUT- Pin=C55-2
+Added Pin To Net: NetName=SPKR_C_LOUT- Pin=U4-4
+Added Net: Name=SPKR_C_LOUT-
+Added Pin To Net: NetName=TS_X+ Pin=C153-1
+Added Pin To Net: NetName=TS_X+ Pin=J40-2
+Added Pin To Net: NetName=TS_X+ Pin=U2-2
+Added Net: Name=TS_X+
+Added Pin To Net: NetName=TS_X- Pin=C155-1
+Added Pin To Net: NetName=TS_X- Pin=J40-4
+Added Pin To Net: NetName=TS_X- Pin=U2-4
+Added Net: Name=TS_X-
+Added Pin To Net: NetName=TS_Y+ Pin=C152-1
+Added Pin To Net: NetName=TS_Y+ Pin=J40-1
+Added Pin To Net: NetName=TS_Y+ Pin=U2-3
+Added Net: Name=TS_Y+
+Added Pin To Net: NetName=TS_Y- Pin=C154-1
+Added Pin To Net: NetName=TS_Y- Pin=J40-3
+Added Pin To Net: NetName=TS_Y- Pin=U2-5
+Added Net: Name=TS_Y-
+Change Class Name : Old Net Name=[04] - MINI PCIE, PCIE New Net Name=[04] - MINI PCIE1, PCIE
+Change Class Name : Old Net Name=[12] - MMC FLASH, uSD New Net Name=[12] - MICRO SD
+Change Class Name : Old Net Name=[14] - RTC, EEPROM, IO EXP New Net Name=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN
+Added Class: Name=Audio1
+Added Class: Name=JTAG
+Added Class: Name=UART2
+Added Class: Name=uSD1
+Added Class: Name=uSD2
+Added Differential Pair: Name=MX0
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component C150 10u
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component C151 100n
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component C152 100n
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component C153 100n
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component C154 100n
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component C155 100n
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component C156 100n
+Added Member To Class: ClassName=[16] - POWERS 5V, 3V3 Member=Component C207 100n
+Added Member To Class: ClassName=[09] - USB Member=Component D19 PGB1010603MR
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component FB2 BLM18KG101TN1D
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component FB19 MPZ1608S601A 600OHM/1A
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component J40 76384-304LF
+Added Member To Class: ClassName=[12] - MICRO SD Member=Component JP3 HDR 1x2
+Added Member To Class: ClassName=[09] - USB Member=Component R23 1M
+Added Member To Class: ClassName=[11] - AUDIO1 Member=Component R24 0R
+Added Member To Class: ClassName=[04] - MINI PCIE1, PCIE Member=Component R73 10k
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component R150 10k
+Added Member To Class: ClassName=[04] - MINI PCIE1, PCIE Member=Component R151 10k
+Added Member To Class: ClassName=[04] - MINI PCIE1, PCIE Member=Component R152 10k
+Added Member To Class: ClassName=[04] - MINI PCIE1, PCIE Member=Component R153 0R
+Added Member To Class: ClassName=[16] - POWERS 5V, 3V3 Member=Component R154 10k
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component U2 TSC2007IPWR
+Added Member To Class: ClassName=[16] - POWERS 5V, 3V3 Member=Component U15 TLV803SDBZR
+Added Member To Class: ClassName=DIFF100 Member=Wire MX0_N
+Added Member To Class: ClassName=MX Member=Wire MX0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire MX0_P
+Added Member To Class: ClassName=MX Member=Wire MX0_P

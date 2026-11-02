@@ -1,0 +1,32 @@
+Added Component: Designator=U15(WFBGA-169)
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-AA3
+Added Pin To Net: NetName=GND Pin=U15-AA4
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-AA5
+Added Pin To Net: NetName=GND Pin=U15-AA6
+Added Pin To Net: NetName=SD2_DATA0 Pin=U15-H3
+Added Pin To Net: NetName=SD2_DATA1 Pin=U15-H4
+Added Pin To Net: NetName=SD2_DATA2 Pin=U15-H5
+Added Pin To Net: NetName=SD2_DATA3 Pin=U15-J2
+Added Pin To Net: NetName=SD2_DATA4 Pin=U15-J3
+Added Pin To Net: NetName=SD2_DATA5 Pin=U15-J4
+Added Pin To Net: NetName=SD2_DATA6 Pin=U15-J5
+Added Pin To Net: NetName=SD2_DATA7 Pin=U15-J6
+Added Pin To Net: NetName=MMC_VDDI Pin=U15-K2
+Added Pin To Net: NetName=GND Pin=U15-K4
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-K6
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-M6
+Added Pin To Net: NetName=GND Pin=U15-M7
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-N5
+Added Pin To Net: NetName=GND Pin=U15-P5
+Added Pin To Net: NetName=GND Pin=U15-R10
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-T10
+Added Pin To Net: NetName=NetTP1_1 Pin=U15-U5
+Added Pin To Net: NetName=GND Pin=U15-U8
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-U9
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-W4
+Added Pin To Net: NetName=SD2_CMD Pin=U15-W5
+Added Pin To Net: NetName=SD2_CLK Pin=U15-W6
+Added Pin To Net: NetName=GND Pin=U15-Y2
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-Y4
+Added Pin To Net: NetName=GND Pin=U15-Y5
+Added Member To Class: ClassName=[12] - MMC FLASH, uSD Member=Component U15 MTFC32GJVED-4M

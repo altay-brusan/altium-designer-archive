@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:11:42 PM On 9/27/2013
+
+Output: BOM Live iMX6 Rex Module V1I1 1000pcs
+Type  : BOM
+From  : Variant [Prototype] of Project [iMX6 Rex_V1I1.PrjPcb]
+   Generated File[BOM Live iMX6 Rex Module V1I1 1000pcs.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:12:31 PM On 9/27/2013

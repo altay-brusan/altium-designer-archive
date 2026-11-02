@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=MH9-1
+Removed Pin From Net: NetName=GND Pin=MH10-1
+Removed Pin From Net: NetName=GND Pin=MH11-1
+Removed Pin From Net: NetName=GND Pin=MH12-1
+Change Component DesignItemId : Designator=J19 Old DesignItemId=961206-6404-AR New DesignItemId=30306-6002HB
+Change Component DesignItemId : Designator=J31 Old DesignItemId=961210-6404-AR New DesignItemId=D2510-6002-AR
+Change Component Footprint: Designator=J19 Old Footprint=HDR_2x3_2.54MM New Footprint=HDR_2x3_2.54mm_BOXED
+Change Component Footprint: Designator=J31 Old Footprint=HDR_2x5_2.54MM New Footprint=HDR_2x5_2.54mm_BOXED
+Change Component Comment : Designator=J19 Old Comment=HDR 2x3 2.54MM New Comment=HDR 2X3, BOXED
+Change Component Comment : Designator=J31 Old Comment=HDR 2x5 2.54MM New Comment=HDR 2x5, BOXED
+Added Component: Designator=MH9(MH_5MMD_2.2MMD)
+Added Component: Designator=MH10(MH_5MMD_2.2MMD)
+Added Component: Designator=MH11(MH_5MMD_2.2MMD)
+Added Component: Designator=MH12(MH_5MMD_2.2MMD)
+Added Pin To Net: NetName=GND Pin=MH9-1
+Added Pin To Net: NetName=GND Pin=MH10-1
+Added Pin To Net: NetName=GND Pin=MH11-1
+Added Pin To Net: NetName=GND Pin=MH12-1
+Change Class Name : Old Net Name=[13] - UARTS, SPI New Net Name=[13] - UARTS
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH9 MH_5MMC_2.2MMD
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH10 MH_5MMC_2.2MMD
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH11 MH_5MMC_2.2MMD
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH12 MH_5MMC_2.2MMD

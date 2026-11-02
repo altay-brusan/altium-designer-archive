@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=R28 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R30 Old Footprint=R0402 New Footprint=R1206
+Change Component Description : Designator=R24 Old Description=RES SMD 2.2K OHM 1% 1/16W 0402 New Description= RES.(3216) 1206 2.2K Ohms 1% 1/4W-S 100PPM 
+Change Component Description : Designator=R25 Old Description=RES SMD 2.2K OHM 1% 1/16W 0402 New Description= RES.(3216) 1206 2.2K Ohms 1% 1/4W-S 100PPM 
+Change Component Description : Designator=R28 Old Description=RES SMD 2.2K OHM 1% 1/16W 0402 New Description= RES.(3216) 1206 2.2K Ohms 1% 1/4W-S 100PPM 
+Change Component Description : Designator=R30 Old Description=RES SMD 2.2K OHM 1% 1/16W 0402 New Description= RES.(3216) 1206 2.2K Ohms 1% 1/4W-S 100PPM 
+Change component parameters: Designator = "R24"; Footprint = "R1206"; UniqueID = "\HTPUUQLE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25"; Footprint = "R1206"; UniqueID = "\RIBPVSHU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28"; Footprint = "R1206"; UniqueID = "\BVNTUTRQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30"; Footprint = "R1206"; UniqueID = "\KUPQHFSD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"

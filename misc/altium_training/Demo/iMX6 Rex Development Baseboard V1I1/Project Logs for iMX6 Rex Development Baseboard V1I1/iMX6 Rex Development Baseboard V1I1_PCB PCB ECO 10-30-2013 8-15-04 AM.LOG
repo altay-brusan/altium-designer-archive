@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=R74-1
+Change Component DesignItemId : Designator=R74 Old DesignItemId=RC0402FR-0710KL New DesignItemId=RMCF0402FT100K
+Change Component Comment : Designator=R74 Old Comment=10k New Comment=100k
+Change Component Description : Designator=R74 Old Description=RES 10.0K OHM 1/16W 1% 0402 SMD New Description=RES 100K OHM 1/16W 1% 0402 SMD
+Change Component Library : Designator=CFAST1 Old Library=Integrated_Library_RF_KDS_BB.IntLib New Library=Integrated_Library_RF_FEB_2012.IntLib
+Added Pin To Net: NetName=USB0_ID Pin=D19-1
+Added Pin To Net: NetName=USB0_ID Pin=J21-4
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=USB0_ID Pin=R74-1
+Added Pin To Net: NetName=GND Pin=R74-2

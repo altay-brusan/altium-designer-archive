@@ -1,0 +1,8 @@
+Added Component: Designator=FID5(FID_40X120D)
+Added Component: Designator=FID6(FID_40X120D)
+Added Component: Designator=FID7(FID_40X120D)
+Added Component: Designator=FID8(FID_40X120D)
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component FID5 FID_1MMC
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component FID6 FID_1MMC
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component FID7 FID_1MMC
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component FID8 FID_1MMC

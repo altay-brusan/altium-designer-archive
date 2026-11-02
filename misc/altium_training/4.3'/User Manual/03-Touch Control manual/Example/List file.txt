@@ -1,0 +1,4 @@
+[000]--C:\Users\wy\Desktop\用户手册\刻盘\4.3''\User Manual\03-Touch Control manual\Example\00.BMP
+[001]--C:\Users\wy\Desktop\用户手册\刻盘\4.3''\User Manual\03-Touch Control manual\Example\01.BMP
+[002]--C:\Users\wy\Desktop\用户手册\刻盘\4.3''\User Manual\03-Touch Control manual\Example\02.BMP
+[003]--C:\Users\wy\Desktop\用户手册\刻盘\4.3''\User Manual\03-Touch Control manual\Example\03.BMP

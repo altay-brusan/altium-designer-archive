@@ -1,0 +1,570 @@
+Change Component Comment : Designator=C48 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C53 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C59 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C60 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C64 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C65 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C81 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C130 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C131 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C159 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C161 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C162 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C168 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C169 Old Comment=1uF New Comment=1u
+Change Component Comment : Designator=C79 Old Comment=22uF New Comment=22u
+Change Component Comment : Designator=C69 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C78 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C80 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C83 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C84 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C120 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C121 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C163 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C166 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C167 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C170 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C198 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C199 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C200 Old Comment=100nF New Comment=100n
+Change Component Comment : Designator=C160 Old Comment=220nF New Comment=220n
+Added Component: Designator=C12(C2917)
+Added Component: Designator=C13(C2917)
+Added Component: Designator=C24(C2917)
+Added Component: Designator=C25(C2917)
+Added Component: Designator=C40(C2917)
+Added Component: Designator=C85(C2917)
+Added Component: Designator=C87(C2917)
+Added Component: Designator=C91(C2917)
+Added Component: Designator=C92(C2917)
+Added Component: Designator=C96(C2917)
+Added Component: Designator=D3(LED_0603)
+Added Component: Designator=D4(SOT665)
+Added Component: Designator=D5(SOT665)
+Added Component: Designator=D7(SOD323)
+Added Component: Designator=J3(Mini_PCIe_36pin)
+Added Component: Designator=J4(MINI_PCIE_52PIN_CARD_CON)
+Added Component: Designator=J5(SIM_CARD_SCKT)
+Added Component: Designator=J6(MINI_PCIE_52PIN_CARD_LATCH)
+Added Component: Designator=J7(SIM_CARD_SCKT)
+Added Component: Designator=J8(MINI_PCIE_52PIN_CARD_LATCH)
+Added Component: Designator=J9(MINI_PCIE_52PIN_CARD_CON)
+Added Component: Designator=J10(HDR_1x2_2.54MM_SHDR)
+Added Component: Designator=J11(HDR_1x2_2.54MM_SHDR)
+Added Component: Designator=J12(HDR_1x2_2.54MM_SHDR)
+Added Component: Designator=J13(Hdr_1x3_2.54mm)
+Added Component: Designator=J17(Hdr_1x3_2.54mm)
+Added Component: Designator=J18(Hdr_1x3_2.54mm)
+Added Component: Designator=J19(DF11-6DP-2DS)
+Added Component: Designator=J21(USB_Micro_AB)
+Added Component: Designator=J33(HDR_2x7_2.54MM_BOXED)
+Added Component: Designator=J34(HDR_2x7_2.54MM_BOXED)
+Added Component: Designator=J38(015244449)
+Added Component: Designator=R18(R0402)
+Added Component: Designator=R23(R0402)
+Added Component: Designator=SW1(FSMRA2JH)
+Added Component: Designator=SW2(FSMRA3JH)
+Added Component: Designator=SW3(FSMRA3JH)
+Added Component: Designator=U1(10DRC)
+Added Component: Designator=U2(10DRC)
+Added Component: Designator=U3(10DRC)
+Added Component: Designator=U4(VQFN32 5x5x0.85)
+Added Component: Designator=U5(QFN32 5x5x0.85)
+Added Component: Designator=U6(DCT_8)
+Added Component: Designator=U7(TSSOP_38)
+Added Component: Designator=U14(QFN32 5x5x0.85)
+Added Component: Designator=U15(WFBGA-169)
+Added Component: Designator=Y1(ASFLMB)
+Added Component: Designator=Y2(FI-SE20P-HFE)
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC12_1 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=NetC24_1 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=+5V_AUDIO1 Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=+5V_USB1_VBUS Pin=C85-1
+Added Pin To Net: NetName=GND Pin=C85-2
+Added Pin To Net: NetName=+5V_USB_OTG Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C87-2
+Added Pin To Net: NetName=+5V_USBDN1_VBUS Pin=C91-1
+Added Pin To Net: NetName=GND Pin=C91-2
+Added Pin To Net: NetName=+5V_USBDN2_VBUS Pin=C92-1
+Added Pin To Net: NetName=GND Pin=C92-2
+Added Pin To Net: NetName=+5V_USBDN3_VBUS Pin=C96-1
+Added Pin To Net: NetName=GND Pin=C96-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=+3V3 Pin=D3-2
+Added Pin To Net: NetName=MPCIE1_SIM_RST Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=MPCIE1_SIM_CLK Pin=D4-3
+Added Pin To Net: NetName=MPCIE1_SIM_DATA Pin=D4-4
+Added Pin To Net: NetName=MPCIE1_SIM_PWR Pin=D4-5
+Added Pin To Net: NetName=MPCIE2_SIM_RST Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=MPCIE2_SIM_CLK Pin=D5-3
+Added Pin To Net: NetName=MPCIE2_SIM_DATA Pin=D5-4
+Added Pin To Net: NetName=MPCIE2_SIM_PWR Pin=D5-5
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=+3V3 Pin=D7-2
+Added Pin To Net: NetName=NetJ3_A1 Pin=J3-A1
+Added Pin To Net: NetName=+12V_ATX Pin=J3-A2
+Added Pin To Net: NetName=+12V_ATX Pin=J3-A3
+Added Pin To Net: NetName=GND Pin=J3-A4
+Added Pin To Net: NetName=+3V3 Pin=J3-A9
+Added Pin To Net: NetName=+3V3 Pin=J3-A10
+Added Pin To Net: NetName=PCIE_RST Pin=J3-A11
+Added Pin To Net: NetName=GND Pin=J3-A12
+Added Pin To Net: NetName=PCIE_CON_CLK1_P Pin=J3-A13
+Added Pin To Net: NetName=PCIE_CON_CLK1_N Pin=J3-A14
+Added Pin To Net: NetName=GND Pin=J3-A15
+Added Pin To Net: NetName=PCIE_CON_RX_P Pin=J3-A16
+Added Pin To Net: NetName=PCIE_CON_RX_N Pin=J3-A17
+Added Pin To Net: NetName=GND Pin=J3-A18
+Added Pin To Net: NetName=+12V_ATX Pin=J3-B1
+Added Pin To Net: NetName=+12V_ATX Pin=J3-B2
+Added Pin To Net: NetName=GND Pin=J3-B4
+Added Pin To Net: NetName=I2C4_SCL Pin=J3-B5
+Added Pin To Net: NetName=I2C4_SDA Pin=J3-B6
+Added Pin To Net: NetName=GND Pin=J3-B7
+Added Pin To Net: NetName=+3V3 Pin=J3-B8
+Added Pin To Net: NetName=NetJ3_B10 Pin=J3-B10
+Added Pin To Net: NetName=PCIE_WAKE Pin=J3-B11
+Added Pin To Net: NetName=GND Pin=J3-B13
+Added Pin To Net: NetName=PCIE_CON_TX_P Pin=J3-B14
+Added Pin To Net: NetName=PCIE_CON_TX_N Pin=J3-B15
+Added Pin To Net: NetName=GND Pin=J3-B16
+Added Pin To Net: NetName=NetJ3_B17 Pin=J3-B17
+Added Pin To Net: NetName=GND Pin=J3-B18
+Added Pin To Net: NetName=PCIE_WAKE Pin=J4-1
+Added Pin To Net: NetName=NetC12_1 Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=J4-6
+Added Pin To Net: NetName=MPCIE1_SIM_PWR Pin=J4-8
+Added Pin To Net: NetName=GND Pin=J4-9
+Added Pin To Net: NetName=MPCIE1_SIM_DATA Pin=J4-10
+Added Pin To Net: NetName=MPCIE1_CLK1_N Pin=J4-11
+Added Pin To Net: NetName=MPCIE1_SIM_CLK Pin=J4-12
+Added Pin To Net: NetName=MPCIE1_CLK1_P Pin=J4-13
+Added Pin To Net: NetName=MPCIE1_SIM_RST Pin=J4-14
+Added Pin To Net: NetName=GND Pin=J4-15
+Added Pin To Net: NetName=MPCIE1_SIM_VPP Pin=J4-16
+Added Pin To Net: NetName=GND Pin=J4-18
+Added Pin To Net: NetName=NetJ4_20 Pin=J4-20
+Added Pin To Net: NetName=GND Pin=J4-21
+Added Pin To Net: NetName=BUF_SYS_RSTN Pin=J4-22
+Added Pin To Net: NetName=MPCIE1_RX_N Pin=J4-23
+Added Pin To Net: NetName=NetJ4_24 Pin=J4-24
+Added Pin To Net: NetName=MPCIE1_RX_P Pin=J4-25
+Added Pin To Net: NetName=GND Pin=J4-26
+Added Pin To Net: NetName=GND Pin=J4-27
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=J4-28
+Added Pin To Net: NetName=GND Pin=J4-29
+Added Pin To Net: NetName=I2C4_SCL Pin=J4-30
+Added Pin To Net: NetName=MPCIE1_TX_N Pin=J4-31
+Added Pin To Net: NetName=I2C4_SDA Pin=J4-32
+Added Pin To Net: NetName=MPCIE1_TX_P Pin=J4-33
+Added Pin To Net: NetName=GND Pin=J4-34
+Added Pin To Net: NetName=GND Pin=J4-35
+Added Pin To Net: NetName=USB_MPCIE1_CON_N Pin=J4-36
+Added Pin To Net: NetName=GND Pin=J4-37
+Added Pin To Net: NetName=USB_MPCIE1_CON_P Pin=J4-38
+Added Pin To Net: NetName=NetC12_1 Pin=J4-39
+Added Pin To Net: NetName=GND Pin=J4-40
+Added Pin To Net: NetName=NetC12_1 Pin=J4-41
+Added Pin To Net: NetName=LED_WWAN_B Pin=J4-42
+Added Pin To Net: NetName=GND Pin=J4-43
+Added Pin To Net: NetName=LED_WLAN_B Pin=J4-44
+Added Pin To Net: NetName=LED_WPAN_B Pin=J4-46
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=J4-48
+Added Pin To Net: NetName=GND Pin=J4-50
+Added Pin To Net: NetName=NetC12_1 Pin=J4-52
+Added Pin To Net: NetName=MPCIE1_SIM_PWR Pin=J5-C1
+Added Pin To Net: NetName=MPCIE1_SIM_RST Pin=J5-C2
+Added Pin To Net: NetName=MPCIE1_SIM_CLK Pin=J5-C3
+Added Pin To Net: NetName=GND Pin=J5-C5
+Added Pin To Net: NetName=MPCIE1_SIM_VPP Pin=J5-C6
+Added Pin To Net: NetName=MPCIE1_SIM_DATA Pin=J5-C7
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=MPCIE2_SIM_PWR Pin=J7-C1
+Added Pin To Net: NetName=MPCIE2_SIM_RST Pin=J7-C2
+Added Pin To Net: NetName=MPCIE2_SIM_CLK Pin=J7-C3
+Added Pin To Net: NetName=GND Pin=J7-C5
+Added Pin To Net: NetName=MPCIE2_SIM_DATA Pin=J7-C7
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=GND Pin=J8-6
+Added Pin To Net: NetName=PCIE_WAKE Pin=J9-1
+Added Pin To Net: NetName=NetC24_1 Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=MPCIE2_SIM_PWR Pin=J9-8
+Added Pin To Net: NetName=GND Pin=J9-9
+Added Pin To Net: NetName=MPCIE2_SIM_DATA Pin=J9-10
+Added Pin To Net: NetName=MPCIE2_SIM_CLK Pin=J9-12
+Added Pin To Net: NetName=MPCIE2_SIM_RST Pin=J9-14
+Added Pin To Net: NetName=GND Pin=J9-15
+Added Pin To Net: NetName=GND Pin=J9-18
+Added Pin To Net: NetName=NetJ9_20 Pin=J9-20
+Added Pin To Net: NetName=GND Pin=J9-21
+Added Pin To Net: NetName=BUF_SYS_RSTN Pin=J9-22
+Added Pin To Net: NetName=NetC24_1 Pin=J9-24
+Added Pin To Net: NetName=GND Pin=J9-26
+Added Pin To Net: NetName=GND Pin=J9-27
+Added Pin To Net: NetName=GND Pin=J9-29
+Added Pin To Net: NetName=GND Pin=J9-34
+Added Pin To Net: NetName=GND Pin=J9-35
+Added Pin To Net: NetName=USB_MPCIE2_CON_N Pin=J9-36
+Added Pin To Net: NetName=GND Pin=J9-37
+Added Pin To Net: NetName=USB_MPCIE2_CON_P Pin=J9-38
+Added Pin To Net: NetName=NetC24_1 Pin=J9-39
+Added Pin To Net: NetName=GND Pin=J9-40
+Added Pin To Net: NetName=NetC24_1 Pin=J9-41
+Added Pin To Net: NetName=NetJ9_42 Pin=J9-42
+Added Pin To Net: NetName=GND Pin=J9-43
+Added Pin To Net: NetName=MPCIE2_PCM_CLK Pin=J9-45
+Added Pin To Net: NetName=MPCIE2_PCM_RX Pin=J9-47
+Added Pin To Net: NetName=MPCIE2_PCM_TX Pin=J9-49
+Added Pin To Net: NetName=GND Pin=J9-50
+Added Pin To Net: NetName=MPCIE2_CPM_SYNC Pin=J9-51
+Added Pin To Net: NetName=NetC24_1 Pin=J9-52
+Added Pin To Net: NetName=MODEM_LOUT+ Pin=J10-1
+Added Pin To Net: NetName=MODEM_LOUT- Pin=J10-2
+Added Pin To Net: NetName=AUD2_FIL_MIC_IN Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=MODEM_ROUT+ Pin=J12-1
+Added Pin To Net: NetName=MODEM_ROUT- Pin=J12-2
+Added Pin To Net: NetName=LINE_IN_C_L Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=LINE_IN_C_R Pin=J13-3
+Added Pin To Net: NetName=+5V Pin=J17-1
+Added Pin To Net: NetName=+VDD_LVDS_SW Pin=J17-2
+Added Pin To Net: NetName=+3V3 Pin=J17-3
+Added Pin To Net: NetName=+VIN Pin=J18-1
+Added Pin To Net: NetName=NetC82_1 Pin=J18-2
+Added Pin To Net: NetName=+5V Pin=J18-3
+Added Pin To Net: NetName=NetC82_1 Pin=J19-1
+Added Pin To Net: NetName=GND Pin=J19-2
+Added Pin To Net: NetName=P_ENABKL_5V Pin=J19-3
+Added Pin To Net: NetName=BKLT_ADJ Pin=J19-4
+Added Pin To Net: NetName=NetJ2_6 Pin=J19-5
+Added Pin To Net: NetName=+5V_USB_OTG Pin=J21-1
+Added Pin To Net: NetName=USB_OTG_CON_N Pin=J21-2
+Added Pin To Net: NetName=USB_OTG_CON_P Pin=J21-3
+Added Pin To Net: NetName=USB_OTG_ID_CON Pin=J21-4
+Added Pin To Net: NetName=GND Pin=J21-5
+Added Pin To Net: NetName=GND Pin=J21-6
+Added Pin To Net: NetName=GND Pin=J21-7
+Added Pin To Net: NetName=GND Pin=J21-8
+Added Pin To Net: NetName=GND Pin=J21-10
+Added Pin To Net: NetName=+3V3 Pin=J33-1
+Added Pin To Net: NetName=NetJ33_2 Pin=J33-2
+Added Pin To Net: NetName=+3V3 Pin=J33-3
+Added Pin To Net: NetName=NetJ33_4 Pin=J33-4
+Added Pin To Net: NetName=BUF_SYS_POKN Pin=J33-5
+Added Pin To Net: NetName=BUF_SYS_RSTN Pin=J33-6
+Added Pin To Net: NetName=NetJ1_6 Pin=J33-7
+Added Pin To Net: NetName=I2C4_SDA Pin=J33-8
+Added Pin To Net: NetName=I2C4_SCL Pin=J33-9
+Added Pin To Net: NetName=NetJ1_19 Pin=J33-10
+Added Pin To Net: NetName=NetJ1_21 Pin=J33-11
+Added Pin To Net: NetName=NetJ1_23 Pin=J33-12
+Added Pin To Net: NetName=GND Pin=J33-13
+Added Pin To Net: NetName=NetJ1_17 Pin=J33-14
+Added Pin To Net: NetName=+3V3 Pin=J34-1
+Added Pin To Net: NetName=PCIE_WAKE Pin=J34-2
+Added Pin To Net: NetName=+3V3 Pin=J34-3
+Added Pin To Net: NetName=NetJ34_4 Pin=J34-4
+Added Pin To Net: NetName=NetJ34_5 Pin=J34-5
+Added Pin To Net: NetName=NetJ34_6 Pin=J34-6
+Added Pin To Net: NetName=NetJ34_7 Pin=J34-7
+Added Pin To Net: NetName=NetJ34_8 Pin=J34-8
+Added Pin To Net: NetName=NetJ34_9 Pin=J34-9
+Added Pin To Net: NetName=NetJ34_10 Pin=J34-10
+Added Pin To Net: NetName=NetJ34_11 Pin=J34-11
+Added Pin To Net: NetName=NetJ2_17 Pin=J34-12
+Added Pin To Net: NetName=GND Pin=J34-13
+Added Pin To Net: NetName=NetJ2_19 Pin=J34-14
+Added Pin To Net: NetName=+12V_ATX Pin=J38-1
+Added Pin To Net: NetName=GND Pin=J38-2
+Added Pin To Net: NetName=GND Pin=J38-3
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=R18-2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=SYS_RSTN Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=PWR_BTNN Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=USR_BTNN_R Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW3-3
+Added Pin To Net: NetName=GND Pin=SW3-4
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-2
+Added Pin To Net: NetName=+3V3 Pin=U1-4
+Added Pin To Net: NetName=POK_3V3 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=NetC21_1 Pin=U1-7
+Added Pin To Net: NetName=NetR18_1 Pin=U1-8
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=U1-9
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=+3V3 Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U2-2
+Added Pin To Net: NetName=+3V3 Pin=U2-4
+Added Pin To Net: NetName=POK_3V3 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=NetC32_1 Pin=U2-7
+Added Pin To Net: NetName=NetR23_1 Pin=U2-8
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=U2-9
+Added Pin To Net: NetName=+1V5_MPCIE2 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=+3V3 Pin=U3-1
+Added Pin To Net: NetName=+3V3 Pin=U3-2
+Added Pin To Net: NetName=+3V3 Pin=U3-4
+Added Pin To Net: NetName=POK_3V3 Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=NetC36_1 Pin=U3-7
+Added Pin To Net: NetName=NetR26_1 Pin=U3-8
+Added Pin To Net: NetName=+1V8_AUDIO2 Pin=U3-9
+Added Pin To Net: NetName=+1V8_AUDIO2 Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=NetC47_2 Pin=U4-1
+Added Pin To Net: NetName=NetC52_2 Pin=U4-2
+Added Pin To Net: NetName=NetC55_2 Pin=U4-3
+Added Pin To Net: NetName=NetC56_2 Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=MODEM_LOUT+ Pin=U4-6
+Added Pin To Net: NetName=MODEM_LOUT- Pin=U4-7
+Added Pin To Net: NetName=+5V_AUDIO1 Pin=U4-8
+Added Pin To Net: NetName=+5V_AUDIO1 Pin=U4-9
+Added Pin To Net: NetName=NetC66_2 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=NetC66_1 Pin=U4-12
+Added Pin To Net: NetName=NetC58_1 Pin=U4-13
+Added Pin To Net: NetName=NetC58_1 Pin=U4-14
+Added Pin To Net: NetName=NetR88_1 Pin=U4-15
+Added Pin To Net: NetName=NetR89_1 Pin=U4-16
+Added Pin To Net: NetName=+5V_AUDIO1 Pin=U4-17
+Added Pin To Net: NetName=+5V_AUDIO1 Pin=U4-18
+Added Pin To Net: NetName=MODEM_ROUT- Pin=U4-19
+Added Pin To Net: NetName=MODEM_ROUT+ Pin=U4-20
+Added Pin To Net: NetName=GND Pin=U4-21
+Added Pin To Net: NetName=NetR31_1 Pin=U4-22
+Added Pin To Net: NetName=NetR34_2 Pin=U4-23
+Added Pin To Net: NetName=NetC67_2 Pin=U4-24
+Added Pin To Net: NetName=NetR32_2 Pin=U4-25
+Added Pin To Net: NetName=NetC138_2 Pin=U4-26
+Added Pin To Net: NetName=NetC136_2 Pin=U4-27
+Added Pin To Net: NetName=GND Pin=U4-28
+Added Pin To Net: NetName=NetC68_2 Pin=U4-29
+Added Pin To Net: NetName=+5V_AUDIO1 Pin=U4-30
+Added Pin To Net: NetName=NetR33_1 Pin=U4-31
+Added Pin To Net: NetName=NetR33_1 Pin=U4-32
+Added Pin To Net: NetName=GND Pin=U4-33
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=NetR30_1 Pin=U5-2
+Added Pin To Net: NetName=NetR29_1 Pin=U5-3
+Added Pin To Net: NetName=+1V8 Pin=U5-5
+Added Pin To Net: NetName=NetC62_1 Pin=U5-6
+Added Pin To Net: NetName=NetC61_1 Pin=U5-7
+Added Pin To Net: NetName=NetC63_1 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=AUD2_MIC_BIAS Pin=U5-10
+Added Pin To Net: NetName=NetC65_2 Pin=U5-11
+Added Pin To Net: NetName=AUD2_MIC_IN_R Pin=U5-12
+Added Pin To Net: NetName=AUD2_MIC_IN_L Pin=U5-13
+Added Pin To Net: NetName=NetC64_2 Pin=U5-14
+Added Pin To Net: NetName=LINE_IN_L Pin=U5-15
+Added Pin To Net: NetName=LINE_IN_R Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=SPKR_ROUT+ Pin=U5-19
+Added Pin To Net: NetName=SPKR_ROUT- Pin=U5-20
+Added Pin To Net: NetName=SPKR_LOUT- Pin=U5-21
+Added Pin To Net: NetName=SPKR_LOUT+ Pin=U5-22
+Added Pin To Net: NetName=+1V8 Pin=U5-23
+Added Pin To Net: NetName=+1V8 Pin=U5-26
+Added Pin To Net: NetName=MPCIE2_PCM_RX Pin=U5-27
+Added Pin To Net: NetName=MPCIE2_PCM_TX Pin=U5-28
+Added Pin To Net: NetName=MPCIE2_CPM_SYNC Pin=U5-29
+Added Pin To Net: NetName=MPCIE2_PCM_CLK Pin=U5-30
+Added Pin To Net: NetName=MPCIE2_CLK Pin=U5-31
+Added Pin To Net: NetName=+1V8 Pin=U5-32
+Added Pin To Net: NetName=GND Pin=U5-33
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=+1V8 Pin=U6-2
+Added Pin To Net: NetName=NetR30_1 Pin=U6-3
+Added Pin To Net: NetName=NetR29_1 Pin=U6-4
+Added Pin To Net: NetName=I2C4_SDA Pin=U6-5
+Added Pin To Net: NetName=I2C4_SCL Pin=U6-6
+Added Pin To Net: NetName=+3V3 Pin=U6-7
+Added Pin To Net: NetName=+3V3 Pin=U6-8
+Added Pin To Net: NetName=+5V Pin=U7-1
+Added Pin To Net: NetName=NetC72_1 Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=HDMI_D2_P Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=HDMI_D2_N Pin=U7-6
+Added Pin To Net: NetName=HDMI_D1_P Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=HDMI_D1_N Pin=U7-9
+Added Pin To Net: NetName=HDMI_D0_P Pin=U7-10
+Added Pin To Net: NetName=GND Pin=U7-11
+Added Pin To Net: NetName=HDMI_D0_N Pin=U7-12
+Added Pin To Net: NetName=HDMI_CLK_P Pin=U7-13
+Added Pin To Net: NetName=GND Pin=U7-14
+Added Pin To Net: NetName=HDMI_CLK_N Pin=U7-15
+Added Pin To Net: NetName=HDMI_CEC_IN Pin=U7-16
+Added Pin To Net: NetName=I2C2_SCL Pin=U7-17
+Added Pin To Net: NetName=I2C2_SDA Pin=U7-18
+Added Pin To Net: NetName=HDMI_HPD Pin=U7-19
+Added Pin To Net: NetName=HDMI_HPD_CON Pin=U7-20
+Added Pin To Net: NetName=HDMI_SDA_CON Pin=U7-21
+Added Pin To Net: NetName=HDMI_SCL_CON Pin=U7-22
+Added Pin To Net: NetName=HDMI_CEC_CON Pin=U7-23
+Added Pin To Net: NetName=HDMI_CLK_CON_N Pin=U7-24
+Added Pin To Net: NetName=GND Pin=U7-25
+Added Pin To Net: NetName=HDMI_CLK_CON_P Pin=U7-26
+Added Pin To Net: NetName=HDMI_D0_CON_N Pin=U7-27
+Added Pin To Net: NetName=GND Pin=U7-28
+Added Pin To Net: NetName=HDMI_D0_CON_P Pin=U7-29
+Added Pin To Net: NetName=HDMI_D1_CON_N Pin=U7-30
+Added Pin To Net: NetName=GND Pin=U7-31
+Added Pin To Net: NetName=HDMI_D1_CON_P Pin=U7-32
+Added Pin To Net: NetName=HDMI_D2_CON_N Pin=U7-33
+Added Pin To Net: NetName=GND Pin=U7-34
+Added Pin To Net: NetName=HDMI_D2_CON_P Pin=U7-35
+Added Pin To Net: NetName=GND Pin=U7-36
+Added Pin To Net: NetName=NetC73_1 Pin=U7-37
+Added Pin To Net: NetName=+5V_HDMI_CON Pin=U7-38
+Added Pin To Net: NetName=GND Pin=U14-1
+Added Pin To Net: NetName=NetC138_1 Pin=U14-2
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=GND Pin=U14-4
+Added Pin To Net: NetName=+VDDA Pin=U14-5
+Added Pin To Net: NetName=NetC136_1 Pin=U14-6
+Added Pin To Net: NetName=GND Pin=U14-7
+Added Pin To Net: NetName=NetC140_1 Pin=U14-10
+Added Pin To Net: NetName=AUD_ROUT Pin=U14-11
+Added Pin To Net: NetName=AUD_LOUT Pin=U14-12
+Added Pin To Net: NetName=LINEIN_R Pin=U14-13
+Added Pin To Net: NetName=LINEIN_L Pin=U14-14
+Added Pin To Net: NetName=MIC_IN Pin=U14-15
+Added Pin To Net: NetName=MIC_BIAS Pin=U14-16
+Added Pin To Net: NetName=GND Pin=U14-18
+Added Pin To Net: NetName=+VDDIO Pin=U14-20
+Added Pin To Net: NetName=NetJ2_20 Pin=U14-21
+Added Pin To Net: NetName=NetJ2_24 Pin=U14-23
+Added Pin To Net: NetName=NetJ2_16 Pin=U14-24
+Added Pin To Net: NetName=NetJ2_22 Pin=U14-25
+Added Pin To Net: NetName=NetJ2_18 Pin=U14-26
+Added Pin To Net: NetName=NetJ2_12 Pin=U14-27
+Added Pin To Net: NetName=NetJ2_14 Pin=U14-29
+Added Pin To Net: NetName=NetC128_1 Pin=U14-30
+Added Pin To Net: NetName=GND Pin=U14-31
+Added Pin To Net: NetName=GND Pin=U14-32
+Added Pin To Net: NetName=GND Pin=U14-33
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-AA3
+Added Pin To Net: NetName=GND Pin=U15-AA4
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-AA5
+Added Pin To Net: NetName=GND Pin=U15-AA6
+Added Pin To Net: NetName=NetJ2_26 Pin=U15-H3
+Added Pin To Net: NetName=NetJ2_23 Pin=U15-H4
+Added Pin To Net: NetName=NetJ2_28 Pin=U15-H5
+Added Pin To Net: NetName=NetJ2_25 Pin=U15-J2
+Added Pin To Net: NetName=NetJ2_30 Pin=U15-J3
+Added Pin To Net: NetName=NetJ2_27 Pin=U15-J4
+Added Pin To Net: NetName=NetJ2_32 Pin=U15-J5
+Added Pin To Net: NetName=NetJ2_29 Pin=U15-J6
+Added Pin To Net: NetName=MMC_VDDI Pin=U15-K2
+Added Pin To Net: NetName=GND Pin=U15-K4
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-K6
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-M6
+Added Pin To Net: NetName=GND Pin=U15-M7
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-N5
+Added Pin To Net: NetName=GND Pin=U15-P5
+Added Pin To Net: NetName=GND Pin=U15-R10
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-T10
+Added Pin To Net: NetName=NetTP1_1 Pin=U15-U5
+Added Pin To Net: NetName=GND Pin=U15-U8
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-U9
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-W4
+Added Pin To Net: NetName=NetJ2_21 Pin=U15-W5
+Added Pin To Net: NetName=NetJ2_36 Pin=U15-W6
+Added Pin To Net: NetName=GND Pin=U15-Y2
+Added Pin To Net: NetName=+3V3_MMC Pin=U15-Y4
+Added Pin To Net: NetName=GND Pin=U15-Y5
+Added Pin To Net: NetName=+1V8 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=MPCIE2_CLK Pin=Y1-3
+Added Pin To Net: NetName=+1V8 Pin=Y1-4
+Added Pin To Net: NetName=+VDD_LVDS Pin=Y2-3
+Added Pin To Net: NetName=LVDS0_TX0_N Pin=Y2-12
+Added Pin To Net: NetName=LVDS0_TX0_P Pin=Y2-13
+Added Pin To Net: NetName=LVDS0_TX1_N Pin=Y2-15
+Added Pin To Net: NetName=LVDS0_TX1_P Pin=Y2-16
+Added Pin To Net: NetName=LVDS0_TX2_N Pin=Y2-18
+Added Pin To Net: NetName=LVDS0_TX2_P Pin=Y2-19
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component C12 330u
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component C13 330u
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component C24 330u
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component C25 330u
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component C40 330u
+Added Member To Class: ClassName=[09] - USB Member=Component C85 330u
+Added Member To Class: ClassName=[09] - USB Member=Component C87 330u
+Added Member To Class: ClassName=[09] - USB Member=Component C91 330u
+Added Member To Class: ClassName=[09] - USB Member=Component C92 330u
+Added Member To Class: ClassName=[09] - USB Member=Component C96 330u
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component D3 Yellow
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component D4 BZA956A,115
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component D5 BZA956A,115
+Added Member To Class: ClassName=[07] - HDMI Member=Component D7 BAT54HT1G
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component J3 10018783-10010TLF
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component J4 MM60-52B1-E1-R650
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component J5 SF7W008S1AE900
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component J6 MM60-EZH059-B5-R650
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component J7 SF7W008S1AE900
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component J8 MM60-EZH059-B5-R650
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component J9 MM60-52B1-E1-R650
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component J10 76384-302LF
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component J11 76384-302LF
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component J12 76384-302LF
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component J13 HDR 1x3
+Added Member To Class: ClassName=[08] - LVDS Member=Component J17 HDR 1x3
+Added Member To Class: ClassName=[08] - LVDS Member=Component J18 HDR 1x3
+Added Member To Class: ClassName=[08] - LVDS Member=Component J19 DF11-6DP-2DS(52)
+Added Member To Class: ClassName=[09] - USB Member=Component J21 0475890001
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component J33 HDR 2x7
+Added Member To Class: ClassName=[15] - MISC, JTAG, HEADERS Member=Component J34 HDR 2x7
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component J38 0015244449
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component R18 1k4
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component R23 1k4
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component SW1 FSMRA2JH
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component SW2 FSMRA3JH
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component SW3 FSMRA3JH
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component U1 TPS74801DRCR
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component U2 TPS74801DRCR
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component U3 TPS74801DRCR
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component U4 TPA6041A4RHBR
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component U5 MAX9867ETJ+
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component U6 PCA9306DCTR
+Added Member To Class: ClassName=[07] - HDMI Member=Component U7 CM2020-00TR
+Added Member To Class: ClassName=[11] - AUDIO1 Member=Component U14 SGTL5000XNAA3R2
+Added Member To Class: ClassName=[12] - MMC FLASH, uSD Member=Component U15 MTFC32GJVED-4M
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component Y1 12.288MHz
+Added Member To Class: ClassName=[08] - LVDS Member=Component Y2 FI-SE20P-HFE

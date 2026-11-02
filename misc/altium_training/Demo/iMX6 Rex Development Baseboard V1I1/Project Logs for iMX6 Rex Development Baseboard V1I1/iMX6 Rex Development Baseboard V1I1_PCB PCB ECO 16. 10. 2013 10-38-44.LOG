@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=MH9-1
+Removed Pin From Net: NetName=GND Pin=MH10-1
+Removed Pin From Net: NetName=GND Pin=MH11-1
+Removed Pin From Net: NetName=GND Pin=MH12-1
+Change Component DesignItemId : Designator=MH5 Old DesignItemId=MH_5MMC_2.2MMD New DesignItemId=MH_7.4MMC_3.2MMD
+Change Component DesignItemId : Designator=MH6 Old DesignItemId=MH_5MMC_2.2MMD New DesignItemId=MH_7.4MMC_3.2MMD
+Change Component DesignItemId : Designator=MH7 Old DesignItemId=MH_5MMC_2.2MMD New DesignItemId=MH_7.4MMC_3.2MMD
+Change Component DesignItemId : Designator=MH8 Old DesignItemId=MH_5MMC_2.2MMD New DesignItemId=MH_7.4MMC_3.2MMD
+Change Component Description : Designator=MH5 Old Description=Mounting Hole 5mm Diameter, 2.2mm Drill New Description=Mounting Hole 7.4mm Diameter, 3.2mm Drill
+Change Component Description : Designator=MH6 Old Description=Mounting Hole 5mm Diameter, 2.2mm Drill New Description=Mounting Hole 7.4mm Diameter, 3.2mm Drill
+Change Component Description : Designator=MH7 Old Description=Mounting Hole 5mm Diameter, 2.2mm Drill New Description=Mounting Hole 7.4mm Diameter, 3.2mm Drill
+Change Component Description : Designator=MH8 Old Description=Mounting Hole 5mm Diameter, 2.2mm Drill New Description=Mounting Hole 7.4mm Diameter, 3.2mm Drill
+Added Component: Designator=CR1(Mini_PCIe_full card)
+Added Component: Designator=CR2(Mini_PCIe_full card)
+Added Component: Designator=MH9(MH_5MMD_2.2MMD)
+Added Component: Designator=MH10(MH_5MMD_2.2MMD)
+Added Component: Designator=MH11(MH_5MMD_2.2MMD)
+Added Component: Designator=MH12(MH_5MMD_2.2MMD)
+Added Pin To Net: NetName=GND Pin=MH9-1
+Added Pin To Net: NetName=GND Pin=MH10-1
+Added Pin To Net: NetName=GND Pin=MH11-1
+Added Pin To Net: NetName=GND Pin=MH12-1
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component CR1 iMX6 Rex Module V1I1 3D
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component CR2 iMX6 Rex Module V1I1 3D
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH9 MH_5MMC_2.2MMD
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH10 MH_5MMC_2.2MMD
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH11 MH_5MMC_2.2MMD
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH12 MH_5MMC_2.2MMD

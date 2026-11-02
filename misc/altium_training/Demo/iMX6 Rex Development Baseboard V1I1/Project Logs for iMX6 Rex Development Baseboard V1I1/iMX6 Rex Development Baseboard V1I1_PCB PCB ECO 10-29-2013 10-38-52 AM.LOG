@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=SPKR_ROUT- Pin=C47-1
+Removed Pin From Net: NetName=SPKR_C_ROUT- Pin=C47-2
+Removed Pin From Net: NetName=SPKR_ROUT+ Pin=C52-1
+Removed Pin From Net: NetName=SPKR_C_ROUT+ Pin=C52-2
+Removed Pin From Net: NetName=SPKR_LOUT- Pin=C55-1
+Removed Pin From Net: NetName=SPKR_C_LOUT- Pin=C55-2
+Removed Pin From Net: NetName=SPKR_LOUT+ Pin=C56-1
+Removed Pin From Net: NetName=SPKR_C_LOUT+ Pin=C56-2
+Removed Pin From Net: NetName=TRD0_P Pin=T1-2
+Removed Pin From Net: NetName=TRD0_N Pin=T1-3
+Removed Pin From Net: NetName=TRD3_P Pin=T1-11
+Removed Pin From Net: NetName=TRD3_N Pin=T1-12
+Added Component: Designator=C209(C0402)
+Added Component: Designator=C210(C0402)
+Added Component: Designator=C211(C0402)
+Added Component: Designator=C212(C0402)
+Added Component: Designator=R155(R0402)
+Added Component: Designator=R156(R0402)
+Added Pin To Net: NetName=SPKR_LOUT- Pin=C47-1
+Added Pin To Net: NetName=SPKR_C_LOUT- Pin=C47-2
+Added Pin To Net: NetName=SPKR_LOUT+ Pin=C52-1
+Added Pin To Net: NetName=SPKR_C_LOUT+ Pin=C52-2
+Added Pin To Net: NetName=SPKR_ROUT- Pin=C55-1
+Added Pin To Net: NetName=SPKR_C_ROUT- Pin=C55-2
+Added Pin To Net: NetName=SPKR_ROUT+ Pin=C56-1
+Added Pin To Net: NetName=SPKR_C_ROUT+ Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C209-1
+Added Pin To Net: NetName=SPKR_LOUT- Pin=C209-2
+Added Pin To Net: NetName=SPKR_LOUT+ Pin=C210-1
+Added Pin To Net: NetName=MODEM_LOUT+ Pin=C210-2
+Added Pin To Net: NetName=GND Pin=C211-1
+Added Pin To Net: NetName=SPKR_ROUT- Pin=C211-2
+Added Pin To Net: NetName=SPKR_ROUT+ Pin=C212-1
+Added Pin To Net: NetName=MODEM_ROUT+ Pin=C212-2
+Added Pin To Net: NetName=GND Pin=R155-1
+Added Pin To Net: NetName=MODEM_ROUT- Pin=R155-2
+Added Pin To Net: NetName=GND Pin=R156-1
+Added Pin To Net: NetName=MODEM_LOUT- Pin=R156-2
+Added Pin To Net: NetName=TRD3_P Pin=T1-2
+Added Pin To Net: NetName=TRD3_N Pin=T1-3
+Added Pin To Net: NetName=TRD0_P Pin=T1-11
+Added Pin To Net: NetName=TRD0_N Pin=T1-12
+Change Net Name : Old Net Name=MX0_N New Net Name=MX3_N
+Change Net Name : Old Net Name=MX0_P New Net Name=MX3_P
+Change Net Name : Old Net Name=MX3_N New Net Name=MX0_N
+Change Net Name : Old Net Name=MX3_P New Net Name=MX0_P
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component C209 1u
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component C210 4u7
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component C211 1u
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component C212 4u7
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component R155 0R
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component R156 0R

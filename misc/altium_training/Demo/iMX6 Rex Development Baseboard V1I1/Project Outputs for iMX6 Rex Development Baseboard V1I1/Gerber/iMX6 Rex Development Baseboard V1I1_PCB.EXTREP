@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: iMX6 Rex Development Baseboard V1I1_PCB.GBR   12/3/2013  10:21:18 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                L1                                      
+.GP1                L2                                      
+.G1                 L3                                      
+.G2                 L4 (PWR)                                
+.GP2                L5                                      
+.GBL                L6                                      
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                Mechanical Drawing                      
+.GM3                Manufacturing Notes                     
+.GM4                Licence                                 
+.GM28               Board Outline                           
+------------------------------------------------------------------------------------------

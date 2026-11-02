@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=S3 Old Footprint=Tactile Switch New Footprint=Button8014X17N
+Change Component Comment : Designator=S3 Old Comment=Tactile Switch SPST- NO 0.05A @24V New Comment=Button Tactile Switch, NO 0.05 A 0.8mm
+Change component parameters: Designator = "S3"; Footprint = "Button8014X17N"; UniqueID = "\JXDDJYBE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Creator"; Value = "R Kanjee"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Created"; Value = "25 February 2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "C & K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "B3F1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Stock No."; Value = "516-255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "State"; Value = "Normaly Open"; VariantName = "[No Variations]"

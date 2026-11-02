@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=J32 Old DesignItemId=3000TR New DesignItemId=BA2032
+Change Component Footprint: Designator=J32 Old Footprint=3000TR New Footprint=BA2032
+Change Component Comment : Designator=J32 Old Comment=3000TR New Comment=BA2032

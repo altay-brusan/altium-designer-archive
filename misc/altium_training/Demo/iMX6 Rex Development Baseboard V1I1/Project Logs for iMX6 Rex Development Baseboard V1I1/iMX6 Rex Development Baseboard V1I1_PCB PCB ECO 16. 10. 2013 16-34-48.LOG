@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=J13 Old DesignItemId=68000-103HLF New DesignItemId=76384-303LF
+Change Component Footprint: Designator=J13 Old Footprint=Hdr_1x3_2.54mm New Footprint=HDR_1x3_2.54MM_SHDR_model2
+Change Component Comment : Designator=J13 Old Comment=HDR 1x3 New Comment=76384-303LF

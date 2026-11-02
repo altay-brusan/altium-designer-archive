@@ -1,0 +1,13 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Altay\Documents\Altium\Projects\Hello_PCB\Hello_PCB.PcbDoc
+Date     : 3/31/2018
+Time     : 12:43:04 AM
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('Left_bus'))
+   Violation between Matched Net Lengths: Between Net NetP2_2 And Net NetP2_8 Length:539.413mil is not within 10mil tolerance of Length:571.931mil (22.517mil short) 
+   Violation between Matched Net Lengths: Between Net NetP2_3 And Net NetP2_8 Length:533.607mil is not within 10mil tolerance of Length:571.931mil (28.323mil short) 
+Rule Violations :2
+
+
+Violations Detected : 2
+Time Elapsed        : 00:00:00

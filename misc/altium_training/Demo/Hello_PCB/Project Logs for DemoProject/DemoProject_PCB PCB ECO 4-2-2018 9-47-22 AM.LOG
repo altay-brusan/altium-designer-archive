@@ -1,0 +1,43 @@
+Removed Member From Class: ClassName=Hello_PCB_SCH Member=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Added Component: Designator=P4(MHDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetP4_1 New Net Name=L8
+Change Net Name : Old Net Name=NetP4_2 New Net Name=L7
+Change Net Name : Old Net Name=NetP4_3 New Net Name=L6
+Change Net Name : Old Net Name=NetP4_4 New Net Name=L5
+Change Net Name : Old Net Name=NetP4_5 New Net Name=L4
+Change Net Name : Old Net Name=NetP4_6 New Net Name=L3
+Change Net Name : Old Net Name=NetP4_7 New Net Name=L2
+Change Net Name : Old Net Name=NetP4_8 New Net Name=L1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=U1-24
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=U1-23
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_3 Pin=U1-22
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Pin To Net: NetName=NetP4_4 Pin=U1-21
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP4_5 Pin=P4-5
+Added Pin To Net: NetName=NetP4_5 Pin=U1-20
+Added Net: Name=NetP4_5
+Added Pin To Net: NetName=NetP4_6 Pin=P4-6
+Added Pin To Net: NetName=NetP4_6 Pin=U1-19
+Added Net: Name=NetP4_6
+Added Pin To Net: NetName=NetP4_7 Pin=P4-7
+Added Pin To Net: NetName=NetP4_7 Pin=U1-18
+Added Net: Name=NetP4_7
+Added Pin To Net: NetName=NetP4_8 Pin=P4-8
+Added Pin To Net: NetName=NetP4_8 Pin=U1-17
+Added Net: Name=NetP4_8
+Change Class Name : Old Net Name=Hello_PCB_SCH New Net Name=[2] Page 2
+Added Class: Name=[1] Page 1
+Added Room: Name=[1] Page 1
+Added Room: Name=[2] Page 2

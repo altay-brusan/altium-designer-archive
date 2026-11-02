@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=USB1_L_N Pin=L3-1
+Removed Pin From Net: NetName=USB1_L_P Pin=L3-2
+Removed Pin From Net: NetName=USB1_CON_P Pin=L3-3
+Removed Pin From Net: NetName=USB1_CON_N Pin=L3-4
+Added Pin To Net: NetName=USB1_CON_P Pin=L3-1
+Added Pin To Net: NetName=USB1_CON_N Pin=L3-2
+Added Pin To Net: NetName=USB1_L_N Pin=L3-3
+Added Pin To Net: NetName=USB1_L_P Pin=L3-4
+Change Class Name : Old Net Name=[04] - MINI PCIE1, PCIE New Net Name=[04] - PCIE MINI 1, PCIE
+Change Class Name : Old Net Name=[05] - MINI PCIE2, AUDIO2 New Net Name=[05] - PCIE MINI 2, AUDIO2
+Change Class Name : Old Net Name=[12] - MICRO SD New Net Name=[12] - SD
+Change Class Name : Old Net Name=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN New Net Name=[14] - RTC, EEPROM, GPIO, TOUCH SCREEN

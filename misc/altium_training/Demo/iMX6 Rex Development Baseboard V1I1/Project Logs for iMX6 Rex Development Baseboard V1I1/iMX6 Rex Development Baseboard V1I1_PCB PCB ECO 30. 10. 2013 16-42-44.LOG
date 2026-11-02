@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=RS232_RI_CON Pin=FB20-1
+Removed Pin From Net: NetName=RS232_CTS_CON Pin=FB20-2
+Removed Pin From Net: NetName=GND Pin=J1-61
+Removed Pin From Net: NetName=GND Pin=J1-62
+Removed Pin From Net: NetName=LVDS0_CABC Pin=J19-5
+Removed Pin From Net: NetName=ON_OFF Pin=J33-3
+Removed Pin From Net: NetName=UART1_CTS Pin=U16-17
+Removed Pin From Net: NetName=UART1_RI Pin=U16-18
+Added Component: Designator=C213(C0402)
+Added Component: Designator=Q6(SC70_SOT323)
+Added Component: Designator=R157(R0402)
+Added Component: Designator=R158(R0402)
+Added Component: Designator=R159(R0402)
+Added Component: Designator=R160(R0402)
+Added Component: Designator=R161(R0402)
+Added Component: Designator=TP1(TP_25C)
+Added Component: Designator=TP4(TP_25C)
+Added Component: Designator=U23(DBV_SOT_23_5)
+Added Pin To Net: NetName=+3V3 Pin=C213-1
+Added Pin To Net: NetName=GND Pin=C213-2
+Added Pin To Net: NetName=RS232_CTS_CON Pin=FB20-1
+Added Pin To Net: NetName=RS232_RI_CON Pin=FB20-2
+Added Pin To Net: NetName=PWR_BTNN Pin=J33-3
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=CPU_INT Pin=Q6-3
+Added Pin To Net: NetName=+3V3 Pin=R157-2
+Added Pin To Net: NetName=+5V Pin=R158-2
+Added Pin To Net: NetName=+5V_USB_VBUS Pin=R159-1
+Added Pin To Net: NetName=+5V Pin=R159-2
+Added Pin To Net: NetName=I2C2_SCL Pin=R160-1
+Added Pin To Net: NetName=+3V3 Pin=R160-2
+Added Pin To Net: NetName=I2C2_SDA Pin=R161-1
+Added Pin To Net: NetName=+3V3 Pin=R161-2
+Added Pin To Net: NetName=+1V5 Pin=TP1-1
+Added Pin To Net: NetName=+1V8_AUDIO2 Pin=TP4-1
+Added Pin To Net: NetName=UART1_RI Pin=U16-17
+Added Pin To Net: NetName=UART1_CTS Pin=U16-18
+Added Pin To Net: NetName=LVDS0_CABC Pin=U23-1
+Added Pin To Net: NetName=LVDS0_CABC Pin=U23-2
+Added Pin To Net: NetName=GND Pin=U23-3
+Added Pin To Net: NetName=+3V3 Pin=U23-5
+Change Net Name : Old Net Name=MCT1 New Net Name=MCT3
+Change Net Name : Old Net Name=MCT2 New Net Name=MCT1
+Change Net Name : Old Net Name=MCT3 New Net Name=MCT2
+Change Net Name : Old Net Name=MCT4 New Net Name=MCT0
+Change Net Name : Old Net Name=NetC82_1 New Net Name=+BKLT_VCC
+Change Net Name : Old Net Name=NetR29_1 New Net Name=AUD2_I2C2_SDA
+Change Net Name : Old Net Name=NetR30_1 New Net Name=AUD2_I2C2_SCL
+Change Net Name : Old Net Name=RS232_CTS_L New Net Name=RS232_RI_L
+Change Net Name : Old Net Name=RS232_RI_L New Net Name=RS232_CTS_L
+Change Net Name : Old Net Name=TCT1 New Net Name=TCT3
+Change Net Name : Old Net Name=TCT2 New Net Name=TCT1
+Change Net Name : Old Net Name=TCT3 New Net Name=TCT2
+Change Net Name : Old Net Name=TCT4 New Net Name=TCT0
+Added Pin To Net: NetName=BUF_LVDS0_CABC Pin=J19-5
+Added Pin To Net: NetName=BUF_LVDS0_CABC Pin=R157-1
+Added Pin To Net: NetName=BUF_LVDS0_CABC Pin=R158-1
+Added Pin To Net: NetName=BUF_LVDS0_CABC Pin=U23-4
+Added Net: Name=BUF_LVDS0_CABC
+Added Pin To Net: NetName=NetJ1_61 Pin=J1-61
+Added Pin To Net: NetName=NetJ1_61 Pin=J1-62
+Added Net: Name=NetJ1_61
+Added Pin To Net: NetName=UART_WAKE Pin=Q6-1
+Added Pin To Net: NetName=UART_WAKE Pin=U16-19
+Added Net: Name=UART_WAKE
+Added Class: Name=Audio2
+Added Class: Name=I2C2
+Added Class: Name=SIM1
+Added Class: Name=SIM2
+Added Member To Class: ClassName=[08] - LVDS Member=Component C213 100n
+Added Member To Class: ClassName=[13] - UARTS Member=Component Q6 2N7002BKW,115
+Added Member To Class: ClassName=[08] - LVDS Member=Component R157 10k
+Added Member To Class: ClassName=[08] - LVDS Member=Component R158 10k
+Added Member To Class: ClassName=[03] - CONNECTORS Member=Component R159 0R
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component R160 4k99
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component R161 4k99
+Added Member To Class: ClassName=[04] - MINI PCIE1, PCIE Member=Component TP1 TP_25MILC
+Added Member To Class: ClassName=[05] - MINI PCIE2, AUDIO2 Member=Component TP4 TP_25MILC
+Added Member To Class: ClassName=[08] - LVDS Member=Component U23 SN74AHC1G09DBVR
+Added Member To Class: ClassName=USB0 Member=Wire USB0_ID
+Added Member To Class: ClassName=USB1 Member=Wire USB1_CON_N
+Added Member To Class: ClassName=USB1 Member=Wire USB1_CON_P
+Added Member To Class: ClassName=USB1 Member=Wire USB_MPCIE1_CON_N
+Added Member To Class: ClassName=USB1 Member=Wire USB_MPCIE1_CON_P
+Added Member To Class: ClassName=USB0 Member=Wire USB_MPCIE2_CON_N
+Added Member To Class: ClassName=USB0 Member=Wire USB_MPCIE2_CON_P
+Added Member To Class: ClassName=USB0 Member=Wire USB_OTG_CON_N
+Added Member To Class: ClassName=USB0 Member=Wire USB_OTG_CON_P
+Added Member To Class: ClassName=USB0 Member=Wire USBDN1_CON_N
+Added Member To Class: ClassName=USB0 Member=Wire USBDN1_CON_P
+Added Member To Class: ClassName=USB0 Member=Wire USBDN2_CON_N
+Added Member To Class: ClassName=USB0 Member=Wire USBDN2_CON_P
+Added Member To Class: ClassName=USB0 Member=Wire USBDN3_CON_N
+Added Member To Class: ClassName=USB0 Member=Wire USBDN3_CON_P

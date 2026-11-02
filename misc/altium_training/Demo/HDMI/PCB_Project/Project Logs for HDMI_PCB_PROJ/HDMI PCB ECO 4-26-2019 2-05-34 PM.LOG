@@ -1,0 +1,15 @@
+Added Differential Pair: Name=DDI0_AUX
+Added Differential Pair: Name=DDI0_PAIR0
+Added Differential Pair: Name=DDI0_PAIR1
+Added Differential Pair: Name=DDI0_PAIR2
+Added Differential Pair: Name=DDI0_PAIR3
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_AUX_N
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_AUX_P
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_PAIR0_N
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_PAIR0_P
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_PAIR1_N
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_PAIR1_P
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_PAIR2_N
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_PAIR2_P
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_PAIR3_N
+Added Member To Class: ClassName=DIFF_85 Member=Wire DDI0_PAIR3_P

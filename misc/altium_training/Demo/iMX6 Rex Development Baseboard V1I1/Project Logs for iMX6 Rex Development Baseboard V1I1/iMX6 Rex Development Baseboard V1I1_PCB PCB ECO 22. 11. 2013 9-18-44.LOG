@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=JP1 Old DesignItemId=77311-118-02LF New DesignItemId=68001-202HLF
+Change Component DesignItemId : Designator=JP3 Old DesignItemId=77311-118-02LF New DesignItemId=68001-202HLF
+Change Component Footprint: Designator=J36 Old Footprint=AMP-LATCH_HEADER New Footprint=HDR_2x10_2.54mm_BOXED
+Change Component Description : Designator=JP1 Old Description=CONN HEADER 2POS VERT T/H New Description=BERGSTIK II .100" SR STRAIGHT
+Change Component Description : Designator=JP3 Old Description=CONN HEADER 2POS VERT T/H New Description=BERGSTIK II .100" SR STRAIGHT

@@ -6,6 +6,13 @@
 !/Public Altium scripts/
 !/Public Altium tools/
 !/Trainings/
+!/misc/
+
+# Files over GitHub's 100 MB limit
+/misc/altium_training/4.3'/User Manual/01-Assistant software manual/Development Assistant.avi
+/misc/altium_training/4.3'/User Manual/01-Assistant software manual/Download Assistant.avi
+/misc/altium_training/4.3'/User Manual/03-Touch Control manual/Touch control builder.avi
+/misc/altium_training/Demo/iMX6 Rex Development Baseboard V1I1/3D Model - iMX6 Rex Development Baseboard V1I1 - Prototype.step
 
 # Zip archives duplicate the extracted folders (and exceed GitHub's 100 MB limit)
 /Public Altium tools/Examples.zip

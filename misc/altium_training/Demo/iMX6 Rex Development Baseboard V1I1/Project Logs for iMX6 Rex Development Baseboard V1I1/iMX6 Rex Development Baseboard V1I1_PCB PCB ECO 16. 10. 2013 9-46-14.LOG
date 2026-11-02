@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=GND Pin=MH9-1
+Removed Pin From Net: NetName=GND Pin=MH10-1
+Removed Pin From Net: NetName=GND Pin=MH11-1
+Removed Pin From Net: NetName=GND Pin=MH12-1
+Removed Pin From Net: NetName=+VDD_LVDS Pin=Y2-3
+Removed Pin From Net: NetName=LVDS0_TX0_N Pin=Y2-12
+Removed Pin From Net: NetName=LVDS0_TX0_P Pin=Y2-13
+Removed Pin From Net: NetName=LVDS0_TX1_N Pin=Y2-15
+Removed Pin From Net: NetName=LVDS0_TX1_P Pin=Y2-16
+Removed Pin From Net: NetName=LVDS0_TX2_N Pin=Y2-18
+Removed Pin From Net: NetName=LVDS0_TX2_P Pin=Y2-19
+Change Component DesignItemId : Designator=J31 Old DesignItemId=961210-5604-AR New DesignItemId=961210-6404-AR
+Change Component DesignItemId : Designator=J19 Old DesignItemId=DF11-6DP-2DS(52) New DesignItemId=961206-6404-AR
+Change Component DesignItemId : Designator=J5 Old DesignItemId=SF7W008S1AE900 New DesignItemId=0475531001
+Change Component DesignItemId : Designator=J7 Old DesignItemId=SF7W008S1AE900 New DesignItemId=0475531001
+Change Component Footprint: Designator=J19 Old Footprint=DF11-6DP-2DS New Footprint=HDR_2x3_2.54MM
+Change Component Footprint: Designator=J31 Old Footprint=HDR_2x5_2.54MM_RA_LEFT New Footprint=HDR_2x5_2.54MM
+Change Component Footprint: Designator=J5 Old Footprint=SIM_CARD_SCKT New Footprint=SIM_CARD_PUSH
+Change Component Footprint: Designator=J7 Old Footprint=SIM_CARD_SCKT New Footprint=SIM_CARD_PUSH
+Change Component Comment : Designator=J19 Old Comment=DF11-6DP-2DS(52) New Comment=HDR 2x3 2.54MM
+Change Component Comment : Designator=J31 Old Comment=HDR 2x5 2.54MM RA New Comment=HDR 2x5 2.54MM
+Change Component Comment : Designator=J5 Old Comment=SF7W008S1AE900 New Comment=0475531001
+Change Component Comment : Designator=J7 Old Comment=SF7W008S1AE900 New Comment=0475531001
+Added Component: Designator=MH9(MH_5MMD_2.2MMD)
+Added Component: Designator=MH10(MH_5MMD_2.2MMD)
+Added Component: Designator=MH11(MH_5MMD_2.2MMD)
+Added Component: Designator=MH12(MH_5MMD_2.2MMD)
+Added Pin To Net: NetName=GND Pin=J4-53
+Added Pin To Net: NetName=GND Pin=J4-54
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J9-53
+Added Pin To Net: NetName=GND Pin=J9-54
+Added Pin To Net: NetName=GND Pin=MH9-1
+Added Pin To Net: NetName=GND Pin=MH10-1
+Added Pin To Net: NetName=GND Pin=MH11-1
+Added Pin To Net: NetName=GND Pin=MH12-1
+Added Pin To Net: NetName=+VDD_LVDS Pin=Y2-1
+Added Pin To Net: NetName=+VDD_LVDS Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-3
+Added Pin To Net: NetName=GND Pin=Y2-4
+Added Pin To Net: NetName=LVDS0_TX0_N Pin=Y2-5
+Added Pin To Net: NetName=LVDS0_TX0_P Pin=Y2-6
+Added Pin To Net: NetName=GND Pin=Y2-7
+Added Pin To Net: NetName=LVDS0_TX1_N Pin=Y2-8
+Added Pin To Net: NetName=LVDS0_TX1_P Pin=Y2-9
+Added Pin To Net: NetName=GND Pin=Y2-10
+Added Pin To Net: NetName=LVDS0_TX2_N Pin=Y2-11
+Added Pin To Net: NetName=LVDS0_TX2_P Pin=Y2-12
+Added Pin To Net: NetName=GND Pin=Y2-13
+Added Pin To Net: NetName=LVDS0_CLK_N Pin=Y2-14
+Added Pin To Net: NetName=LVDS0_CLK_P Pin=Y2-15
+Added Pin To Net: NetName=GND Pin=Y2-16
+Added Pin To Net: NetName=LVDS0_FRC Pin=Y2-17
+Added Pin To Net: NetName=LVDS0_DPS Pin=Y2-18
+Added Pin To Net: NetName=LVDS0_TX3_N Pin=Y2-19
+Added Pin To Net: NetName=LVDS0_TX3_P Pin=Y2-20
+Added Pin To Net: NetName=GND Pin=Y2-21
+Added Pin To Net: NetName=GND Pin=Y2-22
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH9 MH_5MMC_2.2MMD

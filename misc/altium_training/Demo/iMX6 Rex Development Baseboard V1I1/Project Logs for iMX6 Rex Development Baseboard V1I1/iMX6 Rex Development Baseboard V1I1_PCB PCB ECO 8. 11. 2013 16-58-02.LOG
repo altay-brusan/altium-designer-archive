@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=RS232_RTS_CON Pin=FB21-2
+Removed Pin From Net: NetName=RS232_TXD_CON Pin=FB21-3
+Removed Pin From Net: NetName=UART1_TXD Pin=U16-11
+Removed Pin From Net: NetName=UART1_RTS Pin=U16-12
+Added Pin To Net: NetName=RS232_TXD_CON Pin=FB21-2
+Added Pin To Net: NetName=RS232_RTS_CON Pin=FB21-3
+Added Pin To Net: NetName=UART1_RTS Pin=U16-11
+Added Pin To Net: NetName=UART1_TXD Pin=U16-12
+Change Net Name : Old Net Name=RS232_RTS_L New Net Name=RS232_TXD_L
+Change Net Name : Old Net Name=RS232_TXD_L New Net Name=RS232_RTS_L

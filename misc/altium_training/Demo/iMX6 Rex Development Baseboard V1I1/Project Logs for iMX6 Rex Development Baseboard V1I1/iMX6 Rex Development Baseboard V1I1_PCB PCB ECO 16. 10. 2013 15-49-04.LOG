@@ -1,0 +1,12 @@
+Added Component: Designator=MH9(MH_5MMD_2.2MMD)
+Added Component: Designator=MH10(MH_5MMD_2.2MMD)
+Added Component: Designator=MH11(MH_5MMD_2.2MMD)
+Added Component: Designator=MH12(MH_5MMD_2.2MMD)
+Added Pin To Net: NetName=GND Pin=MH9-1
+Added Pin To Net: NetName=GND Pin=MH10-1
+Added Pin To Net: NetName=GND Pin=MH11-1
+Added Pin To Net: NetName=GND Pin=MH12-1
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH9 MH_5MMC_2.2MMD
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH10 MH_5MMC_2.2MMD
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH11 MH_5MMC_2.2MMD
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component MH12 MH_5MMC_2.2MMD

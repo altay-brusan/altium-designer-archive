@@ -34,6 +34,14 @@ Embedded-systems training material:
 - ARM / STM32 reference documents: ARM Compiler reference, Cortex-M4 programming manual, STM32F4 datasheets and reference manual, EMC design guide.
 - **CortexMxProgramming-master/**: example code for the course *Embedded System Programming on ARM Cortex-Mx* (operation modes, bit-banding, stack, interrupts, faults, SVC, task scheduler).
 
+### `misc/`
+- **Common application notes/**: app notes for accelerometer inclination sensing, the LIS3MDL magnetometer, antenna/RF layout and DP/HDMI switching.
+- **Common schematics/**: reference schematics (Arduino Pro Mini, LCD monitor technical training).
+- **altium_schematics_template/**: schematic sheet template (`.SchDot`/`.SchDoc`).
+- **altium_training/**: Altium demo projects (iMX6 Rex Development Baseboard, OpenRex), documentation for a 4.3" TFT touch module, and a sample folder structure for using Altium with Git.
+- **firmware/**: Arduino projects and code snippets.
+
 ## Notes
+- Files over GitHub's 100 MB limit are not included: three 4.3" TFT tutorial videos (`.avi`) and the iMX6 Rex prototype `.step` 3D model.
 - The original `Examples.zip` and `Reference-Designs.zip` archives are left out of the repo. They duplicate the extracted folders, and `Reference-Designs.zip` is larger than GitHub's 100 MB file limit.
 - All content belongs to its original authors (Altium, component vendors, ARM, STMicroelectronics, course authors). This archive is for reference and learning.

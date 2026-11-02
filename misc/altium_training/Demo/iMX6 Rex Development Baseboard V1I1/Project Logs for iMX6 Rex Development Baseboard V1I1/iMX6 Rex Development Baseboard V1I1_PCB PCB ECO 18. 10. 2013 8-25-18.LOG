@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=[13] - UARTS Member=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R150
+Added Member To Class: ClassName=[13] - UARTS Member=Component R150 0R

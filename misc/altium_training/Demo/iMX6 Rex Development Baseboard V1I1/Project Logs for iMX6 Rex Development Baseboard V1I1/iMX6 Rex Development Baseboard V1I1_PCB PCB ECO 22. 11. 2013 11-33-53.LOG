@@ -1,0 +1,16 @@
+Added Component: Designator=C215(C0402)
+Added Component: Designator=C216(C0402)
+Added Component: Designator=C217(C0402)
+Added Component: Designator=C218(C0402)
+Added Pin To Net: NetName=+3V3_MPCIE1 Pin=C215-1
+Added Pin To Net: NetName=GND Pin=C215-2
+Added Pin To Net: NetName=+3V3_MPCIE1 Pin=C216-1
+Added Pin To Net: NetName=GND Pin=C216-2
+Added Pin To Net: NetName=+3V3_MPCIE2 Pin=C217-1
+Added Pin To Net: NetName=GND Pin=C217-2
+Added Pin To Net: NetName=+3V3_MPCIE2 Pin=C218-1
+Added Pin To Net: NetName=GND Pin=C218-2
+Added Member To Class: ClassName=[04] - PCIE MINI 1, PCIE Member=Component C215 4u7
+Added Member To Class: ClassName=[04] - PCIE MINI 1, PCIE Member=Component C216 100n
+Added Member To Class: ClassName=[05] - PCIE MINI 2, AUDIO2 Member=Component C217 4u7
+Added Member To Class: ClassName=[05] - PCIE MINI 2, AUDIO2 Member=Component C218 100n

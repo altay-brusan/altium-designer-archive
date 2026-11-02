@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=[08] - LVDS Member=Y2
+Removed Member From Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Y2
+Added Member To Class: ClassName=[08] - LVDS Member=Component J41 FI-SE20P-HFE
+Added Member To Class: ClassName=[14] - RTC, EEPROM, IO EXP, TOUCH SCREEN Member=Component Y3 32.768kHz

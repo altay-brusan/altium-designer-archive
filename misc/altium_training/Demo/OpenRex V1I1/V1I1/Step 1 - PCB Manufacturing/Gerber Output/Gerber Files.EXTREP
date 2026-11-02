@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Gerber Files.GBR   10. 1. 2016  13:24:04
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                L1                                      
+.GP1                L2                                      
+.G1                 L3                                      
+.G2                 L4 (PWR)                                
+.G3                 L5 (PWR)                                
+.G4                 L6 (PWR)                                
+.G5                 L7 (PWR)                                
+.G6                 L8                                      
+.GP2                L9                                      
+.GBL                L10                                     
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM3                Manufacturing Notes                     
+.GM4                License                                 
+.GM6                Mechanical Drawing                      
+.GM28               Board Outline                           
+------------------------------------------------------------------------------------------

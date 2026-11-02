@@ -1,0 +1,39 @@
+Added Component: Designator=U13(QFN36_6mmx6mm)
+Added Pin To Net: NetName=USBDN1_N Pin=U13-1
+Added Pin To Net: NetName=USBDN1_P Pin=U13-2
+Added Pin To Net: NetName=USBDN2_N Pin=U13-3
+Added Pin To Net: NetName=USBDN2_P Pin=U13-4
+Added Pin To Net: NetName=+3V3_USB_HUB Pin=U13-5
+Added Pin To Net: NetName=USBDN3_N Pin=U13-6
+Added Pin To Net: NetName=USBDN3_P Pin=U13-7
+Added Pin To Net: NetName=USB_MPCIE2_N Pin=U13-8
+Added Pin To Net: NetName=USB_MPCIE2_P Pin=U13-9
+Added Pin To Net: NetName=+3V3_USB_HUB Pin=U13-10
+Added Pin To Net: NetName=GND Pin=U13-11
+Added Pin To Net: NetName=USBDN1_PWR_EN Pin=U13-12
+Added Pin To Net: NetName=USBDN1_OC Pin=U13-13
+Added Pin To Net: NetName=CRFILT Pin=U13-14
+Added Pin To Net: NetName=+3V3_USB_HUB Pin=U13-15
+Added Pin To Net: NetName=USBDN2_PWR_EN Pin=U13-16
+Added Pin To Net: NetName=USBDN2_OC Pin=U13-17
+Added Pin To Net: NetName=USBDN3_PWR_EN Pin=U13-18
+Added Pin To Net: NetName=USBDN3_OC Pin=U13-19
+Added Pin To Net: NetName=USBDN4_PWR_EN Pin=U13-20
+Added Pin To Net: NetName=USBDN4_OC Pin=U13-21
+Added Pin To Net: NetName=NON_REM1 Pin=U13-22
+Added Pin To Net: NetName=+3V3_USB_HUB Pin=U13-23
+Added Pin To Net: NetName=CFG_SEL0 Pin=U13-24
+Added Pin To Net: NetName=CFG_SEL1 Pin=U13-25
+Added Pin To Net: NetName=RESETN Pin=U13-26
+Added Pin To Net: NetName=NetR75_2 Pin=U13-27
+Added Pin To Net: NetName=LOCAL_PWR / NON_REM0 Pin=U13-28
+Added Pin To Net: NetName=+3V3_USB_HUB Pin=U13-29
+Added Pin To Net: NetName=USBUP_N Pin=U13-30
+Added Pin To Net: NetName=USBUP_P Pin=U13-31
+Added Pin To Net: NetName=USB_XTALOUT Pin=U13-32
+Added Pin To Net: NetName=USB_XTALIN Pin=U13-33
+Added Pin To Net: NetName=PLLFILT Pin=U13-34
+Added Pin To Net: NetName=RBIAS Pin=U13-35
+Added Pin To Net: NetName=+3V3_USB_HUB Pin=U13-36
+Added Pin To Net: NetName=GND Pin=U13-37
+Added Member To Class: ClassName=[09] - USB Member=Component U13 USB2514BI-AEZG

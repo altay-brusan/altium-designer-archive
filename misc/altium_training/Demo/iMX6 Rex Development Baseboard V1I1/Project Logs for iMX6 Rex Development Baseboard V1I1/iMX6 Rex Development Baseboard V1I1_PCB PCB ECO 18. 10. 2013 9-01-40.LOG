@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=[04] - MINI PCIE, PCIE Member=R150
+Added Component: Designator=CFAST1(CFAST_LOCKER)
+Added Member To Class: ClassName=[06] - SATA, CFAST Member=Component CFAST1 7E50-C016-00
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component R13 0R

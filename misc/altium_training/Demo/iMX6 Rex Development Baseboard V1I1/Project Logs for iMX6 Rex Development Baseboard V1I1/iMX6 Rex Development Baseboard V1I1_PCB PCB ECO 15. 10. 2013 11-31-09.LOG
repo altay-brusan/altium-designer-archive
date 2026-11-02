@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=MIC_IN_L New Net Name=AUD2_MIC_IN_L
+Change Net Name : Old Net Name=MIC_IN_R New Net Name=AUD2_MIC_IN_R
+Added Pin To Net: NetName=AUD2_FIL_MIC_IN Pin=C54-1
+Added Pin To Net: NetName=AUD2_FIL_MIC_IN Pin=FB5-2
+Added Net: Name=AUD2_FIL_MIC_IN
+Added Pin To Net: NetName=AUD2_MIC_BIAS Pin=C46-1
+Added Pin To Net: NetName=AUD2_MIC_BIAS Pin=R28-2
+Added Net: Name=AUD2_MIC_BIAS
+Added Pin To Net: NetName=AUD2_MIC_IN Pin=C48-2
+Added Pin To Net: NetName=AUD2_MIC_IN Pin=C53-2
+Added Pin To Net: NetName=AUD2_MIC_IN Pin=FB5-1
+Added Pin To Net: NetName=AUD2_MIC_IN Pin=R28-1
+Added Net: Name=AUD2_MIC_IN

@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Added Component: Designator=J1(KLD-0202)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://domino.kycon.com/internet/Products.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "09-May-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=J1-2
+Added Pin To Net: NetName=NetD?_2 Pin=J1-2A
+Added Pin To Net: NetName=NetD?_2 Pin=J1-2B
+Added Pin To Net: NetName=NetD?_2 Pin=J1-3
+Added Pin To Net: NetName=NetD?_2 Pin=J1-3A
+Added Pin To Net: NetName=NetD?_2 Pin=J1-3B
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1A
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1B
+Added Pin To Net: NetName=NetJ1_1 Pin=R10-1
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=[2] Page 2 Member=Component J1 PWR2.5

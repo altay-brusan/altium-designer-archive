@@ -1,0 +1,58 @@
+Added Component: Designator=U2(TQFP80P900X900X120-32N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Create Date"; Value = "2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "altay brusan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://docs-emea.rs-online.com/webdocs/15b8/0900766b815b8e7b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS stock no."; Value = "131-0271"; VariantName = "[No Variations]"
+Added Component: Designator=X1(Aker S5C Crystal)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creator"; Value = "R Kanjee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "+/-30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://za.rs-online.com/web/p/crystal-units/6719488/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Aker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = "C5S-16.000-12-3030-X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3.2x5mm SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS"; Value = "RS 671-9488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock Nr."; Value = "671-9488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D3 Pin=U2-1
+Added Pin To Net: NetName=D4 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=5V Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=5V Pin=U2-6
+Added Pin To Net: NetName=NetC9_1 Pin=U2-7
+Added Pin To Net: NetName=NetC10_1 Pin=U2-8
+Added Pin To Net: NetName=D5 Pin=U2-9
+Added Pin To Net: NetName=D6 Pin=U2-10
+Added Pin To Net: NetName=D7 Pin=U2-11
+Added Pin To Net: NetName=D8 Pin=U2-12
+Added Pin To Net: NetName=D9 Pin=U2-13
+Added Pin To Net: NetName=D10 Pin=U2-14
+Added Pin To Net: NetName=D11/MOSI Pin=U2-15
+Added Pin To Net: NetName=D12/MISO Pin=U2-16
+Added Pin To Net: NetName=D13/SCK Pin=U2-17
+Added Pin To Net: NetName=5V Pin=U2-18
+Added Pin To Net: NetName=A6 Pin=U2-19
+Added Pin To Net: NetName=AREF Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=A7 Pin=U2-22
+Added Pin To Net: NetName=A0 Pin=U2-23
+Added Pin To Net: NetName=A1 Pin=U2-24
+Added Pin To Net: NetName=A2 Pin=U2-25
+Added Pin To Net: NetName=A3 Pin=U2-26
+Added Pin To Net: NetName=A4 Pin=U2-27
+Added Pin To Net: NetName=A5 Pin=U2-28
+Added Pin To Net: NetName=RESET Pin=U2-29
+Added Pin To Net: NetName=D0/RX Pin=U2-30
+Added Pin To Net: NetName=D1/TX Pin=U2-31
+Added Pin To Net: NetName=D2 Pin=U2-32
+Added Pin To Net: NetName=NetC9_1 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=NetC10_1 Pin=X1-4
+Added Member To Class: ClassName=MyFirstArduino Member=Component U2 ATMEGA328P-AU
+Added Member To Class: ClassName=MyFirstArduino Member=Component X1 Aker 16MHz Crystal SMT
+Added Room: Name=MyFirstArduino

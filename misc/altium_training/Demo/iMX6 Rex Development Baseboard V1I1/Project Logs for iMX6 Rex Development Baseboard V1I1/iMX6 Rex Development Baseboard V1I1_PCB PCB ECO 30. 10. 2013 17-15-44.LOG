@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=J1-61
+Added Pin To Net: NetName=GND Pin=J1-62
+Added Class: Name=SPI2

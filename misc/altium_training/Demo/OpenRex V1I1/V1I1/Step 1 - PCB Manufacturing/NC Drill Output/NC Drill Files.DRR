@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: OpenRex_V1I1_PCB.PcbDoc   10. 1. 2016  13:56:11
+---------------------------------------------------------------------------
+
+Layer Pair : L1 to L10
+ASCII RoundHoles File : NC Drill Files-RoundHoles.TXT
+ASCII SlotHoles File : NC Drill Files-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          2369             3556.00 mm (140.00 Inch)
+T2        0.5mm (19.685mil)        Round          4                8.06 mm (0.32 Inch)
+T3        0.74mm (29.134mil)       Round          7                9.01 mm (0.35 Inch)
+T4        0.85mm (33.465mil)       Round          2                4.45 mm (0.18 Inch)
+T5        0.9mm (35.433mil)        Round          12               35.22 mm (1.39 Inch)
+T6        0.9mm (35.433mil)        Slot           4                7292.30 mm (287.10 Inch)
+T7        1mm (39.37mil)           Round          8                16.62 mm (0.65 Inch)
+T8        1mm (39.37mil)           Slot           3                7208.79 mm (283.81 Inch)
+T9        1.05mm (41.339mil)       Round          1                0.00 mm (0.00 Inch)
+T10       1.1mm (43.307mil)        Round          73               402.00 mm (15.83 Inch)
+T11       1.3mm (51.181mil)        Round          7                116.44 mm (4.58 Inch)
+T12       1.35mm (53.15mil)        Round          2                12.96 mm (0.51 Inch)
+T13       1.4mm (55.118mil)        Round          5                20.90 mm (0.82 Inch)
+T14       1.55mm (61.024mil)       Round          1                0.00 mm (0.00 Inch)
+T15       1.6002mm (63mil)         Round          2                17.58 mm (0.69 Inch)
+T16       2mm (78.74mil)           Round          2                57.90 mm (2.28 Inch)
+T17       2.4mm (94.488mil)        Round          4                24.50 mm (0.96 Inch)
+T18       3.2mm (125.984mil)       Round          4                234.23 mm (9.22 Inch)
+T19       3.3mm (129.921mil)       Round          2                9.65 mm (0.38 Inch)
+T20       1.1mm (43.307mil)        Round          3         NPTH   32.57 mm (1.28 Inch)
+T21       1.6mm (62.992mil)        Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            2516             19059.18 mm (750.36 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:02

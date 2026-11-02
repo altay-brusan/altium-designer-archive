@@ -1,0 +1,10 @@
+Added Component: Designator=C208(C1206)
+Added Component: Designator=D20(SMC)
+Added Pin To Net: NetName=+5V Pin=C208-1
+Added Pin To Net: NetName=GND Pin=C208-2
+Added Pin To Net: NetName=+5V Pin=D20-2
+Added Pin To Net: NetName=NetD20_1 Pin=D20-1
+Added Pin To Net: NetName=NetD20_1 Pin=J38-4
+Added Net: Name=NetD20_1
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component C208 10uF
+Added Member To Class: ClassName=[17] - PWR IN, LEDS, BUTTONS, MECH Member=Component D20 B560C-13-F

@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=MH9 Old DesignItemId=MH_5MMC_2.2MMD New DesignItemId=MH_5.2MMC_2.7MMD
+Change Component DesignItemId : Designator=MH10 Old DesignItemId=MH_5MMC_2.2MMD New DesignItemId=MH_5.2MMC_2.7MMD
+Change Component DesignItemId : Designator=MH11 Old DesignItemId=MH_5MMC_2.2MMD New DesignItemId=MH_5.2MMC_2.7MMD
+Change Component DesignItemId : Designator=MH12 Old DesignItemId=MH_5MMC_2.2MMD New DesignItemId=MH_5.2MMC_2.7MMD
+Change Component Footprint: Designator=MH9 Old Footprint=MH_5MMD_2.2MMD New Footprint=MH_5.2MMD_2.7MMD
+Change Component Footprint: Designator=MH10 Old Footprint=MH_5MMD_2.2MMD New Footprint=MH_5.2MMD_2.7MMD
+Change Component Footprint: Designator=MH11 Old Footprint=MH_5MMD_2.2MMD New Footprint=MH_5.2MMD_2.7MMD
+Change Component Footprint: Designator=MH12 Old Footprint=MH_5MMD_2.2MMD New Footprint=MH_5.2MMD_2.7MMD
+Change Component Comment : Designator=MH9 Old Comment=MH_5MMC_2.2MMD New Comment=MH_5.2MMC_2.7MMD
+Change Component Comment : Designator=MH10 Old Comment=MH_5MMC_2.2MMD New Comment=MH_5.2MMC_2.7MMD
+Change Component Comment : Designator=MH11 Old Comment=MH_5MMC_2.2MMD New Comment=MH_5.2MMC_2.7MMD
+Change Component Comment : Designator=MH12 Old Comment=MH_5MMC_2.2MMD New Comment=MH_5.2MMC_2.7MMD

@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C137 Old DesignItemId=C1005X5R1C105K New DesignItemId=TLNS227M004R3000
+Change Component Footprint: Designator=C137 Old Footprint=C0402 New Footprint=C1206 - polarised
+Change Component Comment : Designator=C137 Old Comment=1u New Comment=220u, 4V
+Added Pin To Net: NetName=AUD_HP_L Pin=C137-1

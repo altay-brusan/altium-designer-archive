@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USBDN3_CON_N Pin=D13-2
+Removed Pin From Net: NetName=USBDN3_CON_P Pin=D13-4
+Added Pin To Net: NetName=USBDN3_CON_P Pin=D13-2
+Added Pin To Net: NetName=USBDN3_CON_N Pin=D13-4

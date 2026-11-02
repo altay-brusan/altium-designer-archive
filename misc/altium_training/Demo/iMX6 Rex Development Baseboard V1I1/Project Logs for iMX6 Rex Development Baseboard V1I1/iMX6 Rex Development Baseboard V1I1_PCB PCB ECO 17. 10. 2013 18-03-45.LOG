@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=J29-14
+Change Component DesignItemId : Designator=J29 Old DesignItemId=DM3AT-SF-PEJM5 New DesignItemId=DM3C-SF
+Change Component Footprint: Designator=J29 Old Footprint=uSD_DM3AT New Footprint=uSD_DM3CS
+Change Component Comment : Designator=J29 Old Comment=DM3AT-SF-PEJM5 New Comment=DM3C-SF

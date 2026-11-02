@@ -1,0 +1,4 @@
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=Test Point
+Change Component Designator: OldDesignator=Designator1 NewDesignator=TP2
+Change Component Kind : Designator=TP2 Old Kind=Standard New Kind=Standard (No BOM)
+Added Member To Class: ClassName=[2] Page 2 Member=Component TP2 Test Point

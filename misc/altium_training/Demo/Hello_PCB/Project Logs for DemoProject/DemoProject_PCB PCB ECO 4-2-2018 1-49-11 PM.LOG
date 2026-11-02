@@ -1,0 +1,25 @@
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=A2 Pin=P1-8
+Added Pin To Net: NetName=A2 Pin=U1-25
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=P1-7
+Added Pin To Net: NetName=A3 Pin=U1-26
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=P1-5
+Added Pin To Net: NetName=A4 Pin=P1-6
+Added Pin To Net: NetName=A4 Pin=U1-27
+Added Pin To Net: NetName=A4 Pin=U1-28
+Added Net: Name=A4
+Added Pin To Net: NetName=D0 Pin=P1-3
+Added Pin To Net: NetName=D0 Pin=U1-30
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=P1-2
+Added Pin To Net: NetName=D1 Pin=U1-31
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=P1-1
+Added Pin To Net: NetName=D2 Pin=U1-32
+Added Net: Name=D2
+Added Pin To Net: NetName=RST Pin=P1-4
+Added Pin To Net: NetName=RST Pin=U1-29
+Added Net: Name=RST

@@ -1,0 +1,8 @@
+Added Component: Designator=C203(C0402)
+Added Component: Designator=C204(C0402)
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=C203-1
+Added Pin To Net: NetName=GND Pin=C203-2
+Added Pin To Net: NetName=+1V5_MPCIE1 Pin=C204-1
+Added Pin To Net: NetName=GND Pin=C204-2
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component C203 100n
+Added Member To Class: ClassName=[04] - MINI PCIE, PCIE Member=Component C204 100n

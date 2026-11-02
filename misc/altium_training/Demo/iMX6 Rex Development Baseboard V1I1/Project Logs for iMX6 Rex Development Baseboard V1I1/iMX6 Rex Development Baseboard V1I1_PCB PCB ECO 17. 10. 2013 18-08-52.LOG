@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=C150-2
+Removed Pin From Net: NetName=GND Pin=C151-2
+Removed Pin From Net: NetName=GND Pin=C152-2
+Removed Pin From Net: NetName=GND Pin=C153-2
+Removed Pin From Net: NetName=GND Pin=C154-2
+Removed Pin From Net: NetName=GND Pin=C155-2
+Removed Pin From Net: NetName=GND Pin=C156-2
+Removed Pin From Net: NetName=+3V3 Pin=FB19-1
+Removed Pin From Net: NetName=SD2_CD Pin=R103-2
+Removed Pin From Net: NetName=SD2_WP Pin=R104-2
+Removed Pin From Net: NetName=GND Pin=U15-AA4
+Removed Pin From Net: NetName=GND Pin=U15-AA6
+Removed Pin From Net: NetName=SD2_DATA0 Pin=U15-H3
+Removed Pin From Net: NetName=SD2_DATA1 Pin=U15-H4
+Removed Pin From Net: NetName=SD2_DATA2 Pin=U15-H5
+Removed Pin From Net: NetName=SD2_DATA3 Pin=U15-J2
+Removed Pin From Net: NetName=SD2_DATA4 Pin=U15-J3
+Removed Pin From Net: NetName=SD2_DATA5 Pin=U15-J4
+Removed Pin From Net: NetName=SD2_DATA6 Pin=U15-J5
+Removed Pin From Net: NetName=SD2_DATA7 Pin=U15-J6
+Removed Pin From Net: NetName=GND Pin=U15-K4
+Removed Pin From Net: NetName=GND Pin=U15-M7
+Removed Pin From Net: NetName=GND Pin=U15-P5
+Removed Pin From Net: NetName=GND Pin=U15-R10
+Removed Pin From Net: NetName=GND Pin=U15-U8
+Removed Pin From Net: NetName=SD2_CMD Pin=U15-W5
+Removed Pin From Net: NetName=SD2_CLK Pin=U15-W6
+Removed Pin From Net: NetName=GND Pin=U15-Y2
+Removed Pin From Net: NetName=GND Pin=U15-Y5
+Removed Member From Class: ClassName=[12] - MMC FLASH, uSD Member=C150
+Removed Member From Class: ClassName=[12] - MMC FLASH, uSD Member=C151
+Removed Member From Class: ClassName=[12] - MMC FLASH, uSD Member=C152
+Removed Member From Class: ClassName=[12] - MMC FLASH, uSD Member=C153
+Removed Member From Class: ClassName=[12] - MMC FLASH, uSD Member=C154
+Removed Member From Class: ClassName=[12] - MMC FLASH, uSD Member=C155
+Removed Member From Class: ClassName=[12] - MMC FLASH, uSD Member=C156
+Removed Member From Class: ClassName=[12] - MMC FLASH, uSD Member=FB19
+Removed Member From Class: ClassName=[12] - MMC FLASH, uSD Member=TP1
+Change Component DesignItemId : Designator=J29 Old DesignItemId=DM3C-SF New DesignItemId=DM3AT-SF-PEJM5
+Change Component Footprint: Designator=J29 Old Footprint=uSD_DM3CS New Footprint=uSD_DM3AT
+Change Component Comment : Designator=J29 Old Comment=DM3C-SF New Comment=DM3AT-SF-PEJM5
+Added Component: Designator=J?(uSD_DM3CS)
+Added Pin To Net: NetName=+3V3 Pin=C157-1
+Added Pin To Net: NetName=GND Pin=J29-14
+Added Pin To Net: NetName=SD2_DATA2 Pin=J?-1
+Added Pin To Net: NetName=SD2_DATA3 Pin=J?-2
+Added Pin To Net: NetName=SD2_CMD Pin=J?-3
+Added Pin To Net: NetName=+3V3 Pin=J?-4
+Added Pin To Net: NetName=SD2_CLK Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=SD2_DATA0 Pin=J?-7
+Added Pin To Net: NetName=SD2_DATA1 Pin=J?-8
+Added Pin To Net: NetName=SD2_CD Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-11
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=GND Pin=J?-13
+Added Pin To Net: NetName=SD2_WP Pin=R103-2
+Added Pin To Net: NetName=SD2_CD Pin=R104-2
+Added Member To Class: ClassName=[12] - MMC FLASH, uSD Member=Component J? DM3C-SF
