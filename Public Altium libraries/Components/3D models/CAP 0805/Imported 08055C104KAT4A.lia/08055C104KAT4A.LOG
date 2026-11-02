@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : 08055C104KAT4A.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Demo\Tracking System\Downloads\CAP 0805\08055C104KAT4A.lia
+    Section : PCB Library - 08055C104KAT4A.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 08055C104KAT4A On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 167
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 08055C104KAT4A.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+        EndSection
+
+        Section : Generating SCH Library - 08055C104KAT4A.SchLib
+        EndSection
+    EndSection
+EndSection

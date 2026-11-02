@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : MPU-9250.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Demo\Tracking System\Downloads\MPU\MPU-9250.lia
+    Section : PCB Library - MPU-9250.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MPU-9250 On Line 189
+            Warning - 1 : Skipping Token attachedSymbol On Line 366
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MPU-9250.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 135
+            Warning - 1 : Skipping Token layerContents On Line 141
+            Warning - 1 : Skipping Token layerContents On Line 150
+            Warning - 1 : Skipping Token layerContents On Line 164
+            Warning - 1 : Skipping Token layerContents On Line 173
+        EndSection
+
+        Section : Generating SCH Library - MPU-9250.SchLib
+        EndSection
+    EndSection
+EndSection

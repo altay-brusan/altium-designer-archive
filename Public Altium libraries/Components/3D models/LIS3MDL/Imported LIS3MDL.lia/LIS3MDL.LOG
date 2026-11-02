@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : LIS3MDL.LibPkg
+
+Section : D:\Projects\Magnetometer Sensor Array System\Design Files\Altium Specific Files\Altium Integrated Library\LIS3MDL\LIS3MDL.lia
+    Section : PCB Library - LIS3MDL.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LIS3MDL On Line 120
+            Warning - 1 : Skipping Token attachedSymbol On Line 268
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*LGA12_ST][Primary] associated with PCAD Component [LIS3MDL] has been renamed to PCB FootPrint [*LGA12_ST_LIS3MDL(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - LIS3MDL.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token isVisible On Line 236
+        EndSection
+
+        Section : Generating SCH Library - LIS3MDL.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*LGA12_ST][Primary] associated with PCAD Component [LIS3MDL] has been renamed to PCB FootPrint [*LGA12_ST_LIS3MDL(Primary)].
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : DMP2160UW-7.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Motor Tracking System\Design Files\Altium Specific Files\Altium Integrated Library\3D models\DMP2160UW-7\DMP2160UW-7.lia
+    Section : PCB Library - DMP2160UW-7.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token DMP2160UW-7 On Line 126
+            Warning - 1 : Skipping Token attachedSymbol On Line 206
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - DMP2160UW-7.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 117
+        EndSection
+
+        Section : Generating SCH Library - DMP2160UW-7.SchLib
+        EndSection
+    EndSection
+EndSection

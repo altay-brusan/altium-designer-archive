@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : 78646-3001.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Demo\Tracking System\Downloads\SIM\78646-3001\78646-3001.lia
+    Section : PCB Library - 78646-3001.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 78646-3001 On Line 172
+            Warning - 1 : Skipping Token attachedSymbol On Line 319
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*MOLEX_78646-3001][Primary] associated with PCAD Component [78646-3001] has been renamed to PCB FootPrint [*MOLEX_78646-3001_78646-3001(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 78646-3001.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token multiLayer On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token layerContents On Line 145
+            Warning - 1 : Skipping Token layerContents On Line 154
+            Warning - 1 : Skipping Token layerContents On Line 164
+        EndSection
+
+        Section : Generating SCH Library - 78646-3001.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*MOLEX_78646-3001][Primary] associated with PCAD Component [78646-3001] has been renamed to PCB FootPrint [*MOLEX_78646-3001_78646-3001(Primary)].
+        EndSection
+    EndSection
+EndSection

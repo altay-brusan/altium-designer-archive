@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : C0805C101JAGAC7800.LibPkg
+
+Section : D:\Projects\Water Tank Telemeter\Design Files\Altium Specific Files\Altium Integrated Library\C0805C101JAGAC7800\C0805C101JAGAC7800.lia
+    Section : PCB Library - C0805C101JAGAC7800.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token C0805C101JAGAC7800 On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 167
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - C0805C101JAGAC7800.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 102
+        EndSection
+
+        Section : Generating SCH Library - C0805C101JAGAC7800.SchLib
+        EndSection
+    EndSection
+EndSection

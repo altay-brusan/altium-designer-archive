@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Kemet";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"RS_STOCK_NUMBER";"8354061";"";
+"REVISION";"A";"";
+"DESIGN";"Ceramic Cap C0G 200V 0603 1nF FT-CAP";"";
+"TraceParts.InstanceId";"10-07092016-111317C1ZBRKENMGY5PB2KGB9R3NQ1T";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Ceramic Cap C0G 200V 0603 1nF FT-CAP";"";
+"REFERENCE";"C0603X102J2GACAUTO";"";
+"TIMESTAMP";"01/08/2016 14:34";"";
+"TraceParts.PartNumber";"10-07092016-111317";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_432964/PSS_432965/PSF_432971/10-07092016-111317";"";

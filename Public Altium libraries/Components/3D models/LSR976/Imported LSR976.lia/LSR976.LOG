@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : LSR976.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Motor Tracking System\Design Files\Altium Specific Files\Altium Integrated Library\3D models\LSR976\LSR976.lia
+    Section : PCB Library - LSR976.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LED On Line 106
+            Warning - 1 : Skipping Token attachedSymbol On Line 168
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*0805_R][Primary] associated with PCAD Component [LSR976] has been renamed to PCB FootPrint [*0805_R_LSR976(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - LSR976.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 96
+        EndSection
+
+        Section : Generating SCH Library - LSR976.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*0805_R][Primary] associated with PCAD Component [LSR976] has been renamed to PCB FootPrint [*0805_R_LSR976(Primary)].
+        EndSection
+    EndSection
+EndSection

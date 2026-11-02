@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : 2019-10-13_18-26-35.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Demo\Motor Tracking System\Design Files\Altium Specific Files\Altium Integrated Library\3D models\res\AltiumV14\2019-10-13_18-26-35.lia
+    Section : PCB Library - 2019-10-13_18-26-35.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token poly On Line 346
+            Warning - 1 : Skipping Token poly On Line 415
+            Warning - 1 : Skipping Token poly On Line 478
+            Warning - 1 : Skipping Token RES On Line 538
+            Warning - 1 : Skipping Token RESV On Line 566
+            Warning - 1 : Skipping Token attachedSymbol On Line 606
+            Warning - 1 : Skipping Token attachedSymbol On Line 607
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 2019-10-13_18-26-35.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token padStyleDef On Line 20
+            Warning - 1 : Skipping Token padStyleDef On Line 30
+            Warning - 1 : Skipping Token patternDef On Line 337
+            Warning - 1 : Skipping Token patternDef On Line 406
+            Warning - 1 : Skipping Token patternDef On Line 469
+        EndSection
+
+        Section : Generating SCH Library - 2019-10-13_18-26-35.SchLib
+        EndSection
+    EndSection
+EndSection

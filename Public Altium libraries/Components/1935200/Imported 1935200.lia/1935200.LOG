@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 1935200.LibPkg
+
+Section : D:\Projects\Water Tank Telemeter\Design Files\Altium Specific Files\Altium Integrated Library\1935200\1935200.lia
+    Section : PCB Library - 1935200.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1935200 On Line 137
+            Warning - 1 : Skipping Token attachedSymbol On Line 224
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1935200.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 126
+        EndSection
+
+        Section : Generating SCH Library - 1935200.SchLib
+        EndSection
+    EndSection
+EndSection

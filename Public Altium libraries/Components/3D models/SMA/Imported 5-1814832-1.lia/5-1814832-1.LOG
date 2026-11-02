@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 5-1814832-1.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Demo\Tracking System\Downloads\SMA\5-1814832-1.lia
+    Section : PCB Library - 5-1814832-1.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 5-1814832-1 On Line 133
+            Warning - 1 : Skipping Token attachedSymbol On Line 228
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 5-1814832-1.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 123
+        EndSection
+
+        Section : Generating SCH Library - 5-1814832-1.SchLib
+        EndSection
+    EndSection
+EndSection

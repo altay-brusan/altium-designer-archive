@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ATMEGA328P-AUR.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Demo\Tracking System\Downloads\ATMEGA328P-AUR\ATMEGA328P-AUR.lia
+    Section : PCB Library - ATMEGA328P-AUR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ATMEGA328P-AUR On Line 155
+            Warning - 1 : Skipping Token attachedSymbol On Line 502
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ATMEGA328P-AUR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 135
+            Warning - 1 : Skipping Token layerContents On Line 144
+        EndSection
+
+        Section : Generating SCH Library - ATMEGA328P-AUR.SchLib
+        EndSection
+    EndSection
+EndSection

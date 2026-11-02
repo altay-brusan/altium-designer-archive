@@ -1,0 +1,25 @@
+PCAD Importer Log
+Project : 2019-10-10_10-37-25.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Demo\Motor Tracking System\Design Files\Altium Specific Files\Altium Integrated Library\3D models\UL_MS621FEFL11E\AltiumV14\AltiumV14\2019-10-10_10-37-25.lia
+    Section : PCB Library - 2019-10-10_10-37-25.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MS621FE-FL11E On Line 367
+            Warning - 1 : Skipping Token attachedSymbol On Line 403
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 2019-10-10_10-37-25.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token padStyleDef On Line 20
+            Warning - 1 : Skipping Token patternDef On Line 305
+        EndSection
+
+        Section : Generating SCH Library - 2019-10-10_10-37-25.SchLib
+        EndSection
+    EndSection
+EndSection

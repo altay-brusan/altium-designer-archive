@@ -1,0 +1,19 @@
+# Whitelist: only the archive folders are tracked in this repo.
+/*
+!/.gitignore
+!/README.md
+!/Public Altium libraries/
+!/Public Altium scripts/
+!/Public Altium tools/
+!/Trainings/
+
+# Zip archives duplicate the extracted folders (and exceed GitHub's 100 MB limit)
+/Public Altium tools/Examples.zip
+/Public Altium tools/Reference-Designs.zip
+
+# OS / Altium noise
+desktop.ini
+Thumbs.db
+History/
+__Previews/
+*.PrjPcbStructure

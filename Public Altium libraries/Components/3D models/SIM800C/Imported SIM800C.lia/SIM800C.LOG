@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : SIM800C.LibPkg
+
+Section : C:\Users\Altay\Documents\Altium\Projects\Demo\Motor Tracking System\Design Files\Altium Specific Files\Altium Integrated Library\3D models\SIM800C\SIM800C.lia
+    Section : PCB Library - SIM800C.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SIM800C On Line 201
+            Warning - 1 : Skipping Token attachedSymbol On Line 648
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SIM800C.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 156
+            Warning - 1 : Skipping Token layerContents On Line 164
+            Warning - 1 : Skipping Token layerContents On Line 172
+            Warning - 1 : Skipping Token layerContents On Line 176
+            Warning - 1 : Skipping Token layerContents On Line 180
+            Warning - 1 : Skipping Token layerContents On Line 188
+        EndSection
+
+        Section : Generating SCH Library - SIM800C.SchLib
+        EndSection
+    EndSection
+EndSection

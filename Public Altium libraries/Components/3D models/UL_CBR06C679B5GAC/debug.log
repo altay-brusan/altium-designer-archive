@@ -1,0 +1,8 @@
+[0919/172822:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0919/172822:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0919/210228:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0919/223050:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0920/080422:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0920/080427:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0920/080433:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0920/080438:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

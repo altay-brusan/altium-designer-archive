@@ -1,0 +1,9 @@
+Manufacturer=SII Semiconductor
+PartNumber=FS8205A
+PartCategory=Transistor
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2017-08-22 15:57:04
+Downloaded=2019-09-20 06:49:50
+3D=Y
